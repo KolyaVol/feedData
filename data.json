@@ -1,67 +1,57 @@
 {
-  "month": 6,
-  "signs_of_readiness": [
-    "всегда после прикорма",
-    "не заменяется прикормом в 6 месяцев"
-  ],
-  "safety_guidelines": [
-    "ускоренное введение продуктов снижает выявляемость аллергии",
-    "смешивание новых и старых продуктов затрудняет диагностику",
-    "раннее введение фруктов может снизить интерес к овощам",
-    "замена грудного молока прикормом в 6 месяцев приводит к дефицитам"
-  ],
+  "month": 7,
   "weekly_schedule": [
     {
       "week": 1,
       "days": [
         {
           "day": 1,
-          "time": "09:00-11:00",
+          "time": "08:00-10:00",
           "food_type": "meal-plan",
-          "food": "гречневая каша",
-          "amount_grams": 5
+          "food": "каша",
+          "amount_grams": 70999999
         },
         {
           "day": 2,
-          "time": "09:00-11:00",
+          "time": "08:00-10:00",
           "food_type": "meal-plan",
-          "food": "гречневая каша",
-          "amount_grams": 100000
+          "food": "каша",
+          "amount_grams": 70
         },
         {
           "day": 3,
-          "time": "09:00-11:00",
+          "time": "08:00-10:00",
           "food_type": "meal-plan",
-          "food": "гречневая каша",
-          "amount_grams": 20
+          "food": "каша",
+          "amount_grams": 70
         },
         {
           "day": 4,
-          "time": "09:00-11:00",
+          "time": "08:00-10:00",
           "food_type": "meal-plan",
-          "food": "гречневая каша",
-          "amount_grams": 30
+          "food": "каша",
+          "amount_grams": 70
         },
         {
           "day": 5,
-          "time": "09:00-11:00",
+          "time": "08:00-10:00",
           "food_type": "meal-plan",
-          "food": "гречневая каша",
-          "amount_grams": 40
+          "food": "каша",
+          "amount_grams": 70
         },
         {
           "day": 6,
-          "time": "09:00-11:00",
+          "time": "08:00-10:00",
           "food_type": "meal-plan",
-          "food": "гречневая каша",
-          "amount_grams": 50
+          "food": "каша",
+          "amount_grams": 70
         },
         {
           "day": 7,
-          "time": "09:00-11:00",
+          "time": "08:00-10:00",
           "food_type": "meal-plan",
-          "food": "гречневая каша",
-          "amount_grams": 60
+          "food": "каша",
+          "amount_grams": 70
         }
       ]
     },
@@ -70,52 +60,52 @@
       "days": [
         {
           "day": 1,
-          "time": "09:00-11:00",
+          "time": "08:00-10:00",
           "food_type": "meal-plan",
-          "food": "рисовая каша",
-          "amount_grams": 5
+          "food": "каша",
+          "amount_grams": 70
         },
         {
           "day": 2,
-          "time": "09:00-11:00",
+          "time": "08:00-10:00",
           "food_type": "meal-plan",
-          "food": "рисовая каша",
-          "amount_grams": 10
+          "food": "каша",
+          "amount_grams": 70
         },
         {
           "day": 3,
-          "time": "09:00-11:00",
+          "time": "08:00-10:00",
           "food_type": "meal-plan",
-          "food": "рисовая каша",
-          "amount_grams": 20
+          "food": "каша",
+          "amount_grams": 70
         },
         {
           "day": 4,
-          "time": "09:00-11:00",
+          "time": "08:00-10:00",
           "food_type": "meal-plan",
-          "food": "рисовая каша",
-          "amount_grams": 30
+          "food": "каша",
+          "amount_grams": 70
         },
         {
           "day": 5,
-          "time": "09:00-11:00",
+          "time": "08:00-10:00",
           "food_type": "meal-plan",
-          "food": "рисовая каша",
-          "amount_grams": 40
+          "food": "каша",
+          "amount_grams": 70
         },
         {
           "day": 6,
-          "time": "09:00-11:00",
+          "time": "08:00-10:00",
           "food_type": "meal-plan",
-          "food": "рисовая каша",
-          "amount_grams": 50
+          "food": "каша",
+          "amount_grams": 70
         },
         {
           "day": 7,
-          "time": "09:00-11:00",
+          "time": "08:00-10:00",
           "food_type": "meal-plan",
-          "food": "рисовая каша",
-          "amount_grams": 60
+          "food": "каша",
+          "amount_grams": 70
         }
       ]
     },
@@ -124,52 +114,52 @@
       "days": [
         {
           "day": 1,
-          "time": "09:00-11:00",
+          "time": "08:00-10:00",
           "food_type": "meal-plan",
-          "food": "кукурузная каша",
-          "amount_grams": 5
+          "food": "гречневая каша",
+          "amount_grams": 70
         },
         {
           "day": 2,
-          "time": "09:00-11:00",
+          "time": "08:00-10:00",
           "food_type": "meal-plan",
-          "food": "кукурузная каша",
-          "amount_grams": 10
+          "food": "рисовая каша",
+          "amount_grams": 70
         },
         {
           "day": 3,
-          "time": "09:00-11:00",
+          "time": "08:00-10:00",
           "food_type": "meal-plan",
           "food": "кукурузная каша",
-          "amount_grams": 20
+          "amount_grams": 70
         },
         {
           "day": 4,
-          "time": "09:00-11:00",
+          "time": "08:00-10:00",
           "food_type": "meal-plan",
-          "food": "кукурузная каша",
-          "amount_grams": 30
+          "food": "гречневая каша",
+          "amount_grams": 70
         },
         {
           "day": 5,
-          "time": "09:00-11:00",
+          "time": "08:00-10:00",
           "food_type": "meal-plan",
-          "food": "кукурузная каша",
-          "amount_grams": 40
+          "food": "рисовая каша",
+          "amount_grams": 70
         },
         {
           "day": 6,
-          "time": "09:00-11:00",
+          "time": "08:00-10:00",
           "food_type": "meal-plan",
           "food": "кукурузная каша",
-          "amount_grams": 50
+          "amount_grams": 70
         },
         {
           "day": 7,
-          "time": "09:00-11:00",
+          "time": "08:00-10:00",
           "food_type": "meal-plan",
-          "food": "кукурузная каша",
-          "amount_grams": 60
+          "food": "гречневая каша",
+          "amount_grams": 70
         }
       ]
     },
@@ -178,52 +168,52 @@
       "days": [
         {
           "day": 1,
-          "time": "09:00-11:00",
+          "time": "08:00-10:00",
           "food_type": "meal-plan",
-          "food": "яблоко",
-          "amount_grams": 5
+          "food": "каша",
+          "amount_grams": 70
         },
         {
           "day": 2,
-          "time": "09:00-11:00",
+          "time": "08:00-10:00",
           "food_type": "meal-plan",
-          "food": "яблоко",
-          "amount_grams": 10
+          "food": "каша",
+          "amount_grams": 70
         },
         {
           "day": 3,
-          "time": "09:00-11:00",
+          "time": "08:00-10:00",
           "food_type": "meal-plan",
-          "food": "яблоко",
-          "amount_grams": 15
+          "food": "каша",
+          "amount_grams": 70
         },
         {
           "day": 4,
-          "time": "09:00-11:00",
+          "time": "08:00-10:00",
           "food_type": "meal-plan",
-          "food": "груша",
-          "amount_grams": 5
+          "food": "каша",
+          "amount_grams": 70
         },
         {
           "day": 5,
-          "time": "09:00-11:00",
+          "time": "08:00-10:00",
           "food_type": "meal-plan",
-          "food": "груша",
-          "amount_grams": 10
+          "food": "каша",
+          "amount_grams": 70
         },
         {
           "day": 6,
-          "time": "09:00-11:00",
+          "time": "08:00-10:00",
           "food_type": "meal-plan",
-          "food": "груша",
-          "amount_grams": 20
+          "food": "каша",
+          "amount_grams": 70
         },
         {
           "day": 7,
-          "time": "09:00-11:00",
+          "time": "08:00-10:00",
           "food_type": "meal-plan",
-          "food": "яблоко",
-          "amount_grams": 30
+          "food": "каша",
+          "amount_grams": 70
         }
       ]
     }
