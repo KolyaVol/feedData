@@ -89,14 +89,15 @@
               "notes": "",
               "morning": {
                 "product": "гречневая каша",
-                "amount_grams": 5
+                "amount_grams": 5000
               },
               "lunch": [
                 {
                   "product": "кабачок",
                   "amount_grams": 30
                 }
-              ]
+              ],
+              "evening": []
             },
             {
               "day": 2,
