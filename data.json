@@ -89,7 +89,7 @@
               "notes": "",
               "morning": {
                 "product": "гречневая каша",
-                "amount_grams": 59
+                "amount_grams": 5
               },
               "lunch": [],
               "evening": []
@@ -99,14 +99,9 @@
               "notes": "",
               "morning": {
                 "product": "гречневая каша",
-                "amount_grams": 10
+                "amount_grams": 109
               },
-              "lunch": [
-                {
-                  "product": "гречневая каша",
-                  "amount_grams": 0
-                }
-              ],
+              "lunch": [],
               "evening": []
             },
             {
