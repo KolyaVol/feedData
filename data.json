@@ -89,12 +89,12 @@
               "notes": "",
               "morning": {
                 "product": "гречневая каша",
-                "amount_grams": 5
+                "amount_grams": 50
               },
               "lunch": [
                 {
                   "product": "кабачок",
-                  "amount_grams": 30
+                  "amount_grams": 3089898979879789
                 }
               ],
               "evening": []
@@ -106,16 +106,8 @@
                 "product": "гречневая каша",
                 "amount_grams": 10
               },
-              "lunch": [
-                {
-                  "product": "кабачок",
-                  "amount_grams": 25
-                },
-                {
-                  "product": "брокколи",
-                  "amount_grams": 25
-                }
-              ]
+              "lunch": [],
+              "evening": []
             },
             {
               "day": 3,
@@ -124,12 +116,8 @@
                 "product": "гречневая каша",
                 "amount_grams": 20
               },
-              "lunch": [
-                {
-                  "product": "брокколи",
-                  "amount_grams": 50
-                }
-              ]
+              "lunch": [],
+              "evening": []
             },
             {
               "day": 4,
@@ -138,12 +126,8 @@
                 "product": "гречневая каша",
                 "amount_grams": 30
               },
-              "lunch": [
-                {
-                  "product": "кабачок",
-                  "amount_grams": 50
-                }
-              ]
+              "lunch": [],
+              "evening": []
             },
             {
               "day": 5,
@@ -152,16 +136,8 @@
                 "product": "гречневая каша",
                 "amount_grams": 40
               },
-              "lunch": [
-                {
-                  "product": "кабачок",
-                  "amount_grams": 25
-                },
-                {
-                  "product": "брокколи",
-                  "amount_grams": 25
-                }
-              ]
+              "lunch": [],
+              "evening": []
             },
             {
               "day": 6,
@@ -170,12 +146,8 @@
                 "product": "гречневая каша",
                 "amount_grams": 50
               },
-              "lunch": [
-                {
-                  "product": "брокколи",
-                  "amount_grams": 50
-                }
-              ]
+              "lunch": [],
+              "evening": []
             },
             {
               "day": 7,
@@ -184,12 +156,8 @@
                 "product": "гречневая каша",
                 "amount_grams": 60
               },
-              "lunch": [
-                {
-                  "product": "кабачок",
-                  "amount_grams": 50
-                }
-              ]
+              "lunch": [],
+              "evening": []
             }
           ]
         },
@@ -205,16 +173,8 @@
                 "product": "рисовая каша",
                 "amount_grams": 5
               },
-              "lunch": [
-                {
-                  "product": "кабачок",
-                  "amount_grams": 30
-                },
-                {
-                  "product": "брокколи",
-                  "amount_grams": 20
-                }
-              ]
+              "lunch": [],
+              "evening": []
             },
             {
               "day": 2,
@@ -223,16 +183,8 @@
                 "product": "рисовая каша",
                 "amount_grams": 10
               },
-              "lunch": [
-                {
-                  "product": "кабачок",
-                  "amount_grams": 25
-                },
-                {
-                  "product": "брокколи",
-                  "amount_grams": 25
-                }
-              ]
+              "lunch": [],
+              "evening": []
             },
             {
               "day": 3,
@@ -241,12 +193,8 @@
                 "product": "рисовая каша",
                 "amount_grams": 20
               },
-              "lunch": [
-                {
-                  "product": "брокколи",
-                  "amount_grams": 50
-                }
-              ]
+              "lunch": [],
+              "evening": []
             },
             {
               "day": 4,
@@ -255,16 +203,8 @@
                 "product": "рисовая каша",
                 "amount_grams": 30
               },
-              "lunch": [
-                {
-                  "product": "кабачок",
-                  "amount_grams": 25
-                },
-                {
-                  "product": "гречневая каша",
-                  "amount_grams": 25
-                }
-              ]
+              "lunch": [],
+              "evening": []
             },
             {
               "day": 5,
@@ -273,16 +213,8 @@
                 "product": "рисовая каша",
                 "amount_grams": 40
               },
-              "lunch": [
-                {
-                  "product": "кабачок",
-                  "amount_grams": 25
-                },
-                {
-                  "product": "брокколи",
-                  "amount_grams": 25
-                }
-              ]
+              "lunch": [],
+              "evening": []
             },
             {
               "day": 6,
@@ -291,12 +223,8 @@
                 "product": "рисовая каша",
                 "amount_grams": 50
               },
-              "lunch": [
-                {
-                  "product": "брокколи",
-                  "amount_grams": 50
-                }
-              ]
+              "lunch": [],
+              "evening": []
             },
             {
               "day": 7,
@@ -305,16 +233,8 @@
                 "product": "рисовая каша",
                 "amount_grams": 60
               },
-              "lunch": [
-                {
-                  "product": "кабачок",
-                  "amount_grams": 25
-                },
-                {
-                  "product": "гречневая каша",
-                  "amount_grams": 25
-                }
-              ]
+              "lunch": [],
+              "evening": []
             }
           ]
         },
@@ -330,16 +250,8 @@
                 "product": "кукурузная каша",
                 "amount_grams": 5
               },
-              "lunch": [
-                {
-                  "product": "кабачок",
-                  "amount_grams": 30
-                },
-                {
-                  "product": "брокколи",
-                  "amount_grams": 20
-                }
-              ]
+              "lunch": [],
+              "evening": []
             },
             {
               "day": 2,
@@ -348,16 +260,8 @@
                 "product": "кукурузная каша",
                 "amount_grams": 10
               },
-              "lunch": [
-                {
-                  "product": "кабачок",
-                  "amount_grams": 25
-                },
-                {
-                  "product": "гречневая каша",
-                  "amount_grams": 25
-                }
-              ]
+              "lunch": [],
+              "evening": []
             },
             {
               "day": 3,
@@ -366,12 +270,8 @@
                 "product": "кукурузная каша",
                 "amount_grams": 20
               },
-              "lunch": [
-                {
-                  "product": "брокколи",
-                  "amount_grams": 50
-                }
-              ]
+              "lunch": [],
+              "evening": []
             },
             {
               "day": 4,
@@ -380,16 +280,8 @@
                 "product": "кукурузная каша",
                 "amount_grams": 30
               },
-              "lunch": [
-                {
-                  "product": "кабачок",
-                  "amount_grams": 25
-                },
-                {
-                  "product": "рисовая каша",
-                  "amount_grams": 25
-                }
-              ]
+              "lunch": [],
+              "evening": []
             },
             {
               "day": 5,
@@ -398,16 +290,8 @@
                 "product": "кукурузная каша",
                 "amount_grams": 40
               },
-              "lunch": [
-                {
-                  "product": "кабачок",
-                  "amount_grams": 25
-                },
-                {
-                  "product": "брокколи",
-                  "amount_grams": 25
-                }
-              ]
+              "lunch": [],
+              "evening": []
             },
             {
               "day": 6,
@@ -416,12 +300,8 @@
                 "product": "кукурузная каша",
                 "amount_grams": 50
               },
-              "lunch": [
-                {
-                  "product": "брокколи",
-                  "amount_grams": 50
-                }
-              ]
+              "lunch": [],
+              "evening": []
             },
             {
               "day": 7,
@@ -430,16 +310,8 @@
                 "product": "кукурузная каша",
                 "amount_grams": 60
               },
-              "lunch": [
-                {
-                  "product": "кабачок",
-                  "amount_grams": 25
-                },
-                {
-                  "product": "гречневая каша",
-                  "amount_grams": 25
-                }
-              ]
+              "lunch": [],
+              "evening": []
             }
           ]
         },
@@ -459,16 +331,8 @@
                 "product": "яблоко",
                 "amount_grams": 5
               },
-              "lunch": [
-                {
-                  "product": "кабачок",
-                  "amount_grams": 30
-                },
-                {
-                  "product": "гречневая каша",
-                  "amount_grams": 25
-                }
-              ]
+              "lunch": [],
+              "evening": []
             },
             {
               "day": 2,
@@ -477,16 +341,8 @@
                 "product": "яблоко",
                 "amount_grams": 10
               },
-              "lunch": [
-                {
-                  "product": "кабачок",
-                  "amount_grams": 25
-                },
-                {
-                  "product": "брокколи",
-                  "amount_grams": 25
-                }
-              ]
+              "lunch": [],
+              "evening": []
             },
             {
               "day": 3,
@@ -495,12 +351,8 @@
                 "product": "яблоко",
                 "amount_grams": 15
               },
-              "lunch": [
-                {
-                  "product": "брокколи",
-                  "amount_grams": 50
-                }
-              ]
+              "lunch": [],
+              "evening": []
             },
             {
               "day": 4,
@@ -509,16 +361,8 @@
                 "product": "груша",
                 "amount_grams": 5
               },
-              "lunch": [
-                {
-                  "product": "кабачок",
-                  "amount_grams": 25
-                },
-                {
-                  "product": "рисовая каша",
-                  "amount_grams": 25
-                }
-              ]
+              "lunch": [],
+              "evening": []
             },
             {
               "day": 5,
@@ -527,16 +371,8 @@
                 "product": "груша",
                 "amount_grams": 10
               },
-              "lunch": [
-                {
-                  "product": "кабачок",
-                  "amount_grams": 25
-                },
-                {
-                  "product": "брокколи",
-                  "amount_grams": 25
-                }
-              ]
+              "lunch": [],
+              "evening": []
             },
             {
               "day": 6,
@@ -545,12 +381,8 @@
                 "product": "груша",
                 "amount_grams": 20
               },
-              "lunch": [
-                {
-                  "product": "брокколи",
-                  "amount_grams": 50
-                }
-              ]
+              "lunch": [],
+              "evening": []
             },
             {
               "day": 7,
@@ -559,16 +391,8 @@
                 "product": "яблоко",
                 "amount_grams": 30
               },
-              "lunch": [
-                {
-                  "product": "кабачок",
-                  "amount_grams": 25
-                },
-                {
-                  "product": "кукурузная каша",
-                  "amount_grams": 25
-                }
-              ]
+              "lunch": [],
+              "evening": []
             }
           ]
         }
