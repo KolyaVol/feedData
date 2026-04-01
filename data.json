@@ -103,8 +103,8 @@
               },
               "lunch": [
                 {
-                  "product": "груша",
-                  "amount_grams": 5
+                  "product": "гречневая каша",
+                  "amount_grams": 0
                 }
               ],
               "evening": []
