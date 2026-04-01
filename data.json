@@ -91,7 +91,12 @@
                 "product": "гречневая каша",
                 "amount_grams": 5
               },
-              "lunch": [],
+              "lunch": [
+                {
+                  "product": "гречневая каша",
+                  "amount_grams": 10
+                }
+              ],
               "evening": []
             },
             {
