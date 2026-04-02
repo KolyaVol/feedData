@@ -88,10 +88,15 @@
               "day": 1,
               "notes": "",
               "morning": {
-                "product": "гречневая каша",
-                "amount_grams": 5
+                "product": "Брокколи ",
+                "amount_grams": 15
               },
-              "lunch": [],
+              "lunch": [
+                {
+                  "product": "кабачок",
+                  "amount_grams": 30
+                }
+              ],
               "evening": []
             },
             {
