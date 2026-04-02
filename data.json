@@ -91,12 +91,7 @@
                 "product": "Брокколи ",
                 "amount_grams": 15
               },
-              "lunch": [
-                {
-                  "product": "кабачок",
-                  "amount_grams": 30
-                }
-              ],
+              "lunch": [],
               "evening": []
             },
             {
@@ -114,9 +109,14 @@
               "notes": "",
               "morning": {
                 "product": "гречневая каша",
-                "amount_grams": 20
+                "amount_grams": 5
               },
-              "lunch": [],
+              "lunch": [
+                {
+                  "product": "Кабачок",
+                  "amount_grams": 47
+                }
+              ],
               "evening": []
             },
             {
