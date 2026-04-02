@@ -101,7 +101,12 @@
                 "product": "Кабачок ",
                 "amount_grams": 479999
               },
-              "lunch": [],
+              "lunch": [
+                {
+                  "product": "Гречка",
+                  "amount_grams": 999999
+                }
+              ],
               "evening": []
             },
             {
