@@ -88,7 +88,7 @@
               "day": 1,
               "notes": "",
               "morning": {
-                "product": "Кабачок",
+                "product": "яблоко",
                 "amount_grams": 15
               },
               "lunch": [
@@ -103,7 +103,7 @@
               "day": 2,
               "notes": "",
               "morning": {
-                "product": "Кабачок ",
+                "product": "яблоко",
                 "amount_grams": 47
               },
               "lunch": [],
@@ -1039,6 +1039,18 @@
           "расширение текстур (кусочки)"
         ]
       }
+    }
+  ],
+  "skipped": [
+    {
+      "id": "1775644902763-u7qroy",
+      "originalProduct": "Кабачок",
+      "previousProducts": [
+        "Кабачок"
+      ],
+      "currentProduct": "яблоко",
+      "currentAmountGrams": 15,
+      "updatedAt": "2026-04-08T10:41:42.763Z"
     }
   ]
 }
