@@ -504,10 +504,12 @@
                   "amount_grams": 5
                 }
               ],
-              "evening": {
-                "product": "яблоко",
-                "amount_grams": 50
-              }
+              "evening": [
+                {
+                  "product": "курица",
+                  "amount_grams": 50
+                }
+              ]
             },
             {
               "day": 2,
@@ -540,10 +542,12 @@
                   "amount_grams": 20
                 }
               ],
-              "evening": {
-                "product": "яблоко",
-                "amount_grams": 60
-              }
+              "evening": [
+                {
+                  "product": "курица",
+                  "amount_grams": 60
+                }
+              ]
             },
             {
               "day": 4,
@@ -594,10 +598,12 @@
                   "amount_grams": 40
                 }
               ],
-              "evening": {
-                "product": "яблоко",
-                "amount_grams": 70
-              }
+              "evening": [
+                {
+                  "product": "курица",
+                  "amount_grams": 70
+                }
+              ]
             },
             {
               "day": 7,
@@ -637,10 +643,12 @@
                   "amount_grams": 5
                 }
               ],
-              "evening": {
-                "product": "яблоко",
-                "amount_grams": 50
-              }
+              "evening": [
+                {
+                  "product": "курица",
+                  "amount_grams": 50
+                }
+              ]
             },
             {
               "day": 2,
@@ -673,10 +681,12 @@
                   "amount_grams": 20
                 }
               ],
-              "evening": {
-                "product": "яблоко",
-                "amount_grams": 60
-              }
+              "evening": [
+                {
+                  "product": "курица",
+                  "amount_grams": 60
+                }
+              ]
             },
             {
               "day": 4,
@@ -727,10 +737,12 @@
                   "amount_grams": 40
                 }
               ],
-              "evening": {
-                "product": "яблоко",
-                "amount_grams": 70
-              }
+              "evening": [
+                {
+                  "product": "курица",
+                  "amount_grams": 70
+                }
+              ]
             },
             {
               "day": 7,
@@ -770,10 +782,12 @@
                   "amount_grams": 40
                 }
               ],
-              "evening": {
-                "product": "яблоко",
-                "amount_grams": 50
-              }
+              "evening": [
+                {
+                  "product": "курица",
+                  "amount_grams": 50
+                }
+              ]
             },
             {
               "day": 2,
@@ -806,10 +820,12 @@
                   "amount_grams": 40
                 }
               ],
-              "evening": {
-                "product": "яблоко",
-                "amount_grams": 60
-              }
+              "evening": [
+                {
+                  "product": "курица",
+                  "amount_grams": 60
+                }
+              ]
             },
             {
               "day": 4,
@@ -860,10 +876,12 @@
                   "amount_grams": 40
                 }
               ],
-              "evening": {
-                "product": "яблоко",
-                "amount_grams": 70
-              }
+              "evening": [
+                {
+                  "product": "курица",
+                  "amount_grams": 70
+                }
+              ]
             },
             {
               "day": 7,
@@ -903,10 +921,12 @@
                   "amount_grams": 5
                 }
               ],
-              "evening": {
-                "product": "яблоко",
-                "amount_grams": 50
-              }
+              "evening": [
+                {
+                  "product": "курица",
+                  "amount_grams": 50
+                }
+              ]
             },
             {
               "day": 2,
@@ -939,10 +959,12 @@
                   "amount_grams": 20
                 }
               ],
-              "evening": {
-                "product": "яблоко",
-                "amount_grams": 60
-              }
+              "evening": [
+                {
+                  "product": "курица",
+                  "amount_grams": 60
+                }
+              ]
             },
             {
               "day": 4,
@@ -993,10 +1015,12 @@
                   "amount_grams": 40
                 }
               ],
-              "evening": {
-                "product": "яблоко",
-                "amount_grams": 70
-              }
+              "evening": [
+                {
+                  "product": "курица",
+                  "amount_grams": 70
+                }
+              ]
             },
             {
               "day": 7,
