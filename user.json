@@ -104,7 +104,7 @@
               "notes": "",
               "morning": {
                 "product": "курица",
-                "amount_grams": 47
+                "amount_grams": 15
               },
               "lunch": [],
               "evening": []
@@ -113,8 +113,8 @@
               "day": 3,
               "notes": "",
               "morning": {
-                "product": "гречневая каша",
-                "amount_grams": 5
+                "product": "курица",
+                "amount_grams": 15
               },
               "lunch": [],
               "evening": []
@@ -123,8 +123,8 @@
               "day": 4,
               "notes": "",
               "morning": {
-                "product": "гречневая каша",
-                "amount_grams": 30
+                "product": "курица",
+                "amount_grams": 15
               },
               "lunch": [],
               "evening": []
@@ -133,8 +133,8 @@
               "day": 5,
               "notes": "",
               "morning": {
-                "product": "гречневая каша",
-                "amount_grams": 40
+                "product": "курица",
+                "amount_grams": 15
               },
               "lunch": [],
               "evening": []
@@ -143,8 +143,8 @@
               "day": 6,
               "notes": "",
               "morning": {
-                "product": "гречневая каша",
-                "amount_grams": 50
+                "product": "курица",
+                "amount_grams": 15
               },
               "lunch": [],
               "evening": []
@@ -153,8 +153,8 @@
               "day": 7,
               "notes": "",
               "morning": {
-                "product": "гречневая каша",
-                "amount_grams": 60
+                "product": "курица",
+                "amount_grams": 15
               },
               "lunch": [],
               "evening": []
@@ -170,8 +170,8 @@
               "day": 1,
               "notes": "",
               "morning": {
-                "product": "индейка",
-                "amount_grams": 5
+                "product": "курица",
+                "amount_grams": 15
               },
               "lunch": [],
               "evening": []
@@ -180,8 +180,8 @@
               "day": 2,
               "notes": "",
               "morning": {
-                "product": "рисовая каша",
-                "amount_grams": 10
+                "product": "курица",
+                "amount_grams": 15
               },
               "lunch": [],
               "evening": []
@@ -190,8 +190,8 @@
               "day": 3,
               "notes": "",
               "morning": {
-                "product": "рисовая каша",
-                "amount_grams": 20
+                "product": "курица",
+                "amount_grams": 15
               },
               "lunch": [],
               "evening": []
@@ -200,8 +200,8 @@
               "day": 4,
               "notes": "",
               "morning": {
-                "product": "рисовая каша",
-                "amount_grams": 30
+                "product": "курица",
+                "amount_grams": 15
               },
               "lunch": [],
               "evening": []
@@ -210,8 +210,8 @@
               "day": 5,
               "notes": "",
               "morning": {
-                "product": "рисовая каша",
-                "amount_grams": 40
+                "product": "курица",
+                "amount_grams": 15
               },
               "lunch": [],
               "evening": []
@@ -220,8 +220,8 @@
               "day": 6,
               "notes": "",
               "morning": {
-                "product": "рисовая каша",
-                "amount_grams": 50
+                "product": "курица",
+                "amount_grams": 15
               },
               "lunch": [],
               "evening": []
@@ -230,8 +230,8 @@
               "day": 7,
               "notes": "",
               "morning": {
-                "product": "рисовая каша",
-                "amount_grams": 60
+                "product": "курица",
+                "amount_grams": 15
               },
               "lunch": [],
               "evening": []
@@ -247,8 +247,8 @@
               "day": 1,
               "notes": "",
               "morning": {
-                "product": "кукурузная каша",
-                "amount_grams": 5
+                "product": "курица",
+                "amount_grams": 15
               },
               "lunch": [],
               "evening": []
@@ -257,8 +257,8 @@
               "day": 2,
               "notes": "",
               "morning": {
-                "product": "кукурузная каша",
-                "amount_grams": 10
+                "product": "курица",
+                "amount_grams": 15
               },
               "lunch": [],
               "evening": []
@@ -267,8 +267,8 @@
               "day": 3,
               "notes": "",
               "morning": {
-                "product": "кукурузная каша",
-                "amount_grams": 20
+                "product": "курица",
+                "amount_grams": 15
               },
               "lunch": [],
               "evening": []
@@ -277,8 +277,8 @@
               "day": 4,
               "notes": "",
               "morning": {
-                "product": "кукурузная каша",
-                "amount_grams": 30
+                "product": "курица",
+                "amount_grams": 15
               },
               "lunch": [],
               "evening": []
@@ -287,8 +287,8 @@
               "day": 5,
               "notes": "",
               "morning": {
-                "product": "кукурузная каша",
-                "amount_grams": 40
+                "product": "курица",
+                "amount_grams": 15
               },
               "lunch": [],
               "evening": []
@@ -297,8 +297,8 @@
               "day": 6,
               "notes": "",
               "morning": {
-                "product": "кукурузная каша",
-                "amount_grams": 50
+                "product": "курица",
+                "amount_grams": 15
               },
               "lunch": [],
               "evening": []
@@ -307,8 +307,8 @@
               "day": 7,
               "notes": "",
               "morning": {
-                "product": "кукурузная каша",
-                "amount_grams": 60
+                "product": "курица",
+                "amount_grams": 15
               },
               "lunch": [],
               "evening": []
@@ -329,7 +329,7 @@
               "notes": "",
               "morning": {
                 "product": "курица",
-                "amount_grams": 5
+                "amount_grams": 15
               },
               "lunch": [],
               "evening": []
@@ -339,7 +339,7 @@
               "notes": "",
               "morning": {
                 "product": "курица",
-                "amount_grams": 10
+                "amount_grams": 15
               },
               "lunch": [],
               "evening": []
@@ -358,8 +358,8 @@
               "day": 4,
               "notes": "",
               "morning": {
-                "product": "груша",
-                "amount_grams": 5
+                "product": "курица",
+                "amount_grams": 15
               },
               "lunch": [],
               "evening": []
@@ -368,8 +368,8 @@
               "day": 5,
               "notes": "",
               "morning": {
-                "product": "груша",
-                "amount_grams": 10
+                "product": "курица",
+                "amount_grams": 15
               },
               "lunch": [],
               "evening": []
@@ -378,8 +378,8 @@
               "day": 6,
               "notes": "",
               "morning": {
-                "product": "груша",
-                "amount_grams": 20
+                "product": "курица",
+                "amount_grams": 15
               },
               "lunch": [],
               "evening": []
@@ -389,7 +389,7 @@
               "notes": "",
               "morning": {
                 "product": "курица",
-                "amount_grams": 30
+                "amount_grams": 15
               },
               "lunch": [],
               "evening": []
