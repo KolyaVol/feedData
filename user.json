@@ -1141,7 +1141,7 @@
               },
               "lunch": [
                 {
-                  "product": "индейка",
+                  "product": "яблоко",
                   "amount_grams": 40
                 }
               ],
@@ -1161,7 +1161,7 @@
               },
               "lunch": [
                 {
-                  "product": "индейка",
+                  "product": "яблоко",
                   "amount_grams": 40
                 }
               ],
@@ -1181,7 +1181,7 @@
               },
               "lunch": [
                 {
-                  "product": "индейка",
+                  "product": "яблоко",
                   "amount_grams": 40
                 }
               ],
@@ -1355,7 +1355,7 @@
               },
               "lunch": [
                 {
-                  "product": "индейка",
+                  "product": "яблоко",
                   "amount_grams": 40
                 }
               ],
@@ -1395,7 +1395,7 @@
               },
               "lunch": [
                 {
-                  "product": "индейка",
+                  "product": "яблоко",
                   "amount_grams": 40
                 }
               ],
@@ -1435,7 +1435,7 @@
               },
               "lunch": [
                 {
-                  "product": "индейка",
+                  "product": "яблоко",
                   "amount_grams": 40
                 }
               ],
@@ -1475,7 +1475,7 @@
               },
               "lunch": [
                 {
-                  "product": "индейка",
+                  "product": "яблоко",
                   "amount_grams": 40
                 }
               ],
@@ -1664,14 +1664,14 @@
   ],
   "skipped": [
     {
-      "id": "1775643639010-u63ojo",
-      "originalProduct": "курица",
+      "id": "1775643669339-0gcuap",
+      "originalProduct": "индейка",
       "previousProducts": [
-        "курица"
+        "индейка"
       ],
-      "currentProduct": "кролик",
-      "currentAmountGrams": 70,
-      "updatedAt": "2026-04-08T10:20:39.010Z"
+      "currentProduct": "яблоко",
+      "currentAmountGrams": 40,
+      "updatedAt": "2026-04-08T10:21:09.339Z"
     }
   ]
 }
