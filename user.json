@@ -506,7 +506,7 @@
               ],
               "evening": [
                 {
-                  "product": "курица",
+                  "product": "яблоко",
                   "amount_grams": 15
                 }
               ]
@@ -515,7 +515,7 @@
               "day": 2,
               "notes": "рисовая каша, 70-90 г; груша, 50-60 г",
               "morning": {
-                "product": "гречневая каша",
+                "product": "яблоко",
                 "amount_grams": 15
               },
               "lunch": [
@@ -546,7 +546,7 @@
               ],
               "evening": [
                 {
-                  "product": "курица",
+                  "product": "яблоко",
                   "amount_grams": 15
                 }
               ]
@@ -555,7 +555,7 @@
               "day": 4,
               "notes": "гречневая каша, 80-100 г; груша, 60-70 г",
               "morning": {
-                "product": "гречневая каша",
+                "product": "яблоко",
                 "amount_grams": 15
               },
               "lunch": [
@@ -575,7 +575,7 @@
               "day": 5,
               "notes": "рисовая каша, 70-90 г; яблоко+груша, 60-70 г",
               "morning": {
-                "product": "гречневая каша",
+                "product": "яблоко",
                 "amount_grams": 15
               },
               "lunch": [
@@ -606,7 +606,7 @@
               ],
               "evening": [
                 {
-                  "product": "курица",
+                  "product": "яблоко",
                   "amount_grams": 15
                 }
               ]
@@ -615,7 +615,7 @@
               "day": 7,
               "notes": "гречневая каша, 80-100 г; груша, 60-70 г",
               "morning": {
-                "product": "гречневая каша",
+                "product": "яблоко",
                 "amount_grams": 15
               },
               "lunch": [
@@ -653,7 +653,7 @@
               ],
               "evening": [
                 {
-                  "product": "курица",
+                  "product": "яблоко",
                   "amount_grams": 15
                 }
               ]
@@ -662,7 +662,7 @@
               "day": 2,
               "notes": "рисовая каша, 70-90 г; груша, 50-60 г",
               "morning": {
-                "product": "гречневая каша",
+                "product": "яблоко",
                 "amount_grams": 15
               },
               "lunch": [
@@ -693,7 +693,7 @@
               ],
               "evening": [
                 {
-                  "product": "курица",
+                  "product": "яблоко",
                   "amount_grams": 15
                 }
               ]
@@ -702,7 +702,7 @@
               "day": 4,
               "notes": "гречневая каша, 80-100 г; груша, 60-70 г",
               "morning": {
-                "product": "гречневая каша",
+                "product": "яблоко",
                 "amount_grams": 15
               },
               "lunch": [
@@ -722,7 +722,7 @@
               "day": 5,
               "notes": "рисовая каша, 70-90 г; яблоко+груша, 60-70 г",
               "morning": {
-                "product": "гречневая каша",
+                "product": "яблоко",
                 "amount_grams": 15
               },
               "lunch": [
@@ -753,7 +753,7 @@
               ],
               "evening": [
                 {
-                  "product": "курица",
+                  "product": "яблоко",
                   "amount_grams": 15
                 }
               ]
@@ -762,7 +762,7 @@
               "day": 7,
               "notes": "гречневая каша, 80-100 г; груша, 60-70 г",
               "morning": {
-                "product": "гречневая каша",
+                "product": "яблоко",
                 "amount_grams": 15
               },
               "lunch": [
@@ -800,7 +800,7 @@
               ],
               "evening": [
                 {
-                  "product": "курица",
+                  "product": "яблоко",
                   "amount_grams": 15
                 }
               ]
@@ -809,7 +809,7 @@
               "day": 2,
               "notes": "рисовая каша, 70-90 г; груша, 50-60 г",
               "morning": {
-                "product": "гречневая каша",
+                "product": "яблоко",
                 "amount_grams": 15
               },
               "lunch": [
@@ -840,7 +840,7 @@
               ],
               "evening": [
                 {
-                  "product": "курица",
+                  "product": "яблоко",
                   "amount_grams": 15
                 }
               ]
@@ -849,7 +849,7 @@
               "day": 4,
               "notes": "гречневая каша, 80-100 г; груша, 60-70 г",
               "morning": {
-                "product": "гречневая каша",
+                "product": "яблоко",
                 "amount_grams": 15
               },
               "lunch": [
@@ -869,7 +869,7 @@
               "day": 5,
               "notes": "рисовая каша, 70-90 г; яблоко+груша, 60-70 г",
               "morning": {
-                "product": "гречневая каша",
+                "product": "яблоко",
                 "amount_grams": 15
               },
               "lunch": [
@@ -900,7 +900,7 @@
               ],
               "evening": [
                 {
-                  "product": "курица",
+                  "product": "яблоко",
                   "amount_grams": 15
                 }
               ]
@@ -909,7 +909,7 @@
               "day": 7,
               "notes": "гречневая каша, 80-100 г; груша, 60-70 г",
               "morning": {
-                "product": "гречневая каша",
+                "product": "яблоко",
                 "amount_grams": 15
               },
               "lunch": [
@@ -947,8 +947,8 @@
               ],
               "evening": [
                 {
-                  "product": "курица",
-                  "amount_grams": 50
+                  "product": "яблоко",
+                  "amount_grams": 15
                 }
               ]
             },
@@ -961,7 +961,7 @@
               },
               "lunch": [
                 {
-                  "product": "курица",
+                  "product": "яблоко",
                   "amount_grams": 15
                 }
               ],
@@ -987,8 +987,8 @@
               ],
               "evening": [
                 {
-                  "product": "курица",
-                  "amount_grams": 60
+                  "product": "яблоко",
+                  "amount_grams": 15
                 }
               ]
             },
@@ -1001,7 +1001,7 @@
               },
               "lunch": [
                 {
-                  "product": "курица",
+                  "product": "яблоко",
                   "amount_grams": 15
                 }
               ],
@@ -1021,7 +1021,7 @@
               },
               "lunch": [
                 {
-                  "product": "курица",
+                  "product": "яблоко",
                   "amount_grams": 15
                 }
               ],
@@ -1047,8 +1047,8 @@
               ],
               "evening": [
                 {
-                  "product": "курица",
-                  "amount_grams": 70
+                  "product": "яблоко",
+                  "amount_grams": 15
                 }
               ]
             },
@@ -1061,7 +1061,7 @@
               },
               "lunch": [
                 {
-                  "product": "курица",
+                  "product": "яблоко",
                   "amount_grams": 15
                 }
               ],
