@@ -88,7 +88,7 @@
               "day": 1,
               "notes": "",
               "morning": {
-                "product": "Кабачок",
+                "product": "груша",
                 "amount_grams": 15
               },
               "lunch": [
@@ -103,8 +103,8 @@
               "day": 2,
               "notes": "",
               "morning": {
-                "product": "Кабачок ",
-                "amount_grams": 47
+                "product": "груша",
+                "amount_grams": 15
               },
               "lunch": [],
               "evening": []
@@ -1039,6 +1039,20 @@
           "расширение текстур (кусочки)"
         ]
       }
+    }
+  ],
+  "skipped": [
+    {
+      "id": "1775730093118-84muwc",
+      "mealType": "morning",
+      "originalProduct": "Кабачок",
+      "previousProducts": [
+        "Кабачок"
+      ],
+      "currentProduct": "груша",
+      "currentAmountGrams": 15,
+      "skippedAt": "2026-04-09T10:21:33.118Z",
+      "updatedAt": "2026-04-09T10:21:33.118Z"
     }
   ]
 }
