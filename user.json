@@ -227,7 +227,9 @@
     "lunch": [],
     "evening": [],
     "notes": "Полная порция брокколи",
-    "eaten": {}
+    "eaten": {
+      "morning": false
+    }
   },
   {
     "id": "d-015",
