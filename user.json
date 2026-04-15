@@ -2,7 +2,12 @@
   {
     "date": "2026-04-15",
     "morning": [],
-    "lunch": [],
+    "lunch": [
+      {
+        "product": "Тыква",
+        "grams": 47
+      }
+    ],
     "evening": [],
     "notes": "",
     "id": "1776233043494-r1jcyzh"
