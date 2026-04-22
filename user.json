@@ -6,23 +6,11 @@
       {
         "product": "Тыква",
         "grams": 47
-      },
-      {
-        "product": "Брокколи",
-        "grams": 15
       }
     ],
-    "evening": [
-      {
-        "product": "Гречка",
-        "grams": 32
-      },
-      {
-        "product": "Индейка",
-        "grams": 5
-      }
-    ],
+    "evening": [],
     "notes": "",
-    "id": "1776233043494-r1jcyzh"
+    "id": "1776233043494-r1jcyzh",
+    "eaten": {}
   }
 ]
