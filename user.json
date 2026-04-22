@@ -6,9 +6,22 @@
       {
         "product": "Тыква",
         "grams": 47
+      },
+      {
+        "product": "Брокколи",
+        "grams": 15
       }
     ],
-    "evening": [],
+    "evening": [
+      {
+        "product": "Гречка",
+        "grams": 32
+      },
+      {
+        "product": "Индейка",
+        "grams": 5
+      }
+    ],
     "notes": "",
     "id": "1776233043494-r1jcyzh"
   }
