@@ -438,7 +438,8 @@
     "evening": [],
     "notes": "",
     "eaten": {
-      "lunch": false
+      "lunch": true,
+      "morning": true
     }
   },
   {
