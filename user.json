@@ -637,7 +637,12 @@
   },
   {
     "date": "2026-05-02",
-    "morning": [],
+    "morning": [
+      {
+        "product": "цветная капуста",
+        "grams": 40
+      }
+    ],
     "lunch": [],
     "evening": [],
     "notes": "",
