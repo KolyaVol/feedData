@@ -5,7 +5,7 @@
     "morning": [
       {
         "product": "кабачок",
-        "grams": 5
+        "grams": 959999
       },
       {
         "product": "какаша",
@@ -631,7 +631,12 @@
     "date": "2026-05-01",
     "morning": [],
     "lunch": [],
-    "evening": [],
+    "evening": [
+      {
+        "product": "кабачок",
+        "grams": 50
+      }
+    ],
     "notes": "",
     "id": "1776922871538-1w26wq4"
   },
