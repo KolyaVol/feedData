@@ -616,7 +616,12 @@
   {
     "date": "2026-04-30",
     "morning": [],
-    "lunch": [],
+    "lunch": [
+      {
+        "product": "кабачок",
+        "grams": 50
+      }
+    ],
     "evening": [],
     "notes": "",
     "id": "1776922188098-v342u6f"
