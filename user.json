@@ -36,6 +36,10 @@
       {
         "product": "Кролик",
         "grams": 24
+      },
+      {
+        "product": "Говядина",
+        "grams": 5
       }
     ],
     "evening": [],
