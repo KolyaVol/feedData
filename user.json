@@ -24,6 +24,10 @@
       {
         "product": "Кукуруза",
         "grams": 22
+      },
+      {
+        "product": "Кролик",
+        "grams": 24
       }
     ],
     "evening": [],
