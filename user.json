@@ -15,6 +15,10 @@
       {
         "product": "Рис",
         "grams": 38
+      },
+      {
+        "product": "Кукуруза",
+        "grams": 22
       }
     ],
     "evening": [],
