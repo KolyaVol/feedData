@@ -2,7 +2,12 @@
   {
     "id": "1777353308394-rv1n6hp",
     "date": "2026-05-04",
-    "morning": [],
+    "morning": [
+      {
+        "product": "брокколи",
+        "grams": 80
+      }
+    ],
     "lunch": [],
     "evening": [],
     "notes": ""
