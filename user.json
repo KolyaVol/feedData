@@ -64,6 +64,24 @@
     "eaten": {}
   },
   {
+    "id": "1777355915746-x9wlm4v",
+    "date": "2026-05-07",
+    "morning": [
+      {
+        "product": "",
+        "grams": 0
+      }
+    ],
+    "lunch": [
+      {
+        "product": "",
+        "grams": 0
+      }
+    ],
+    "evening": [],
+    "notes": ""
+  },
+  {
     "id": "1777355902511-4q01efs",
     "date": "2026-05-06",
     "morning": [
