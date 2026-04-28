@@ -4,14 +4,14 @@
     "date": "2026-05-16",
     "morning": [
       {
-        "product": "",
-        "grams": 0
+        "product": "какаша",
+        "grams": 110
       }
     ],
     "lunch": [
       {
-        "product": "",
-        "grams": 0
+        "product": "гречневая каша",
+        "grams": 100
       }
     ],
     "evening": [],
