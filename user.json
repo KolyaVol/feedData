@@ -45,6 +45,10 @@
       {
         "product": "Индейка",
         "grams": 30
+      },
+      {
+        "product": "Кабачок",
+        "grams": 47
       }
     ],
     "evening": [],
