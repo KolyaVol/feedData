@@ -49,6 +49,10 @@
       {
         "product": "Кабачок",
         "grams": 47
+      },
+      {
+        "product": "Брокколи",
+        "grams": 16
       }
     ],
     "evening": [],
