@@ -1,5 +1,39 @@
 [
   {
+    "id": "1777992538010-azq3y16",
+    "date": "2026-05-06",
+    "morning": [
+      {
+        "product": "Манго",
+        "grams": 29
+      },
+      {
+        "product": "Гречка",
+        "grams": 59
+      },
+      {
+        "product": "Овсянка",
+        "grams": 12
+      }
+    ],
+    "lunch": [
+      {
+        "product": "Индейка",
+        "grams": 30
+      },
+      {
+        "product": "Кабачок",
+        "grams": 47
+      },
+      {
+        "product": "Брокколи",
+        "grams": 16
+      }
+    ],
+    "evening": [],
+    "notes": ""
+  },
+  {
     "id": "2026-05-05",
     "date": "2026-05-05",
     "morning": [],
@@ -27,40 +61,6 @@
       {
         "product": "Рис",
         "grams": 63
-      }
-    ],
-    "evening": [],
-    "notes": ""
-  },
-  {
-    "id": "1777992538010-azq3y16",
-    "date": "2026-05-06",
-    "morning": [
-      {
-        "product": "Манго",
-        "grams": 29
-      },
-      {
-        "product": "Гречка",
-        "grams": 1
-      },
-      {
-        "product": "Овсянка",
-        "grams": 1
-      }
-    ],
-    "lunch": [
-      {
-        "product": "Индейка",
-        "grams": 30
-      },
-      {
-        "product": "Кабачок",
-        "grams": 47
-      },
-      {
-        "product": "Брокколи",
-        "grams": 16
       }
     ],
     "evening": [],
