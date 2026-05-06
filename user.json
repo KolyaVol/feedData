@@ -31,7 +31,10 @@
       }
     ],
     "evening": [],
-    "notes": ""
+    "notes": "",
+    "eaten": {
+      "morning": true
+    }
   },
   {
     "id": "2026-05-05",
