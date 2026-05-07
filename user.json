@@ -9,17 +9,21 @@
       },
       {
         "product": "Кукуруза",
-        "grams": 1
+        "grams": 43
       },
       {
         "product": "Овсянка",
-        "grams": 0
+        "grams": 17
       }
     ],
     "lunch": [
       {
         "product": "Кролик",
         "grams": 32
+      },
+      {
+        "product": "Кабачок",
+        "grams": 47
       }
     ],
     "evening": [],
