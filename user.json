@@ -10,6 +10,10 @@
       {
         "product": "Кукуруза",
         "grams": 1
+      },
+      {
+        "product": "Овсянка",
+        "grams": 0
       }
     ],
     "lunch": [
