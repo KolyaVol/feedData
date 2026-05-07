@@ -31,7 +31,11 @@
       }
     ],
     "evening": [],
-    "notes": ""
+    "notes": "",
+    "eaten": {
+      "morning": true,
+      "lunch": true
+    }
   },
   {
     "id": "1777992538010-azq3y16",
