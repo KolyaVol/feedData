@@ -1,5 +1,35 @@
 [
   {
+    "id": "1778170069707-9ho5k18",
+    "date": "2026-05-08",
+    "morning": [
+      {
+        "product": "Манго",
+        "grams": 31
+      },
+      {
+        "product": "Рис",
+        "grams": 29
+      },
+      {
+        "product": "Овсянка",
+        "grams": 30
+      }
+    ],
+    "lunch": [
+      {
+        "product": "Морковь",
+        "grams": 47
+      },
+      {
+        "product": "Говядина",
+        "grams": 31
+      }
+    ],
+    "evening": [],
+    "notes": ""
+  },
+  {
     "id": "1778084114514-5y8dsqu",
     "date": "2026-05-07",
     "morning": [
@@ -36,36 +66,6 @@
       "morning": true,
       "lunch": true
     }
-  },
-  {
-    "id": "1778170069707-9ho5k18",
-    "date": "2026-05-08",
-    "morning": [
-      {
-        "product": "Манго",
-        "grams": 31
-      },
-      {
-        "product": "Рис",
-        "grams": 0
-      },
-      {
-        "product": "Овсянка",
-        "grams": 0
-      }
-    ],
-    "lunch": [
-      {
-        "product": "Морковь",
-        "grams": 47
-      },
-      {
-        "product": "Говядина",
-        "grams": 31
-      }
-    ],
-    "evening": [],
-    "notes": ""
   },
   {
     "id": "1777992538010-azq3y16",
