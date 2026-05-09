@@ -16,6 +16,10 @@
       {
         "product": "Индейка",
         "grams": 31
+      },
+      {
+        "product": "Тыква",
+        "grams": 47
       }
     ],
     "evening": [],
