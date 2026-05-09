@@ -27,7 +27,11 @@
       }
     ],
     "evening": [],
-    "notes": ""
+    "notes": "",
+    "eaten": {
+      "morning": true,
+      "lunch": true
+    }
   },
   {
     "id": "1778170069707-9ho5k18",
