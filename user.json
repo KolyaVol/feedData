@@ -1,5 +1,35 @@
 [
   {
+    "id": "1778342008888-onu2uw2",
+    "date": "2026-05-10",
+    "morning": [
+      {
+        "product": "Гречка",
+        "grams": 70
+      },
+      {
+        "product": "Груша",
+        "grams": 32
+      }
+    ],
+    "lunch": [
+      {
+        "product": "Тыква",
+        "grams": 47
+      },
+      {
+        "product": "Кролик",
+        "grams": 31
+      },
+      {
+        "product": "Брокколи",
+        "grams": 15
+      }
+    ],
+    "evening": [],
+    "notes": ""
+  },
+  {
     "id": "1778304964912-4631ft9",
     "date": "2026-05-09",
     "morning": [
@@ -32,36 +62,6 @@
       "morning": true,
       "lunch": true
     }
-  },
-  {
-    "id": "1778342008888-onu2uw2",
-    "date": "2026-05-10",
-    "morning": [
-      {
-        "product": "Гречка",
-        "grams": 0
-      },
-      {
-        "product": "Груша",
-        "grams": 32
-      }
-    ],
-    "lunch": [
-      {
-        "product": "Тыква",
-        "grams": 47
-      },
-      {
-        "product": "Кролик",
-        "grams": 31
-      },
-      {
-        "product": "Брокколи",
-        "grams": 15
-      }
-    ],
-    "evening": [],
-    "notes": ""
   },
   {
     "id": "1778170069707-9ho5k18",
