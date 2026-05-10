@@ -43,17 +43,21 @@
       },
       {
         "product": "Манго",
-        "grams": 0
+        "grams": 30
       }
     ],
     "lunch": [
       {
         "product": "Говядина",
-        "grams": 0
+        "grams": 30
       },
       {
         "product": "Кабачок",
-        "grams": 0
+        "grams": 46
+      },
+      {
+        "product": "Брокколи",
+        "grams": 15
       }
     ],
     "evening": [],
