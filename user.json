@@ -19,15 +19,19 @@
       },
       {
         "product": "Кролик",
-        "grams": 31
+        "grams": 32
       },
       {
         "product": "Брокколи",
-        "grams": 15
+        "grams": 18
       }
     ],
     "evening": [],
-    "notes": ""
+    "notes": "",
+    "eaten": {
+      "morning": true,
+      "lunch": true
+    }
   },
   {
     "id": "1778304964912-4631ft9",
