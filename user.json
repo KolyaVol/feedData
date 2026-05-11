@@ -1,5 +1,35 @@
 [
   {
+    "id": "1778420796230-el4w4zy",
+    "date": "2026-05-11",
+    "morning": [
+      {
+        "product": "Кукуруза",
+        "grams": 63
+      },
+      {
+        "product": "Манго",
+        "grams": 30
+      }
+    ],
+    "lunch": [
+      {
+        "product": "Говядина",
+        "grams": 30
+      },
+      {
+        "product": "Кабачок",
+        "grams": 46
+      },
+      {
+        "product": "Брокколи",
+        "grams": 15
+      }
+    ],
+    "evening": [],
+    "notes": ""
+  },
+  {
     "id": "1778342008888-onu2uw2",
     "date": "2026-05-10",
     "morning": [
@@ -32,36 +62,6 @@
       "morning": true,
       "lunch": true
     }
-  },
-  {
-    "id": "1778420796230-el4w4zy",
-    "date": "2026-05-11",
-    "morning": [
-      {
-        "product": "Кукуруза",
-        "grams": 0
-      },
-      {
-        "product": "Манго",
-        "grams": 30
-      }
-    ],
-    "lunch": [
-      {
-        "product": "Говядина",
-        "grams": 30
-      },
-      {
-        "product": "Кабачок",
-        "grams": 46
-      },
-      {
-        "product": "Брокколи",
-        "grams": 15
-      }
-    ],
-    "evening": [],
-    "notes": ""
   },
   {
     "id": "1778304964912-4631ft9",
