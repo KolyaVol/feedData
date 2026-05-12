@@ -1,5 +1,35 @@
 [
   {
+    "id": "1778475544364-fmr7mpo",
+    "date": "2026-05-12",
+    "morning": [
+      {
+        "product": "Рис",
+        "grams": 70
+      },
+      {
+        "product": "Яблоко",
+        "grams": 29
+      }
+    ],
+    "lunch": [
+      {
+        "product": "Кабачок",
+        "grams": 46
+      },
+      {
+        "product": "Брокколи",
+        "grams": 15
+      },
+      {
+        "product": "Индейка",
+        "grams": 31
+      }
+    ],
+    "evening": [],
+    "notes": ""
+  },
+  {
     "id": "1778420796230-el4w4zy",
     "date": "2026-05-11",
     "morning": [
@@ -27,37 +57,11 @@
       }
     ],
     "evening": [],
-    "notes": "Подсолнечное лльняное ммасло "
-  },
-  {
-    "id": "1778475544364-fmr7mpo",
-    "date": "2026-05-12",
-    "morning": [
-      {
-        "product": "Рис",
-        "grams": 0
-      },
-      {
-        "product": "Яблоко",
-        "grams": 0
-      }
-    ],
-    "lunch": [
-      {
-        "product": "Кабачок",
-        "grams": 46
-      },
-      {
-        "product": "Брокколи",
-        "grams": 15
-      },
-      {
-        "product": "Индейка",
-        "grams": 31
-      }
-    ],
-    "evening": [],
-    "notes": ""
+    "notes": "Подсолнечное лльняное ммасло ",
+    "eaten": {
+      "morning": true,
+      "lunch": true
+    }
   },
   {
     "id": "1778342008888-onu2uw2",
