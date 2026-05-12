@@ -54,6 +54,10 @@
       {
         "product": "Морковь",
         "grams": 0
+      },
+      {
+        "product": "Кролик",
+        "grams": 0
       }
     ],
     "evening": [],
