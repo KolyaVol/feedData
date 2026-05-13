@@ -1,5 +1,39 @@
 [
   {
+    "id": "1778562248246-ncod9h0",
+    "date": "2026-05-13",
+    "morning": [
+      {
+        "product": "Овсянка ",
+        "grams": 61
+      },
+      {
+        "product": "Груша",
+        "grams": 0
+      },
+      {
+        "product": "Банан",
+        "grams": 0
+      }
+    ],
+    "lunch": [
+      {
+        "product": "Морковь",
+        "grams": 46
+      },
+      {
+        "product": "Кролик",
+        "grams": 0
+      },
+      {
+        "product": "Брокколи",
+        "grams": 15
+      }
+    ],
+    "evening": [],
+    "notes": ""
+  },
+  {
     "id": "1778475544364-fmr7mpo",
     "date": "2026-05-12",
     "morning": [
@@ -32,40 +66,6 @@
     ],
     "evening": [],
     "notes": "Оливковое "
-  },
-  {
-    "id": "1778562248246-ncod9h0",
-    "date": "2026-05-13",
-    "morning": [
-      {
-        "product": "Овсянка ",
-        "grams": 0
-      },
-      {
-        "product": "Груша",
-        "grams": 0
-      },
-      {
-        "product": "Банан",
-        "grams": 0
-      }
-    ],
-    "lunch": [
-      {
-        "product": "Морковь",
-        "grams": 46
-      },
-      {
-        "product": "Кролик",
-        "grams": 0
-      },
-      {
-        "product": "Брокколи",
-        "grams": 15
-      }
-    ],
-    "evening": [],
-    "notes": ""
   },
   {
     "id": "1778420796230-el4w4zy",
