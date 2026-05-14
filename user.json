@@ -5,7 +5,7 @@
     "morning": [
       {
         "product": "Гречка",
-        "grams": 0
+        "grams": 63
       },
       {
         "product": "Банан",
@@ -28,6 +28,24 @@
       {
         "product": "Брокколи",
         "grams": 15
+      }
+    ],
+    "evening": [],
+    "notes": ""
+  },
+  {
+    "id": "1778737232409-q16nu24",
+    "date": "2026-05-15",
+    "morning": [
+      {
+        "product": "",
+        "grams": 0
+      }
+    ],
+    "lunch": [
+      {
+        "product": "",
+        "grams": 0
       }
     ],
     "evening": [],
