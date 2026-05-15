@@ -1,5 +1,35 @@
 [
   {
+    "id": "1778737232409-q16nu24",
+    "date": "2026-05-15",
+    "morning": [
+      {
+        "product": "Кукуруза",
+        "grams": 0
+      },
+      {
+        "product": "Банан",
+        "grams": 0
+      }
+    ],
+    "lunch": [
+      {
+        "product": "Тыква",
+        "grams": 46
+      },
+      {
+        "product": "Индейка",
+        "grams": 31
+      },
+      {
+        "product": "Брокколи",
+        "grams": 15
+      }
+    ],
+    "evening": [],
+    "notes": ""
+  },
+  {
     "id": "1778650468400-gnouzt9",
     "date": "2026-05-14",
     "morning": [
@@ -31,37 +61,7 @@
       }
     ],
     "evening": [],
-    "notes": ""
-  },
-  {
-    "id": "1778737232409-q16nu24",
-    "date": "2026-05-15",
-    "morning": [
-      {
-        "product": "Кукуруза",
-        "grams": 0
-      },
-      {
-        "product": "Банан",
-        "grams": 0
-      }
-    ],
-    "lunch": [
-      {
-        "product": "Тыква",
-        "grams": 46
-      },
-      {
-        "product": "Индейка",
-        "grams": 31
-      },
-      {
-        "product": "Брокколи",
-        "grams": 15
-      }
-    ],
-    "evening": [],
-    "notes": ""
+    "notes": "ООливковое "
   },
   {
     "id": "1778562248246-ncod9h0",
