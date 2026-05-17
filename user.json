@@ -1,39 +1,5 @@
 [
   {
-    "id": "1778824379105-938g6av",
-    "date": "2026-05-16",
-    "morning": [
-      {
-        "product": "Манго",
-        "grams": 31
-      },
-      {
-        "product": "Рис",
-        "grams": 65
-      },
-      {
-        "product": "Желток",
-        "grams": 10
-      }
-    ],
-    "lunch": [
-      {
-        "product": "Тыква ",
-        "grams": 47
-      },
-      {
-        "product": "Кролик",
-        "grams": 31
-      },
-      {
-        "product": "Брокколи",
-        "grams": 15
-      }
-    ],
-    "evening": [],
-    "notes": ""
-  },
-  {
     "id": "1778909870939-mtfpgt3",
     "date": "2026-05-17",
     "morning": [
@@ -66,6 +32,40 @@
     ],
     "evening": [],
     "notes": ""
+  },
+  {
+    "id": "1778824379105-938g6av",
+    "date": "2026-05-16",
+    "morning": [
+      {
+        "product": "Манго",
+        "grams": 31
+      },
+      {
+        "product": "Рис",
+        "grams": 65
+      },
+      {
+        "product": "Желток",
+        "grams": 10
+      }
+    ],
+    "lunch": [
+      {
+        "product": "Тыква ",
+        "grams": 47
+      },
+      {
+        "product": "Кролик",
+        "grams": 31
+      },
+      {
+        "product": "Брокколи",
+        "grams": 15
+      }
+    ],
+    "evening": [],
+    "notes": "Оливковое "
   },
   {
     "id": "1778737232409-q16nu24",
