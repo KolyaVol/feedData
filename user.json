@@ -44,6 +44,10 @@
       {
         "product": "Манго",
         "grams": 31
+      },
+      {
+        "product": "Желток",
+        "grams": 0
       }
     ],
     "lunch": [
