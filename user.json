@@ -58,6 +58,10 @@
       {
         "product": "Цыплёнок",
         "grams": 5
+      },
+      {
+        "product": "Говядина",
+        "grams": 25
       }
     ],
     "evening": [],
