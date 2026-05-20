@@ -1,5 +1,43 @@
 [
   {
+    "id": "1779168327261-o5s98bq",
+    "date": "2026-05-20",
+    "morning": [
+      {
+        "product": "Рис ",
+        "grams": 64
+      },
+      {
+        "product": "Манго",
+        "grams": 31
+      },
+      {
+        "product": "Желток",
+        "grams": 8
+      }
+    ],
+    "lunch": [
+      {
+        "product": "Морковь",
+        "grams": 47
+      },
+      {
+        "product": "Цыплёнок",
+        "grams": 5
+      },
+      {
+        "product": "Говядина",
+        "grams": 25
+      },
+      {
+        "product": "Брокколи",
+        "grams": 15
+      }
+    ],
+    "evening": [],
+    "notes": "ООливковое "
+  },
+  {
     "id": "1779086796872-b94f3g4",
     "date": "2026-05-19",
     "morning": [
@@ -32,44 +70,6 @@
     ],
     "evening": [],
     "notes": ""
-  },
-  {
-    "id": "1779168327261-o5s98bq",
-    "date": "2026-05-20",
-    "morning": [
-      {
-        "product": "Рис ",
-        "grams": 0
-      },
-      {
-        "product": "Манго",
-        "grams": 31
-      },
-      {
-        "product": "Желток",
-        "grams": 0
-      }
-    ],
-    "lunch": [
-      {
-        "product": "Морковь",
-        "grams": 47
-      },
-      {
-        "product": "Цыплёнок",
-        "grams": 5
-      },
-      {
-        "product": "Говядина",
-        "grams": 25
-      },
-      {
-        "product": "Брокколи",
-        "grams": 15
-      }
-    ],
-    "evening": [],
-    "notes": "ООливковое "
   },
   {
     "id": "1778999393747-d9jxwl8",
