@@ -62,6 +62,10 @@
       {
         "product": "Индейка",
         "grams": 20
+      },
+      {
+        "product": "Брокколи",
+        "grams": 15
       }
     ],
     "evening": [],
