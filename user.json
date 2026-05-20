@@ -50,6 +50,10 @@
       {
         "product": "Яблоко",
         "grams": 31
+      },
+      {
+        "product": "Тыква",
+        "grams": 46
       }
     ],
     "evening": [],
