@@ -58,6 +58,10 @@
       {
         "product": "Кабачок",
         "grams": 46
+      },
+      {
+        "product": "Цыплёнок",
+        "grams": 31
       }
     ],
     "evening": [],
