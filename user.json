@@ -62,6 +62,10 @@
       {
         "product": "Цыплёнок",
         "grams": 31
+      },
+      {
+        "product": "Шпинат",
+        "grams": 3
       }
     ],
     "evening": [],
