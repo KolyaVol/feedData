@@ -1,5 +1,61 @@
 [
   {
+    "id": "1779339047460-6o608rn",
+    "date": "2026-05-22",
+    "morning": [
+      {
+        "product": "Гречка",
+        "grams": 0
+      },
+      {
+        "product": "Груша",
+        "grams": 16
+      },
+      {
+        "product": "Подсолнечное льняное масло",
+        "grams": 5
+      },
+      {
+        "product": "Манго",
+        "grams": 18
+      }
+    ],
+    "lunch": [
+      {
+        "product": "Тыква",
+        "grams": 42
+      },
+      {
+        "product": "Цыплёнок",
+        "grams": 21
+      },
+      {
+        "product": "Кролик",
+        "grams": 8
+      }
+    ],
+    "evening": [],
+    "notes": ""
+  },
+  {
+    "id": "1779442737763-c7r8vqs",
+    "date": "2026-05-23",
+    "morning": [
+      {
+        "product": "",
+        "grams": 0
+      }
+    ],
+    "lunch": [
+      {
+        "product": "",
+        "grams": 0
+      }
+    ],
+    "evening": [],
+    "notes": ""
+  },
+  {
     "id": "1779266627966-p9qqj3w",
     "date": "2026-05-21",
     "morning": [
@@ -32,44 +88,6 @@
     ],
     "evening": [],
     "notes": "Оливковое "
-  },
-  {
-    "id": "1779339047460-6o608rn",
-    "date": "2026-05-22",
-    "morning": [
-      {
-        "product": "Гречка",
-        "grams": 0
-      },
-      {
-        "product": "Груша",
-        "grams": 31
-      },
-      {
-        "product": "Подсолнечное льняное масло",
-        "grams": 5
-      }
-    ],
-    "lunch": [
-      {
-        "product": "Тыква",
-        "grams": 46
-      },
-      {
-        "product": "Цыплёнок",
-        "grams": 20
-      },
-      {
-        "product": "Кролик",
-        "grams": 10
-      },
-      {
-        "product": "Брокколи",
-        "grams": 15
-      }
-    ],
-    "evening": [],
-    "notes": ""
   },
   {
     "id": "1779168327261-o5s98bq",
