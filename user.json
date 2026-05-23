@@ -1,5 +1,47 @@
 [
   {
+    "id": "1779442737763-c7r8vqs",
+    "date": "2026-05-23",
+    "morning": [
+      {
+        "product": "Кукуруза",
+        "grams": 0
+      },
+      {
+        "product": "Банан",
+        "grams": 31
+      },
+      {
+        "product": "Сливочное масло",
+        "grams": 5
+      }
+    ],
+    "lunch": [
+      {
+        "product": "",
+        "grams": 0
+      },
+      {
+        "product": "Кабачок",
+        "grams": 46
+      },
+      {
+        "product": "Цыплёнок",
+        "grams": 34
+      },
+      {
+        "product": "Шпинат",
+        "grams": 3
+      },
+      {
+        "product": "Желток",
+        "grams": 8
+      }
+    ],
+    "evening": [],
+    "notes": " Сливочное масло "
+  },
+  {
     "id": "1779339047460-6o608rn",
     "date": "2026-05-22",
     "morning": [
@@ -39,44 +81,6 @@
     "eaten": {
       "morning": true
     }
-  },
-  {
-    "id": "1779442737763-c7r8vqs",
-    "date": "2026-05-23",
-    "morning": [
-      {
-        "product": "Кукуруза",
-        "grams": 0
-      },
-      {
-        "product": "Банан",
-        "grams": 31
-      },
-      {
-        "product": "Сливочное масло",
-        "grams": 5
-      }
-    ],
-    "lunch": [
-      {
-        "product": "",
-        "grams": 0
-      },
-      {
-        "product": "Кабачок",
-        "grams": 46
-      },
-      {
-        "product": "Цыплёнок",
-        "grams": 31
-      },
-      {
-        "product": "Шпинат",
-        "grams": 3
-      }
-    ],
-    "evening": [],
-    "notes": " Сливочное масло "
   },
   {
     "id": "1779266627966-p9qqj3w",
