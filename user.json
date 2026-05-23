@@ -18,10 +18,6 @@
     ],
     "lunch": [
       {
-        "product": "",
-        "grams": 0
-      },
-      {
         "product": "Кабачок",
         "grams": 46
       },
