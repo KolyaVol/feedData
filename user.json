@@ -1,5 +1,53 @@
 [
   {
+    "id": "1779512104873-brry5bq",
+    "date": "2026-05-24",
+    "morning": [
+      {
+        "product": "Рис",
+        "grams": 0
+      },
+      {
+        "product": "Яблоко",
+        "grams": 0
+      }
+    ],
+    "lunch": [
+      {
+        "product": "Кабачок",
+        "grams": 0
+      },
+      {
+        "product": "Говядина",
+        "grams": 0
+      },
+      {
+        "product": "Шпинат",
+        "grams": 0
+      }
+    ],
+    "evening": [],
+    "notes": "ООливковое "
+  },
+  {
+    "id": "1779615372297-g6onihz",
+    "date": "2026-05-25",
+    "morning": [
+      {
+        "product": "",
+        "grams": 0
+      }
+    ],
+    "lunch": [
+      {
+        "product": "",
+        "grams": 0
+      }
+    ],
+    "evening": [],
+    "notes": ""
+  },
+  {
     "id": "1779442737763-c7r8vqs",
     "date": "2026-05-23",
     "morning": [
@@ -36,36 +84,6 @@
     ],
     "evening": [],
     "notes": " Сливочное масло "
-  },
-  {
-    "id": "1779512104873-brry5bq",
-    "date": "2026-05-24",
-    "morning": [
-      {
-        "product": "Рис",
-        "grams": 0
-      },
-      {
-        "product": "Яблоко",
-        "grams": 0
-      }
-    ],
-    "lunch": [
-      {
-        "product": "Кабачок",
-        "grams": 0
-      },
-      {
-        "product": "Говядина",
-        "grams": 0
-      },
-      {
-        "product": "Шпинат",
-        "grams": 0
-      }
-    ],
-    "evening": [],
-    "notes": "ООливковое "
   },
   {
     "id": "1779339047460-6o608rn",
