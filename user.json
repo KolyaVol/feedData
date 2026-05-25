@@ -50,6 +50,10 @@
       {
         "product": "Хек",
         "grams": 10
+      },
+      {
+        "product": "Кабачок",
+        "grams": 46
       }
     ],
     "evening": [],
