@@ -48,8 +48,8 @@
     ],
     "lunch": [
       {
-        "product": "",
-        "grams": 0
+        "product": "Хек",
+        "grams": 10
       }
     ],
     "evening": [],
