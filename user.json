@@ -1,26 +1,5 @@
 [
   {
-    "id": "1779512104873-brry5bq",
-    "date": "2026-05-24",
-    "morning": [],
-    "lunch": [
-      {
-        "product": "Кабачок",
-        "grams": 0
-      },
-      {
-        "product": "Говядина",
-        "grams": 0
-      },
-      {
-        "product": "Шпинат",
-        "grams": 0
-      }
-    ],
-    "evening": [],
-    "notes": ""
-  },
-  {
     "id": "1779615372297-g6onihz",
     "date": "2026-05-25",
     "morning": [
@@ -35,12 +14,50 @@
     ],
     "lunch": [
       {
+        "product": "Говядина",
+        "grams": 24
+      },
+      {
+        "product": "Кабачок",
+        "grams": 46
+      },
+      {
+        "product": "Брокколи",
+        "grams": 15
+      },
+      {
+        "product": "Хек",
+        "grams": 5
+      }
+    ],
+    "evening": [],
+    "notes": "ООливковое "
+  },
+  {
+    "id": "1779689310541-c60z2re",
+    "date": "2026-05-26",
+    "morning": [
+      {
+        "product": "",
+        "grams": 0
+      }
+    ],
+    "lunch": [
+      {
         "product": "",
         "grams": 0
       }
     ],
     "evening": [],
-    "notes": "ООливковое "
+    "notes": ""
+  },
+  {
+    "id": "1779512104873-brry5bq",
+    "date": "2026-05-24",
+    "morning": [],
+    "lunch": [],
+    "evening": [],
+    "notes": "ПРопустили"
   },
   {
     "id": "1779442737763-c7r8vqs",
