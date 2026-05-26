@@ -54,6 +54,10 @@
       {
         "product": "Хек",
         "grams": 20
+      },
+      {
+        "product": "Морковь",
+        "grams": 46
       }
     ],
     "evening": [],
