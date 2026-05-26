@@ -10,6 +10,10 @@
       {
         "product": "Груша",
         "grams": 30
+      },
+      {
+        "product": "Желток",
+        "grams": 7
       }
     ],
     "lunch": [
