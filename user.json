@@ -44,6 +44,10 @@
       {
         "product": "Кукуруза",
         "grams": 0
+      },
+      {
+        "product": "Творог",
+        "grams": 7
       }
     ],
     "lunch": [
