@@ -38,7 +38,7 @@
     "date": "2026-05-28",
     "morning": [
       {
-        "product": "",
+        "product": "Банан",
         "grams": 0
       }
     ],
@@ -50,6 +50,10 @@
       {
         "product": "Тыква",
         "grams": 46
+      },
+      {
+        "product": "Брокколи",
+        "grams": 15
       }
     ],
     "evening": [],
