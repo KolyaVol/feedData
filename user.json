@@ -40,6 +40,10 @@
       {
         "product": "Банан",
         "grams": 0
+      },
+      {
+        "product": "Кукуруза",
+        "grams": 0
       }
     ],
     "lunch": [
