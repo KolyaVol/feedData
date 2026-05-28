@@ -5,7 +5,7 @@
     "morning": [
       {
         "product": "Банан",
-        "grams": 0
+        "grams": 33
       },
       {
         "product": "Кукуруза",
@@ -31,7 +31,10 @@
       }
     ],
     "evening": [],
-    "notes": "Оливковое "
+    "notes": "Оливковое ",
+    "eaten": {
+      "morning": true
+    }
   },
   {
     "id": "1779947566374-d0ta9ax",
