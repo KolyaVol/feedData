@@ -58,6 +58,10 @@
       {
         "product": "Творог",
         "grams": 17
+      },
+      {
+        "product": "Тыква",
+        "grams": 0
       }
     ],
     "evening": [],
