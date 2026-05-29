@@ -1,42 +1,5 @@
 [
   {
-    "id": "1779882754752-7vu4j5n",
-    "date": "2026-05-28",
-    "morning": [
-      {
-        "product": "Банан",
-        "grams": 33
-      },
-      {
-        "product": "Кукуруза",
-        "grams": 55
-      },
-      {
-        "product": "Творог",
-        "grams": 7
-      }
-    ],
-    "lunch": [
-      {
-        "product": "Кролик",
-        "grams": 35
-      },
-      {
-        "product": "Тыква",
-        "grams": 48
-      },
-      {
-        "product": "Брокколи",
-        "grams": 14
-      }
-    ],
-    "evening": [],
-    "notes": "Оливковое ",
-    "eaten": {
-      "morning": true
-    }
-  },
-  {
     "id": "1779947566374-d0ta9ax",
     "date": "2026-05-29",
     "morning": [
@@ -73,6 +36,61 @@
     ],
     "evening": [],
     "notes": "Подсолнечное льняное "
+  },
+  {
+    "id": "1780036132164-1e1wj5h",
+    "date": "2026-05-30",
+    "morning": [
+      {
+        "product": "",
+        "grams": 0
+      }
+    ],
+    "lunch": [
+      {
+        "product": "",
+        "grams": 0
+      }
+    ],
+    "evening": [],
+    "notes": ""
+  },
+  {
+    "id": "1779882754752-7vu4j5n",
+    "date": "2026-05-28",
+    "morning": [
+      {
+        "product": "Банан",
+        "grams": 33
+      },
+      {
+        "product": "Кукуруза",
+        "grams": 55
+      },
+      {
+        "product": "Творог",
+        "grams": 7
+      }
+    ],
+    "lunch": [
+      {
+        "product": "Кролик",
+        "grams": 35
+      },
+      {
+        "product": "Тыква",
+        "grams": 48
+      },
+      {
+        "product": "Брокколи",
+        "grams": 14
+      }
+    ],
+    "evening": [],
+    "notes": "Оливковое ",
+    "eaten": {
+      "morning": true
+    }
   },
   {
     "id": "1779787455150-48zk10h",
