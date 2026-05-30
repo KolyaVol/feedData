@@ -1,41 +1,37 @@
 [
   {
-    "id": "1779947566374-d0ta9ax",
-    "date": "2026-05-29",
+    "id": "1780036132164-1e1wj5h",
+    "date": "2026-05-30",
     "morning": [
       {
-        "product": "Яблоко",
-        "grams": 35
+        "product": "Овсянка",
+        "grams": 150
       },
       {
-        "product": "Рис",
-        "grams": 66
-      },
-      {
-        "product": "Желток",
-        "grams": 7
+        "product": "Груша",
+        "grams": 32
       }
     ],
     "lunch": [
       {
-        "product": "Цыплёнок ",
-        "grams": 33
+        "product": "Кабачок",
+        "grams": 45
+      },
+      {
+        "product": "Говядина",
+        "grams": 8
       },
       {
         "product": "Творог",
-        "grams": 17
-      },
-      {
-        "product": "Тыква",
-        "grams": 46
+        "grams": 30
       },
       {
         "product": "Брокколи",
-        "grams": 14
+        "grams": 15
       }
     ],
     "evening": [],
-    "notes": "Подсолнечное льняное "
+    "notes": "Сливочное "
   },
   {
     "id": "1780071009277-ph5y9x2",
@@ -74,38 +70,42 @@
     "notes": ""
   },
   {
-    "id": "1780036132164-1e1wj5h",
-    "date": "2026-05-30",
+    "id": "1779947566374-d0ta9ax",
+    "date": "2026-05-29",
     "morning": [
       {
-        "product": "Овсянка",
-        "grams": 0
+        "product": "Яблоко",
+        "grams": 35
       },
       {
-        "product": "Груша",
-        "grams": 0
+        "product": "Рис",
+        "grams": 66
+      },
+      {
+        "product": "Желток",
+        "grams": 7
       }
     ],
     "lunch": [
       {
-        "product": "Кабачок",
-        "grams": 45
-      },
-      {
-        "product": "Говядина",
-        "grams": 8
+        "product": "Цыплёнок ",
+        "grams": 33
       },
       {
         "product": "Творог",
-        "grams": 30
+        "grams": 17
+      },
+      {
+        "product": "Тыква",
+        "grams": 46
       },
       {
         "product": "Брокколи",
-        "grams": 15
+        "grams": 14
       }
     ],
     "evening": [],
-    "notes": "Сливочное "
+    "notes": "Подсолнечное льняное "
   },
   {
     "id": "1779882754752-7vu4j5n",
