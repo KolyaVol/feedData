@@ -22,15 +22,16 @@
         "grams": 8
       },
       {
-        "product": "Творог",
-        "grams": 30
-      },
-      {
         "product": "Брокколи",
         "grams": 15
       }
     ],
-    "evening": [],
+    "evening": [
+      {
+        "product": "Творог",
+        "grams": 30
+      }
+    ],
     "notes": "Сливочное "
   },
   {
