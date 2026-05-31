@@ -66,6 +66,10 @@
       {
         "product": "Картофель",
         "grams": 15
+      },
+      {
+        "product": "Шпинат",
+        "grams": 15
       }
     ],
     "evening": [],
