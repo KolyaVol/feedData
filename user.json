@@ -48,6 +48,10 @@
       {
         "product": "Кукуруза",
         "grams": 0
+      },
+      {
+        "product": "Желток",
+        "grams": 7
       }
     ],
     "lunch": [
