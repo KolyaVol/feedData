@@ -1,43 +1,5 @@
 [
   {
-    "id": "1780071005977-jx9qso8",
-    "date": "2026-05-31",
-    "morning": [
-      {
-        "product": "Гречка ",
-        "grams": 61
-      },
-      {
-        "product": "Манго",
-        "grams": 33
-      }
-    ],
-    "lunch": [
-      {
-        "product": "Кабачок",
-        "grams": 38
-      },
-      {
-        "product": "Индейка",
-        "grams": 16
-      },
-      {
-        "product": "Брокколи",
-        "grams": 13
-      },
-      {
-        "product": "Шпинат",
-        "grams": 10
-      },
-      {
-        "product": "Картофель",
-        "grams": 7
-      }
-    ],
-    "evening": [],
-    "notes": "Оливковое "
-  },
-  {
     "id": "1780071009277-ph5y9x2",
     "date": "2026-06-01",
     "morning": [
@@ -78,6 +40,62 @@
     ],
     "evening": [],
     "notes": "Подсолнечное льняное "
+  },
+  {
+    "id": "1780292894999-h45ljq9",
+    "date": "2026-06-02",
+    "morning": [
+      {
+        "product": "",
+        "grams": 0
+      }
+    ],
+    "lunch": [
+      {
+        "product": "",
+        "grams": 0
+      }
+    ],
+    "evening": [],
+    "notes": ""
+  },
+  {
+    "id": "1780071005977-jx9qso8",
+    "date": "2026-05-31",
+    "morning": [
+      {
+        "product": "Гречка ",
+        "grams": 61
+      },
+      {
+        "product": "Манго",
+        "grams": 33
+      }
+    ],
+    "lunch": [
+      {
+        "product": "Кабачок",
+        "grams": 38
+      },
+      {
+        "product": "Индейка",
+        "grams": 40
+      },
+      {
+        "product": "Брокколи",
+        "grams": 13
+      },
+      {
+        "product": "Шпинат",
+        "grams": 9
+      },
+      {
+        "product": "Картофель",
+        "grams": 8
+      }
+    ],
+    "evening": [],
+    "notes": "Оливковое "
   },
   {
     "id": "1780036132164-1e1wj5h",
