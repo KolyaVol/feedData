@@ -66,6 +66,10 @@
       {
         "product": "Брокколи",
         "grams": 15
+      },
+      {
+        "product": "Шпинат",
+        "grams": 0
       }
     ],
     "evening": [],
