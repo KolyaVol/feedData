@@ -57,11 +57,11 @@
     "lunch": [
       {
         "product": "Морковь ",
-        "grams": 0
+        "grams": 1
       },
       {
         "product": "Кролик",
-        "grams": 0
+        "grams": 1
       },
       {
         "product": "Брокколи",
@@ -69,7 +69,7 @@
       },
       {
         "product": "Шпинат",
-        "grams": 0
+        "grams": 1
       }
     ],
     "evening": [],
