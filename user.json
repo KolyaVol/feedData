@@ -51,7 +51,7 @@
       },
       {
         "product": "Яблоко",
-        "grams": 0
+        "grams": 40
       }
     ],
     "lunch": [
@@ -62,6 +62,10 @@
       {
         "product": "Кролик",
         "grams": 0
+      },
+      {
+        "product": "Брокколи",
+        "grams": 15
       }
     ],
     "evening": [],
