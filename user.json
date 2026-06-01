@@ -35,7 +35,7 @@
       },
       {
         "product": "Шпинат",
-        "grams": 12
+        "grams": 8
       }
     ],
     "evening": [
@@ -71,10 +71,6 @@
       {
         "product": "Брокколи",
         "grams": 15
-      },
-      {
-        "product": "Шпинат",
-        "grams": 1
       }
     ],
     "evening": [],
