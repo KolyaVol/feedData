@@ -64,7 +64,12 @@
         "grams": 15
       }
     ],
-    "evening": [],
+    "evening": [
+      {
+        "product": "Творог",
+        "grams": 30
+      }
+    ],
     "notes": "Оливковое "
   },
   {
