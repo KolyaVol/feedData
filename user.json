@@ -1,5 +1,57 @@
 [
   {
+    "id": "1780292894999-h45ljq9",
+    "date": "2026-06-02",
+    "morning": [
+      {
+        "product": "Рис",
+        "grams": 7
+      },
+      {
+        "product": "Яблоко",
+        "grams": 40
+      },
+      {
+        "product": "Персик",
+        "grams": 10
+      }
+    ],
+    "lunch": [
+      {
+        "product": "Морковь ",
+        "grams": 1
+      },
+      {
+        "product": "Кролик",
+        "grams": 43
+      },
+      {
+        "product": "Брокколи",
+        "grams": 15
+      }
+    ],
+    "evening": [],
+    "notes": "Сливочное "
+  },
+  {
+    "id": "1780382582747-zg5rm3f",
+    "date": "2026-06-03",
+    "morning": [
+      {
+        "product": "",
+        "grams": 0
+      }
+    ],
+    "lunch": [
+      {
+        "product": "",
+        "grams": 0
+      }
+    ],
+    "evening": [],
+    "notes": ""
+  },
+  {
     "id": "1780071009277-ph5y9x2",
     "date": "2026-06-01",
     "morning": [
@@ -45,40 +97,6 @@
       }
     ],
     "notes": "Подсолнечное льняное "
-  },
-  {
-    "id": "1780292894999-h45ljq9",
-    "date": "2026-06-02",
-    "morning": [
-      {
-        "product": "Рис",
-        "grams": 7
-      },
-      {
-        "product": "Яблоко",
-        "grams": 40
-      },
-      {
-        "product": "Персик",
-        "grams": 10
-      }
-    ],
-    "lunch": [
-      {
-        "product": "Морковь ",
-        "grams": 1
-      },
-      {
-        "product": "Кролик",
-        "grams": 43
-      },
-      {
-        "product": "Брокколи",
-        "grams": 15
-      }
-    ],
-    "evening": [],
-    "notes": "Сливочное "
   },
   {
     "id": "1780071005977-jx9qso8",
