@@ -62,11 +62,11 @@
     "lunch": [
       {
         "product": "Тыква ",
-        "grams": 0
+        "grams": 50
       },
       {
         "product": "Говядина",
-        "grams": 0
+        "grams": 39
       },
       {
         "product": "Брокколи",
