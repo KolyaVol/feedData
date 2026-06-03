@@ -53,6 +53,10 @@
       {
         "product": "Кефир",
         "grams": 10
+      },
+      {
+        "product": "Желток",
+        "grams": 8
       }
     ],
     "lunch": [
