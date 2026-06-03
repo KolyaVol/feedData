@@ -45,6 +45,10 @@
       {
         "product": "Гречка",
         "grams": 0
+      },
+      {
+        "product": "Персик",
+        "grams": 30
       }
     ],
     "lunch": [
