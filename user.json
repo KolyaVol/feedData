@@ -1,61 +1,41 @@
 [
   {
-    "id": "1777356072677-7wak26m",
-    "date": "2026-05-16",
+    "id": "1780466937333-2l6ea9y",
+    "date": "2026-06-04",
     "morning": [
       {
-        "product": "какаша",
-        "grams": 110
+        "product": "Гречка",
+        "grams": 81
+      },
+      {
+        "product": "Персик",
+        "grams": 31
+      },
+      {
+        "product": "Желток",
+        "grams": 8
       }
     ],
     "lunch": [
       {
-        "product": "гречневая каша",
-        "grams": 100
+        "product": "Тыква ",
+        "grams": 50
+      },
+      {
+        "product": "Говядина",
+        "grams": 39
+      },
+      {
+        "product": "Брокколи",
+        "grams": 15
       }
     ],
     "evening": [],
-    "notes": ""
+    "notes": "Подсолнечное льняное "
   },
   {
-    "id": "1777356048116-9yk7pmx",
-    "date": "2026-05-15",
-    "morning": [
-      {
-        "product": "",
-        "grams": 0
-      }
-    ],
-    "lunch": [
-      {
-        "product": "",
-        "grams": 0
-      }
-    ],
-    "evening": [],
-    "notes": ""
-  },
-  {
-    "id": "1777356046869-r6imgj9",
-    "date": "2026-05-14",
-    "morning": [
-      {
-        "product": "",
-        "grams": 0
-      }
-    ],
-    "lunch": [
-      {
-        "product": "",
-        "grams": 0
-      }
-    ],
-    "evening": [],
-    "notes": ""
-  },
-  {
-    "id": "1777356025141-30yetrn",
-    "date": "2026-05-13",
+    "id": "1780585994491-wfkmast",
+    "date": "2026-06-06",
     "morning": [
       {
         "product": "",
@@ -68,403 +48,919 @@
         "grams": 0
       }
     ],
-    "evening": [],
-    "notes": ""
-  },
-  {
-    "id": "1777356024997-ntow7p3",
-    "date": "2026-05-12",
-    "morning": [
-      {
-        "product": "",
-        "grams": 0
-      }
-    ],
-    "lunch": [
-      {
-        "product": "",
-        "grams": 0
-      }
-    ],
-    "evening": [],
-    "notes": ""
-  },
-  {
-    "id": "1777356024837-rm2tzb0",
-    "date": "2026-05-11",
-    "morning": [
-      {
-        "product": "",
-        "grams": 0
-      }
-    ],
-    "lunch": [
-      {
-        "product": "",
-        "grams": 0
-      }
-    ],
-    "evening": [],
-    "notes": ""
-  },
-  {
-    "id": "1777356024685-mqj1rjk",
-    "date": "2026-05-10",
-    "morning": [
-      {
-        "product": "",
-        "grams": 0
-      }
-    ],
-    "lunch": [
-      {
-        "product": "",
-        "grams": 0
-      }
-    ],
-    "evening": [],
-    "notes": ""
-  },
-  {
-    "id": "1777356024149-kos4tmk",
-    "date": "2026-05-09",
-    "morning": [
-      {
-        "product": "",
-        "grams": 0
-      }
-    ],
-    "lunch": [
-      {
-        "product": "",
-        "grams": 0
-      }
-    ],
-    "evening": [],
-    "notes": ""
-  },
-  {
-    "id": "1777356019974-gp6z4n2",
-    "date": "2026-05-08",
-    "morning": [
-      {
-        "product": "",
-        "grams": 0
-      }
-    ],
-    "lunch": [
-      {
-        "product": "",
-        "grams": 0
-      }
-    ],
-    "evening": [],
-    "notes": ""
-  },
-  {
-    "id": "1777355915746-x9wlm4v",
-    "date": "2026-05-07",
-    "morning": [
-      {
-        "product": "",
-        "grams": 0
-      }
-    ],
-    "lunch": [
-      {
-        "product": "",
-        "grams": 0
-      }
-    ],
-    "evening": [],
-    "notes": ""
-  },
-  {
-    "id": "1777355902511-4q01efs",
-    "date": "2026-05-06",
-    "morning": [
-      {
-        "product": "",
-        "grams": 0
-      }
-    ],
-    "lunch": [
-      {
-        "product": "",
-        "grams": 0
-      }
-    ],
-    "evening": [],
-    "notes": ""
-  },
-  {
-    "id": "1777353460896-1z90t2r",
-    "date": "2026-05-05",
-    "morning": [
-      {
-        "product": "",
-        "grams": 0
-      }
-    ],
-    "lunch": [
-      {
-        "product": "",
-        "grams": 0
-      }
-    ],
-    "evening": [],
-    "notes": ""
-  },
-  {
-    "id": "1777353308394-rv1n6hp",
-    "date": "2026-05-04",
-    "morning": [
-      {
-        "product": "брокколи",
-        "grams": 80
-      }
-    ],
-    "lunch": [],
-    "evening": [],
-    "notes": ""
-  },
-  {
-    "id": "1776924238461-ddk5fyf",
-    "date": "2026-05-03",
-    "morning": [
-      {
-        "product": "цветная капуста",
-        "grams": 40
-      }
-    ],
-    "lunch": [],
-    "evening": [],
-    "notes": ""
-  },
-  {
-    "id": "1776922871538-1w26wq4",
-    "date": "2026-05-02",
-    "morning": [],
-    "lunch": [],
     "evening": [
       {
-        "product": "кабачок",
-        "grams": 50
+        "product": "",
+        "grams": 0
       }
     ],
     "notes": ""
   },
   {
-    "id": "1776922188098-v342u6f",
-    "date": "2026-05-01",
-    "morning": [],
-    "lunch": [
-      {
-        "product": "кабачок",
-        "grams": 50
-      }
-    ],
-    "evening": [],
-    "notes": "",
-    "eaten": {}
-  },
-  {
-    "id": "1777355579961-bmp5f8i",
-    "date": "2026-04-30",
+    "id": "1780551119848-o85j4t4",
+    "date": "2026-06-05",
     "morning": [
       {
-        "product": "",
+        "product": "Кукуруза",
         "grams": 0
-      }
-    ],
-    "lunch": [
+      },
       {
-        "product": "",
+        "product": "Груша",
         "grams": 0
-      }
-    ],
-    "evening": [],
-    "notes": ""
-  },
-  {
-    "id": "d-030",
-    "date": "2026-04-30",
-    "morning": [
+      },
       {
-        "product": "рисовая каша",
+        "product": "Кефир",
         "grams": 10
       }
     ],
     "lunch": [
       {
-        "product": "брокколи",
-        "grams": 50
+        "product": "Кабачок",
+        "grams": 0
       },
       {
-        "product": "кабачок",
-        "grams": 50
-      }
-    ],
-    "evening": [
-      {
-        "product": "гречневая каша",
-        "grams": 60
+        "product": "Индейка",
+        "grams": 0
       },
       {
-        "product": "цветная капуста",
-        "grams": 40
+        "product": "Брокколи",
+        "grams": 15
       }
     ],
-    "notes": "",
-    "eaten": {}
+    "evening": [],
+    "notes": "Сливочное "
   },
   {
-    "id": "1777355574946-bvurz9m",
-    "date": "2026-04-29",
+    "id": "1780382582747-zg5rm3f",
+    "date": "2026-06-03",
     "morning": [
       {
-        "product": "",
-        "grams": 0
+        "product": "Овсянка",
+        "grams": 77
+      },
+      {
+        "product": "Персик",
+        "grams": 20
       }
     ],
     "lunch": [
       {
-        "product": "",
+        "product": "Тыква ",
+        "grams": 46
+      },
+      {
+        "product": "Цыплёнок",
+        "grams": 39
+      },
+      {
+        "product": "Брокколи",
+        "grams": 15
+      }
+    ],
+    "evening": [
+      {
+        "product": "Творог",
+        "grams": 30
+      },
+      {
+        "product": "Яблоко",
+        "grams": 30
+      }
+    ],
+    "notes": "Оливковое "
+  },
+  {
+    "id": "1780292894999-h45ljq9",
+    "date": "2026-06-02",
+    "morning": [
+      {
+        "product": "Рис",
+        "grams": 87
+      },
+      {
+        "product": "Яблоко",
+        "grams": 5
+      },
+      {
+        "product": "Персик",
+        "grams": 10
+      }
+    ],
+    "lunch": [
+      {
+        "product": "Морковь ",
+        "grams": 60
+      },
+      {
+        "product": "Кролик",
+        "grams": 43
+      },
+      {
+        "product": "Брокколи",
+        "grams": 15
+      }
+    ],
+    "evening": [],
+    "notes": "Сливочное "
+  },
+  {
+    "id": "1780071009277-ph5y9x2",
+    "date": "2026-06-01",
+    "morning": [
+      {
+        "product": "Банан",
+        "grams": 40
+      },
+      {
+        "product": "Кукуруза",
+        "grams": 73
+      },
+      {
+        "product": "Желток",
+        "grams": 10
+      }
+    ],
+    "lunch": [
+      {
+        "product": "Морковь",
+        "grams": 30
+      },
+      {
+        "product": "Хек",
+        "grams": 37
+      },
+      {
+        "product": "Брокколи",
+        "grams": 15
+      },
+      {
+        "product": "Картофель",
+        "grams": 11
+      },
+      {
+        "product": "Шпинат",
+        "grams": 8
+      }
+    ],
+    "evening": [
+      {
+        "product": "Абрикос",
+        "grams": 3
+      }
+    ],
+    "notes": "Подсолнечное льняное "
+  },
+  {
+    "id": "1780071005977-jx9qso8",
+    "date": "2026-05-31",
+    "morning": [
+      {
+        "product": "Гречка ",
+        "grams": 61
+      },
+      {
+        "product": "Манго",
+        "grams": 33
+      }
+    ],
+    "lunch": [
+      {
+        "product": "Кабачок",
+        "grams": 38
+      },
+      {
+        "product": "Индейка",
+        "grams": 40
+      },
+      {
+        "product": "Брокколи",
+        "grams": 13
+      },
+      {
+        "product": "Шпинат",
+        "grams": 9
+      },
+      {
+        "product": "Картофель",
+        "grams": 8
+      }
+    ],
+    "evening": [],
+    "notes": "Оливковое "
+  },
+  {
+    "id": "1780036132164-1e1wj5h",
+    "date": "2026-05-30",
+    "morning": [
+      {
+        "product": "Овсянка",
+        "grams": 58
+      },
+      {
+        "product": "Груша",
+        "grams": 5
+      }
+    ],
+    "lunch": [
+      {
+        "product": "Кабачок",
+        "grams": 45
+      },
+      {
+        "product": "Говядина",
+        "grams": 30
+      },
+      {
+        "product": "Брокколи",
+        "grams": 15
+      }
+    ],
+    "evening": [
+      {
+        "product": "Творог",
+        "grams": 30
+      }
+    ],
+    "notes": "Сливочное "
+  },
+  {
+    "id": "1779947566374-d0ta9ax",
+    "date": "2026-05-29",
+    "morning": [
+      {
+        "product": "Яблоко",
+        "grams": 35
+      },
+      {
+        "product": "Рис",
+        "grams": 66
+      },
+      {
+        "product": "Желток",
+        "grams": 7
+      }
+    ],
+    "lunch": [
+      {
+        "product": "Цыплёнок ",
+        "grams": 33
+      },
+      {
+        "product": "Творог",
+        "grams": 17
+      },
+      {
+        "product": "Тыква",
+        "grams": 46
+      },
+      {
+        "product": "Брокколи",
+        "grams": 14
+      }
+    ],
+    "evening": [],
+    "notes": "Подсолнечное льняное "
+  },
+  {
+    "id": "1779882754752-7vu4j5n",
+    "date": "2026-05-28",
+    "morning": [
+      {
+        "product": "Банан",
+        "grams": 33
+      },
+      {
+        "product": "Кукуруза",
+        "grams": 55
+      },
+      {
+        "product": "Творог",
+        "grams": 7
+      }
+    ],
+    "lunch": [
+      {
+        "product": "Кролик",
+        "grams": 35
+      },
+      {
+        "product": "Тыква",
+        "grams": 48
+      },
+      {
+        "product": "Брокколи",
+        "grams": 14
+      }
+    ],
+    "evening": [],
+    "notes": "Оливковое ",
+    "eaten": {
+      "morning": true
+    }
+  },
+  {
+    "id": "1779787455150-48zk10h",
+    "date": "2026-05-27",
+    "morning": [
+      {
+        "product": "Гречка",
+        "grams": 66
+      },
+      {
+        "product": "Манго",
+        "grams": 27
+      }
+    ],
+    "lunch": [
+      {
+        "product": "Хек",
+        "grams": 24
+      },
+      {
+        "product": "Морковь",
+        "grams": 46
+      },
+      {
+        "product": "Кролик",
+        "grams": 10
+      },
+      {
+        "product": "Брокколи",
+        "grams": 15
+      }
+    ],
+    "evening": [],
+    "notes": "ССливочное ",
+    "eaten": {
+      "morning": true
+    }
+  },
+  {
+    "id": "1779689310541-c60z2re",
+    "date": "2026-05-26",
+    "morning": [
+      {
+        "product": "Овсянка",
         "grams": 0
+      },
+      {
+        "product": "Груша",
+        "grams": 30
+      },
+      {
+        "product": "Желток",
+        "grams": 7
+      }
+    ],
+    "lunch": [
+      {
+        "product": "Хек",
+        "grams": 10
+      },
+      {
+        "product": "Морковь",
+        "grams": 46
+      },
+      {
+        "product": "Брокколи",
+        "grams": 15
+      },
+      {
+        "product": "Индейка",
+        "grams": 24
+      }
+    ],
+    "evening": [],
+    "notes": "Подсолнечное льняное "
+  },
+  {
+    "id": "1779615372297-g6onihz",
+    "date": "2026-05-25",
+    "morning": [
+      {
+        "product": "Рис",
+        "grams": 55
+      },
+      {
+        "product": "Яблоко",
+        "grams": 30
+      }
+    ],
+    "lunch": [
+      {
+        "product": "Говядина",
+        "grams": 24
+      },
+      {
+        "product": "Кабачок",
+        "grams": 47
+      },
+      {
+        "product": "Брокколи",
+        "grams": 15
+      },
+      {
+        "product": "Хек",
+        "grams": 3
+      }
+    ],
+    "evening": [],
+    "notes": "ООливковое "
+  },
+  {
+    "id": "1779512104873-brry5bq",
+    "date": "2026-05-24",
+    "morning": [],
+    "lunch": [],
+    "evening": [],
+    "notes": "ПРопустили"
+  },
+  {
+    "id": "1779442737763-c7r8vqs",
+    "date": "2026-05-23",
+    "morning": [
+      {
+        "product": "Кукуруза",
+        "grams": 55
+      },
+      {
+        "product": "Банан",
+        "grams": 31
+      },
+      {
+        "product": "Сливочное масло",
+        "grams": 5
+      }
+    ],
+    "lunch": [
+      {
+        "product": "Кабачок",
+        "grams": 46
+      },
+      {
+        "product": "Цыплёнок",
+        "grams": 34
+      },
+      {
+        "product": "Шпинат",
+        "grams": 3
+      },
+      {
+        "product": "Желток",
+        "grams": 8
+      }
+    ],
+    "evening": [],
+    "notes": " Сливочное масло "
+  },
+  {
+    "id": "1779339047460-6o608rn",
+    "date": "2026-05-22",
+    "morning": [
+      {
+        "product": "Гречка",
+        "grams": 61
+      },
+      {
+        "product": "Груша",
+        "grams": 16
+      },
+      {
+        "product": "Подсолнечное льняное масло",
+        "grams": 5
+      },
+      {
+        "product": "Манго",
+        "grams": 18
+      }
+    ],
+    "lunch": [
+      {
+        "product": "Тыква",
+        "grams": 42
+      },
+      {
+        "product": "Цыплёнок",
+        "grams": 21
+      },
+      {
+        "product": "Кролик",
+        "grams": 8
+      }
+    ],
+    "evening": [],
+    "notes": "ППодсолнечное лльняное масло ",
+    "eaten": {
+      "morning": true
+    }
+  },
+  {
+    "id": "1779266627966-p9qqj3w",
+    "date": "2026-05-21",
+    "morning": [
+      {
+        "product": "Овсянка",
+        "grams": 58
+      },
+      {
+        "product": "Яблоко",
+        "grams": 31
+      }
+    ],
+    "lunch": [
+      {
+        "product": "Цыплёнок",
+        "grams": 10
+      },
+      {
+        "product": "Тыква",
+        "grams": 46
+      },
+      {
+        "product": "Индейка",
+        "grams": 20
+      },
+      {
+        "product": "Брокколи",
+        "grams": 15
+      }
+    ],
+    "evening": [],
+    "notes": "Оливковое "
+  },
+  {
+    "id": "1779168327261-o5s98bq",
+    "date": "2026-05-20",
+    "morning": [
+      {
+        "product": "Рис ",
+        "grams": 64
+      },
+      {
+        "product": "Манго",
+        "grams": 31
+      },
+      {
+        "product": "Желток",
+        "grams": 8
+      },
+      {
+        "product": "Сливочное масло",
+        "grams": 7
+      }
+    ],
+    "lunch": [
+      {
+        "product": "Морковь",
+        "grams": 47
+      },
+      {
+        "product": "Цыплёнок",
+        "grams": 5
+      },
+      {
+        "product": "Говядина",
+        "grams": 25
+      },
+      {
+        "product": "Брокколи",
+        "grams": 15
       }
     ],
     "evening": [],
     "notes": ""
   },
   {
-    "id": "d-029",
-    "date": "2026-04-29",
+    "id": "1779086796872-b94f3g4",
+    "date": "2026-05-19",
     "morning": [
       {
-        "product": "рисовая каша",
+        "product": "Кукуруза",
+        "grams": 64
+      },
+      {
+        "product": "Банан",
+        "grams": 30
+      },
+      {
+        "product": "Сливочное масло",
         "grams": 5
       }
     ],
     "lunch": [
       {
-        "product": "кабачок",
-        "grams": 50
+        "product": "Морковь",
+        "grams": 47
       },
       {
-        "product": "цветная капуста",
-        "grams": 50
+        "product": "Кролик",
+        "grams": 31
+      },
+      {
+        "product": "Брокколи",
+        "grams": 15
       }
     ],
-    "evening": [
+    "evening": [],
+    "notes": ""
+  },
+  {
+    "id": "1778999393747-d9jxwl8",
+    "date": "2026-05-18",
+    "morning": [
       {
-        "product": "гречневая каша",
-        "grams": 50
+        "product": "Гречка ",
+        "grams": 64
       },
       {
-        "product": "брокколи",
+        "product": "Груша",
+        "grams": 33
+      },
+      {
+        "product": "Сливочное масло",
+        "grams": 3
+      }
+    ],
+    "lunch": [
+      {
+        "product": "Кабачок",
+        "grams": 44
+      },
+      {
+        "product": "Индейка",
+        "grams": 31
+      },
+      {
+        "product": "Брокколи",
+        "grams": 15
+      }
+    ],
+    "evening": [],
+    "notes": "Сливочное "
+  },
+  {
+    "id": "1778909870939-mtfpgt3",
+    "date": "2026-05-17",
+    "morning": [
+      {
+        "product": "Яблоко",
+        "grams": 31
+      },
+      {
+        "product": "Желток",
+        "grams": 8
+      },
+      {
+        "product": "Овсянка",
+        "grams": 61
+      }
+    ],
+    "lunch": [
+      {
+        "product": "Кабачок ",
+        "grams": 46
+      },
+      {
+        "product": "Говядина",
+        "grams": 31
+      },
+      {
+        "product": "Брокколи",
+        "grams": 15
+      }
+    ],
+    "evening": [],
+    "notes": ""
+  },
+  {
+    "id": "1778824379105-938g6av",
+    "date": "2026-05-16",
+    "morning": [
+      {
+        "product": "Манго",
+        "grams": 31
+      },
+      {
+        "product": "Рис",
+        "grams": 65
+      },
+      {
+        "product": "Желток",
+        "grams": 10
+      }
+    ],
+    "lunch": [
+      {
+        "product": "Тыква ",
+        "grams": 47
+      },
+      {
+        "product": "Кролик",
+        "grams": 31
+      },
+      {
+        "product": "Брокколи",
+        "grams": 15
+      }
+    ],
+    "evening": [],
+    "notes": "Оливковое "
+  },
+  {
+    "id": "1778737232409-q16nu24",
+    "date": "2026-05-15",
+    "morning": [
+      {
+        "product": "Кукуруза",
+        "grams": 63
+      },
+      {
+        "product": "Банан",
+        "grams": 30
+      },
+      {
+        "product": "Желток",
+        "grams": 3
+      }
+    ],
+    "lunch": [
+      {
+        "product": "Тыква",
+        "grams": 46
+      },
+      {
+        "product": "Индейка",
+        "grams": 31
+      },
+      {
+        "product": "Брокколи",
+        "grams": 15
+      }
+    ],
+    "evening": [],
+    "notes": ""
+  },
+  {
+    "id": "1778650468400-gnouzt9",
+    "date": "2026-05-14",
+    "morning": [
+      {
+        "product": "Гречка",
+        "grams": 63
+      },
+      {
+        "product": "Банан",
+        "grams": 21
+      },
+      {
+        "product": "Манго",
+        "grams": 8
+      }
+    ],
+    "lunch": [
+      {
+        "product": "Морковь",
+        "grams": 47
+      },
+      {
+        "product": "Говядина",
+        "grams": 31
+      },
+      {
+        "product": "Брокколи",
+        "grams": 15
+      }
+    ],
+    "evening": [],
+    "notes": "Оливковое "
+  },
+  {
+    "id": "1778562248246-ncod9h0",
+    "date": "2026-05-13",
+    "morning": [
+      {
+        "product": "Овсянка ",
+        "grams": 61
+      },
+      {
+        "product": "Груша",
+        "grams": 17
+      },
+      {
+        "product": "Банан",
+        "grams": 15
+      }
+    ],
+    "lunch": [
+      {
+        "product": "Морковь",
+        "grams": 46
+      },
+      {
+        "product": "Кролик",
+        "grams": 31
+      },
+      {
+        "product": "Брокколи",
+        "grams": 15
+      }
+    ],
+    "evening": [],
+    "notes": ""
+  },
+  {
+    "id": "1778475544364-fmr7mpo",
+    "date": "2026-05-12",
+    "morning": [
+      {
+        "product": "Рис",
+        "grams": 70
+      },
+      {
+        "product": "Яблоко",
+        "grams": 29
+      },
+      {
+        "product": "Банан",
+        "grams": 5
+      }
+    ],
+    "lunch": [
+      {
+        "product": "Кабачок",
+        "grams": 46
+      },
+      {
+        "product": "Брокколи",
+        "grams": 15
+      },
+      {
+        "product": "Индейка",
+        "grams": 29
+      }
+    ],
+    "evening": [],
+    "notes": "Оливковое "
+  },
+  {
+    "id": "1778420796230-el4w4zy",
+    "date": "2026-05-11",
+    "morning": [
+      {
+        "product": "Кукуруза",
+        "grams": 63
+      },
+      {
+        "product": "Манго",
         "grams": 30
       }
     ],
-    "notes": "Вводим рисовую кашу",
-    "eaten": {}
-  },
-  {
-    "id": "d-027",
-    "date": "2026-04-27",
-    "morning": [
-      {
-        "product": "гречневая каша",
-        "grams": 80
-      }
-    ],
     "lunch": [
       {
-        "product": "кабачок",
-        "grams": 50
-      },
-      {
-        "product": "брокколи",
-        "grams": 50
-      }
-    ],
-    "evening": [
-      {
-        "product": "цветная капуста",
-        "grams": 40
-      }
-    ],
-    "notes": "",
-    "eaten": {}
-  },
-  {
-    "id": "d-026",
-    "date": "2026-04-26",
-    "morning": [
-      {
-        "product": "гречневая каша",
-        "grams": 60
-      }
-    ],
-    "lunch": [
-      {
-        "product": "цветная капуста",
-        "grams": 100
-      }
-    ],
-    "evening": [
-      {
-        "product": "брокколи",
+        "product": "Говядина",
         "grams": 30
+      },
+      {
+        "product": "Кабачок",
+        "grams": 46
+      },
+      {
+        "product": "Брокколи",
+        "grams": 15
       }
     ],
-    "notes": "",
-    "eaten": {}
+    "evening": [],
+    "notes": "Подсолнечное лльняное ммасло ",
+    "eaten": {
+      "morning": true,
+      "lunch": true
+    }
   },
   {
-    "id": "d-025",
-    "date": "2026-04-25",
+    "id": "1778342008888-onu2uw2",
+    "date": "2026-05-10",
     "morning": [
       {
-        "product": "гречневая каша",
-        "grams": 40
+        "product": "Гречка",
+        "grams": 70
+      },
+      {
+        "product": "Груша",
+        "grams": 32
       }
     ],
     "lunch": [
       {
-        "product": "брокколи",
-        "grams": 50
+        "product": "Тыква",
+        "grams": 47
       },
       {
-        "product": "кабачок",
-        "grams": 50
-      }
-    ],
-    "evening": [
-      {
-        "product": "кабачок",
-        "grams": 30
-      }
-    ],
-    "notes": "Пробуем вечернее кормление",
-    "eaten": {}
-  },
-  {
-    "id": "d-024",
-    "date": "2026-04-24",
-    "morning": [
-      {
-        "product": "гречневая каша",
-        "grams": 20
-      }
-    ],
-    "lunch": [
-      {
-        "product": "кабачок",
-        "grams": 50
+        "product": "Кролик",
+        "grams": 32
       },
       {
-        "product": "цветная капуста",
-        "grams": 50
+        "product": "Брокколи",
+        "grams": 18
       }
     ],
     "evening": [],
@@ -475,420 +971,1530 @@
     }
   },
   {
-    "id": "d-023",
+    "id": "1778304964912-4631ft9",
+    "date": "2026-05-09",
+    "morning": [
+      {
+        "product": "Овсянка",
+        "grams": 61
+      },
+      {
+        "product": "Яблоко",
+        "grams": 31
+      }
+    ],
+    "lunch": [
+      {
+        "product": "Индейка",
+        "grams": 31
+      },
+      {
+        "product": "Тыква",
+        "grams": 47
+      },
+      {
+        "product": "Брокколи",
+        "grams": 15
+      }
+    ],
+    "evening": [],
+    "notes": "МАсло подсолнечное льняное",
+    "eaten": {
+      "morning": true,
+      "lunch": true
+    }
+  },
+  {
+    "id": "1778170069707-9ho5k18",
+    "date": "2026-05-08",
+    "morning": [
+      {
+        "product": "Манго",
+        "grams": 31
+      },
+      {
+        "product": "Рис",
+        "grams": 29
+      },
+      {
+        "product": "Овсянка",
+        "grams": 30
+      }
+    ],
+    "lunch": [
+      {
+        "product": "Морковь",
+        "grams": 47
+      },
+      {
+        "product": "Говядина",
+        "grams": 31
+      }
+    ],
+    "evening": [],
+    "notes": ""
+  },
+  {
+    "id": "1778084114514-5y8dsqu",
+    "date": "2026-05-07",
+    "morning": [
+      {
+        "product": "Груша",
+        "grams": 30
+      },
+      {
+        "product": "Кукуруза",
+        "grams": 43
+      },
+      {
+        "product": "Овсянка",
+        "grams": 17
+      }
+    ],
+    "lunch": [
+      {
+        "product": "Кролик",
+        "grams": 32
+      },
+      {
+        "product": "Морковь",
+        "grams": 47
+      },
+      {
+        "product": "Брокколи",
+        "grams": 14
+      }
+    ],
+    "evening": [],
+    "notes": "",
+    "eaten": {
+      "morning": true,
+      "lunch": true
+    }
+  },
+  {
+    "id": "1777992538010-azq3y16",
+    "date": "2026-05-06",
+    "morning": [
+      {
+        "product": "Манго",
+        "grams": 29
+      },
+      {
+        "product": "Гречка",
+        "grams": 59
+      },
+      {
+        "product": "Овсянка",
+        "grams": 12
+      }
+    ],
+    "lunch": [
+      {
+        "product": "Индейка",
+        "grams": 30
+      },
+      {
+        "product": "Кабачок",
+        "grams": 47
+      },
+      {
+        "product": "Брокколи",
+        "grams": 16
+      }
+    ],
+    "evening": [],
+    "notes": "",
+    "eaten": {
+      "morning": true
+    }
+  },
+  {
+    "id": "2026-05-05",
+    "date": "2026-05-05",
+    "morning": [],
+    "lunch": [
+      {
+        "product": "Манго",
+        "grams": 24
+      },
+      {
+        "product": "Яблоко",
+        "grams": 7
+      },
+      {
+        "product": "Брокколи",
+        "grams": 14
+      },
+      {
+        "product": "Говядина",
+        "grams": 30
+      },
+      {
+        "product": "Кабачок",
+        "grams": 47
+      },
+      {
+        "product": "Рис",
+        "grams": 63
+      }
+    ],
+    "evening": [],
+    "notes": ""
+  },
+  {
+    "id": "2026-05-04",
+    "date": "2026-05-04",
+    "morning": [],
+    "lunch": [
+      {
+        "product": "Манго",
+        "grams": 16
+      },
+      {
+        "product": "Кукуруза",
+        "grams": 64
+      },
+      {
+        "product": "Груша",
+        "grams": 15
+      },
+      {
+        "product": "Тыква",
+        "grams": 47
+      },
+      {
+        "product": "Брокколи",
+        "grams": 14
+      },
+      {
+        "product": "Кролик",
+        "grams": 31
+      }
+    ],
+    "evening": [],
+    "notes": "",
+    "eaten": {
+      "lunch": true
+    }
+  },
+  {
+    "id": "2026-05-03",
+    "date": "2026-05-03",
+    "morning": [],
+    "lunch": [
+      {
+        "product": "Яблоко",
+        "grams": 29
+      },
+      {
+        "product": "Манго",
+        "grams": 5
+      },
+      {
+        "product": "Гречка",
+        "grams": 65
+      },
+      {
+        "product": "Брокколи",
+        "grams": 21
+      },
+      {
+        "product": "Тыква",
+        "grams": 47
+      },
+      {
+        "product": "Индейка",
+        "grams": 31
+      }
+    ],
+    "evening": [],
+    "notes": ""
+  },
+  {
+    "id": "2026-05-02",
+    "date": "2026-05-02",
+    "morning": [],
+    "lunch": [
+      {
+        "product": "Рис",
+        "grams": 64
+      },
+      {
+        "product": "Груша",
+        "grams": 24
+      },
+      {
+        "product": "Яблоко",
+        "grams": 9
+      },
+      {
+        "product": "Говядина",
+        "grams": 24
+      },
+      {
+        "product": "Морковь",
+        "grams": 47
+      },
+      {
+        "product": "Брокколи",
+        "grams": 14
+      }
+    ],
+    "evening": [],
+    "notes": ""
+  },
+  {
+    "id": "2026-05-01",
+    "date": "2026-05-01",
+    "morning": [],
+    "lunch": [
+      {
+        "product": "Яблоко",
+        "grams": 20
+      },
+      {
+        "product": "Кукуруза",
+        "grams": 62
+      },
+      {
+        "product": "Груша",
+        "grams": 9
+      },
+      {
+        "product": "Кролик",
+        "grams": 32
+      },
+      {
+        "product": "Морковь",
+        "grams": 47
+      }
+    ],
+    "evening": [],
+    "notes": ""
+  },
+  {
+    "id": "2026-04-30",
+    "date": "2026-04-30",
+    "morning": [],
+    "lunch": [
+      {
+        "product": "Гречка",
+        "grams": 66
+      },
+      {
+        "product": "Груша",
+        "grams": 5
+      },
+      {
+        "product": "Яблоко",
+        "grams": 26
+      },
+      {
+        "product": "Брокколи",
+        "grams": 14
+      },
+      {
+        "product": "Кабачок",
+        "grams": 47
+      },
+      {
+        "product": "Индейка",
+        "grams": 25
+      }
+    ],
+    "evening": [],
+    "notes": ""
+  },
+  {
+    "id": "2026-04-29",
+    "date": "2026-04-29",
+    "morning": [],
+    "lunch": [
+      {
+        "product": "Рис",
+        "grams": 65
+      },
+      {
+        "product": "Яблоко",
+        "grams": 32
+      },
+      {
+        "product": "Кролик",
+        "grams": 8
+      },
+      {
+        "product": "Говядина",
+        "grams": 23
+      },
+      {
+        "product": "Брокколи",
+        "grams": 14
+      },
+      {
+        "product": "Кабачок",
+        "grams": 47
+      }
+    ],
+    "evening": [],
+    "notes": ""
+  },
+  {
+    "id": "2026-04-28",
+    "date": "2026-04-28",
+    "morning": [],
+    "lunch": [
+      {
+        "product": "Гречка",
+        "grams": 33
+      },
+      {
+        "product": "Кукуруза",
+        "grams": 30
+      },
+      {
+        "product": "Яблоко",
+        "grams": 32
+      },
+      {
+        "product": "Тыква",
+        "grams": 47
+      },
+      {
+        "product": "Брокколи",
+        "grams": 14
+      },
+      {
+        "product": "Говядина",
+        "grams": 13
+      },
+      {
+        "product": "Индейка",
+        "grams": 17
+      }
+    ],
+    "evening": [],
+    "notes": ""
+  },
+  {
+    "id": "2026-04-27",
+    "date": "2026-04-27",
+    "morning": [],
+    "lunch": [
+      {
+        "product": "Рис",
+        "grams": 38
+      },
+      {
+        "product": "Кукуруза",
+        "grams": 22
+      },
+      {
+        "product": "Яблоко",
+        "grams": 33
+      },
+      {
+        "product": "Говядина",
+        "grams": 5
+      },
+      {
+        "product": "Кролик",
+        "grams": 24
+      },
+      {
+        "product": "Тыква",
+        "grams": 47
+      },
+      {
+        "product": "Брокколи",
+        "grams": 14
+      }
+    ],
+    "evening": [],
+    "notes": ""
+  },
+  {
+    "id": "2026-04-26",
+    "date": "2026-04-26",
+    "morning": [],
+    "lunch": [
+      {
+        "product": "Гречка",
+        "grams": 45
+      },
+      {
+        "product": "Кукуруза",
+        "grams": 16
+      },
+      {
+        "product": "Яблоко",
+        "grams": 35
+      },
+      {
+        "product": "Морковь",
+        "grams": 54
+      },
+      {
+        "product": "Индейка",
+        "grams": 24
+      },
+      {
+        "product": "Брокколи",
+        "grams": 15
+      }
+    ],
+    "evening": [],
+    "notes": ""
+  },
+  {
+    "id": "2026-04-25",
+    "date": "2026-04-25",
+    "morning": [],
+    "lunch": [
+      {
+        "product": "Рис",
+        "grams": 45
+      },
+      {
+        "product": "Яблоко",
+        "grams": 30
+      },
+      {
+        "product": "Кукуруза",
+        "grams": 9
+      },
+      {
+        "product": "Кролик",
+        "grams": 24
+      },
+      {
+        "product": "Морковь",
+        "grams": 47
+      },
+      {
+        "product": "Брокколи",
+        "grams": 14
+      }
+    ],
+    "evening": [],
+    "notes": ""
+  },
+  {
+    "id": "2026-04-24",
+    "date": "2026-04-24",
+    "morning": [],
+    "lunch": [
+      {
+        "product": "Гречка",
+        "grams": 40
+      },
+      {
+        "product": "Кукуруза",
+        "grams": 10
+      },
+      {
+        "product": "Яблоко",
+        "grams": 33
+      },
+      {
+        "product": "Кабачок",
+        "grams": 54
+      },
+      {
+        "product": "Индейка",
+        "grams": 23
+      },
+      {
+        "product": "Брокколи",
+        "grams": 14
+      }
+    ],
+    "evening": [],
+    "notes": ""
+  },
+  {
+    "id": "2026-04-23",
     "date": "2026-04-23",
-    "morning": [
-      {
-        "product": "гречневая каша",
-        "grams": 10
-      }
-    ],
+    "morning": [],
     "lunch": [
       {
-        "product": "брокколи",
-        "grams": 100
+        "product": "Гречка",
+        "grams": 28
+      },
+      {
+        "product": "Яблоко",
+        "grams": 28
+      },
+      {
+        "product": "Кабачок",
+        "grams": 54
+      },
+      {
+        "product": "Брокколи",
+        "grams": 14
+      },
+      {
+        "product": "Кролик",
+        "grams": 24
       }
     ],
     "evening": [],
-    "notes": "",
-    "eaten": {}
+    "notes": ""
   },
   {
-    "id": "d-022",
+    "id": "2026-04-22",
     "date": "2026-04-22",
-    "morning": [
-      {
-        "product": "гречневая каша",
-        "grams": 5
-      }
-    ],
+    "morning": [],
     "lunch": [
       {
-        "product": "цветная капуста",
-        "grams": 50
+        "product": "Рис",
+        "grams": 38
       },
       {
-        "product": "кабачок",
-        "grams": 50
+        "product": "Яблоко",
+        "grams": 28
+      },
+      {
+        "product": "Тыква",
+        "grams": 47
+      },
+      {
+        "product": "Брокколи",
+        "grams": 14
+      },
+      {
+        "product": "Кролик",
+        "grams": 9
+      },
+      {
+        "product": "Индейка",
+        "grams": 10
       }
     ],
     "evening": [],
-    "notes": "Вводим гречневую кашу",
-    "eaten": {}
+    "notes": ""
   },
   {
-    "id": "d-021",
+    "id": "2026-04-21",
     "date": "2026-04-21",
-    "morning": [
-      {
-        "product": "цветная капуста",
-        "grams": 100
-      }
-    ],
+    "morning": [],
     "lunch": [
       {
-        "product": "брокколи",
-        "grams": 50
+        "product": "Гречка",
+        "grams": 35
       },
       {
-        "product": "кабачок",
-        "grams": 50
+        "product": "Яблоко",
+        "grams": 21
+      },
+      {
+        "product": "Индейка",
+        "grams": 16
+      },
+      {
+        "product": "Тыква",
+        "grams": 47
+      },
+      {
+        "product": "Брокколи",
+        "grams": 14
+      },
+      {
+        "product": "Кролик",
+        "grams": 5
       }
     ],
     "evening": [],
-    "notes": "Полная порция цветной капусты",
-    "eaten": {}
+    "notes": ""
   },
   {
-    "id": "d-020",
+    "id": "2026-04-20",
     "date": "2026-04-20",
-    "morning": [
-      {
-        "product": "цветная капуста",
-        "grams": 80
-      }
-    ],
+    "morning": [],
     "lunch": [
       {
-        "product": "кабачок",
-        "grams": 100
+        "product": "Рис",
+        "grams": 32
+      },
+      {
+        "product": "Яблоко",
+        "grams": 15
+      },
+      {
+        "product": "Индейка",
+        "grams": 16
+      },
+      {
+        "product": "Морковь",
+        "grams": 47
       }
     ],
     "evening": [],
-    "notes": "",
-    "eaten": {}
+    "notes": ""
   },
   {
-    "id": "d-019",
+    "id": "2026-04-19",
     "date": "2026-04-19",
-    "morning": [
-      {
-        "product": "цветная капуста",
-        "grams": 60
-      }
-    ],
+    "morning": [],
     "lunch": [
       {
-        "product": "брокколи",
-        "grams": 100
+        "product": "Рис",
+        "grams": 32
+      },
+      {
+        "product": "Яблоко",
+        "grams": 5
+      },
+      {
+        "product": "Индейка",
+        "grams": 16
+      },
+      {
+        "product": "Морковь",
+        "grams": 47
       }
     ],
     "evening": [],
-    "notes": "",
-    "eaten": {}
+    "notes": ""
   },
   {
-    "id": "d-018",
+    "id": "2026-04-18",
     "date": "2026-04-18",
-    "morning": [
-      {
-        "product": "цветная капуста",
-        "grams": 40
-      }
-    ],
+    "morning": [],
     "lunch": [
       {
-        "product": "кабачок",
-        "grams": 50
+        "product": "Рис",
+        "grams": 25
       },
       {
-        "product": "брокколи",
-        "grams": 50
+        "product": "Индейка",
+        "grams": 16
+      },
+      {
+        "product": "Кабачок",
+        "grams": 47
       }
     ],
     "evening": [],
-    "notes": "",
-    "eaten": {}
+    "notes": ""
   },
   {
-    "id": "d-017",
+    "id": "2026-04-17",
     "date": "2026-04-17",
-    "morning": [
-      {
-        "product": "цветная капуста",
-        "grams": 20
-      }
-    ],
+    "morning": [],
     "lunch": [
       {
-        "product": "брокколи",
-        "grams": 100
+        "product": "Гречка",
+        "grams": 30
+      },
+      {
+        "product": "Индейка",
+        "grams": 16
+      },
+      {
+        "product": "Кабачок",
+        "grams": 47
       }
     ],
     "evening": [],
-    "notes": "",
-    "eaten": {}
+    "notes": ""
   },
   {
-    "id": "d-016",
+    "id": "2026-04-16",
     "date": "2026-04-16",
-    "morning": [
-      {
-        "product": "цветная капуста",
-        "grams": 10
-      }
-    ],
+    "morning": [],
     "lunch": [
       {
-        "product": "кабачок",
-        "grams": 100
+        "product": "Рис",
+        "grams": 30
+      },
+      {
+        "product": "Индейка",
+        "grams": 10
+      },
+      {
+        "product": "Тыква",
+        "grams": 41
+      },
+      {
+        "product": "Брокколи",
+        "grams": 12
       }
     ],
     "evening": [],
-    "notes": "",
-    "eaten": {}
+    "notes": ""
   },
   {
-    "id": "d-015",
+    "id": "2026-04-15",
     "date": "2026-04-15",
-    "morning": [
-      {
-        "product": "цветная капуста",
-        "grams": 5
-      }
-    ],
+    "morning": [],
     "lunch": [
       {
-        "product": "брокколи",
-        "grams": 50
+        "product": "Гречка",
+        "grams": 32
       },
       {
-        "product": "кабачок",
-        "grams": 50
+        "product": "Тыква",
+        "grams": 47
+      },
+      {
+        "product": "Брокколи",
+        "grams": 14
+      },
+      {
+        "product": "Индейка",
+        "grams": 3
       }
     ],
     "evening": [],
-    "notes": "Вводим цветную капусту, на обед микс",
-    "eaten": {}
+    "notes": ""
   },
   {
-    "id": "d-014",
+    "id": "2026-04-14",
     "date": "2026-04-14",
-    "morning": [
+    "morning": [],
+    "lunch": [
       {
-        "product": "брокколи",
-        "grams": 90
+        "product": "Рис",
+        "grams": 27
+      },
+      {
+        "product": "Морковь",
+        "grams": 47
+      },
+      {
+        "product": "Брокколи",
+        "grams": 14
       }
     ],
-    "lunch": [],
     "evening": [],
-    "notes": "Полная порция брокколи",
-    "eaten": {}
+    "notes": ""
   },
   {
-    "id": "d-013",
+    "id": "2026-04-13",
     "date": "2026-04-13",
-    "morning": [
-      {
-        "product": "брокколи",
-        "grams": 80
-      }
-    ],
+    "morning": [],
     "lunch": [
       {
-        "product": "кабачок",
-        "grams": 20
+        "product": "Гречка",
+        "grams": 16
+      },
+      {
+        "product": "Рис",
+        "grams": 16
+      },
+      {
+        "product": "Брокколи",
+        "grams": 15
+      },
+      {
+        "product": "Морковь",
+        "grams": 47
       }
     ],
     "evening": [],
-    "notes": "",
-    "eaten": {}
+    "notes": ""
   },
   {
-    "id": "d-012",
+    "id": "2026-04-12",
     "date": "2026-04-12",
-    "morning": [
-      {
-        "product": "брокколи",
-        "grams": 60
-      }
-    ],
+    "morning": [],
     "lunch": [
       {
-        "product": "кабачок",
-        "grams": 40
+        "product": "Гречка",
+        "grams": 18
+      },
+      {
+        "product": "Рис",
+        "grams": 9
+      },
+      {
+        "product": "Брокколи",
+        "grams": 15
+      },
+      {
+        "product": "Тыква",
+        "grams": 10
+      },
+      {
+        "product": "Кабачок",
+        "grams": 29
+      },
+      {
+        "product": "Оливковое масло",
+        "grams": 1
       }
     ],
     "evening": [],
-    "notes": "",
-    "eaten": {}
+    "notes": ""
   },
   {
-    "id": "d-011",
+    "id": "2026-04-11",
     "date": "2026-04-11",
-    "morning": [
-      {
-        "product": "брокколи",
-        "grams": 40
-      }
-    ],
+    "morning": [],
     "lunch": [
       {
-        "product": "кабачок",
-        "grams": 60
+        "product": "Гречка",
+        "grams": 30
+      },
+      {
+        "product": "Кабачок",
+        "grams": 20
+      },
+      {
+        "product": "Брокколи",
+        "grams": 15
+      },
+      {
+        "product": "Тыква",
+        "grams": 28
       }
     ],
     "evening": [],
-    "notes": "",
-    "eaten": {}
+    "notes": ""
   },
   {
-    "id": "d-010",
+    "id": "2026-04-10",
     "date": "2026-04-10",
-    "morning": [
+    "morning": [],
+    "lunch": [
       {
-        "product": "брокколи",
+        "product": "Гречка",
+        "grams": 24
+      },
+      {
+        "product": "Кабачок",
+        "grams": 20
+      },
+      {
+        "product": "Брокколи",
+        "grams": 15
+      },
+      {
+        "product": "Тыква",
+        "grams": 28
+      }
+    ],
+    "evening": [],
+    "notes": ""
+  },
+  {
+    "id": "2026-04-09",
+    "date": "2026-04-09",
+    "morning": [],
+    "lunch": [
+      {
+        "product": "Гречка",
+        "grams": 30
+      },
+      {
+        "product": "Морковь",
+        "grams": 37
+      },
+      {
+        "product": "Брокколи",
+        "grams": 20
+      },
+      {
+        "product": "Тыква",
         "grams": 20
       }
     ],
-    "lunch": [
-      {
-        "product": "кабачок",
-        "grams": 80
-      }
-    ],
     "evening": [],
-    "notes": "",
-    "eaten": {}
+    "notes": ""
   },
   {
-    "id": "d-009",
-    "date": "2026-04-09",
-    "morning": [
-      {
-        "product": "брокколи",
-        "grams": 10
-      }
-    ],
-    "lunch": [
-      {
-        "product": "кабачок",
-        "grams": 100
-      }
-    ],
-    "evening": [],
-    "notes": "",
-    "eaten": {}
-  },
-  {
-    "id": "d-008",
+    "id": "2026-04-08",
     "date": "2026-04-08",
-    "morning": [
+    "morning": [],
+    "lunch": [
       {
-        "product": "брокколи",
+        "product": "Гречка",
+        "grams": 29
+      },
+      {
+        "product": "Морковь",
+        "grams": 47
+      },
+      {
+        "product": "Брокколи",
+        "grams": 15
+      },
+      {
+        "product": "Тыква",
         "grams": 5
       }
     ],
+    "evening": [],
+    "notes": ""
+  },
+  {
+    "id": "2026-04-07",
+    "date": "2026-04-07",
+    "morning": [],
     "lunch": [
       {
-        "product": "кабачок",
-        "grams": 100
-      }
-    ],
-    "evening": [],
-    "notes": "Вводим брокколи",
-    "eaten": {}
-  },
-  {
-    "id": "d-007",
-    "date": "2026-04-07",
-    "morning": [
+        "product": "Гречка",
+        "grams": 35
+      },
       {
-        "product": "кабачок",
-        "grams": 100
+        "product": "Кабачок",
+        "grams": 47
+      },
+      {
+        "product": "Брокколи",
+        "grams": 14
       }
     ],
-    "lunch": [],
     "evening": [],
-    "notes": "Полная порция кабачка",
-    "eaten": {}
+    "notes": ""
   },
   {
-    "id": "d-006",
+    "id": "2026-04-06",
     "date": "2026-04-06",
-    "morning": [
+    "morning": [],
+    "lunch": [
       {
-        "product": "кабачок",
-        "grams": 80
+        "product": "Гречка",
+        "grams": 24
+      },
+      {
+        "product": "Кабачок",
+        "grams": 47
+      },
+      {
+        "product": "Брокколи",
+        "grams": 14
       }
     ],
-    "lunch": [],
     "evening": [],
-    "notes": "",
-    "eaten": {}
+    "notes": ""
   },
   {
-    "id": "d-005",
+    "id": "2026-04-05",
     "date": "2026-04-05",
-    "morning": [
+    "morning": [],
+    "lunch": [
       {
-        "product": "кабачок",
-        "grams": 60
+        "product": "Гречка",
+        "grams": 20
+      },
+      {
+        "product": "Брокколи",
+        "grams": 21
+      },
+      {
+        "product": "Морковь",
+        "grams": 28
       }
     ],
-    "lunch": [],
     "evening": [],
-    "notes": "",
-    "eaten": {}
+    "notes": ""
   },
   {
-    "id": "d-004",
+    "id": "2026-04-04",
     "date": "2026-04-04",
-    "morning": [
+    "morning": [],
+    "lunch": [
       {
-        "product": "кабачок",
-        "grams": 40
+        "product": "Гречка",
+        "grams": 30
+      },
+      {
+        "product": "Кабачок",
+        "grams": 15
+      },
+      {
+        "product": "Брокколи",
+        "grams": 7
+      },
+      {
+        "product": "Цветная капуста",
+        "grams": 7
+      },
+      {
+        "product": "Морковь",
+        "grams": 28
       }
     ],
-    "lunch": [],
     "evening": [],
-    "notes": "Хорошо ест, увеличиваем порцию",
-    "eaten": {}
+    "notes": ""
   },
   {
-    "id": "d-003",
+    "id": "2026-04-03",
     "date": "2026-04-03",
-    "morning": [
+    "morning": [],
+    "lunch": [
       {
-        "product": "кабачок",
+        "product": "Гречка",
+        "grams": 15
+      },
+      {
+        "product": "Кабачок",
+        "grams": 20
+      },
+      {
+        "product": "Брокколи",
+        "grams": 20
+      },
+      {
+        "product": "Морковь",
         "grams": 20
       }
     ],
-    "lunch": [],
     "evening": [],
-    "notes": "",
-    "eaten": {}
+    "notes": ""
   },
   {
-    "id": "d-002",
+    "id": "2026-04-02",
     "date": "2026-04-02",
-    "morning": [
+    "morning": [],
+    "lunch": [
       {
-        "product": "кабачок",
+        "product": "Гречка",
+        "grams": 30
+      },
+      {
+        "product": "Кабачок",
+        "grams": 30
+      },
+      {
+        "product": "Брокколи",
+        "grams": 15
+      },
+      {
+        "product": "Морковь",
         "grams": 10
       }
     ],
-    "lunch": [],
     "evening": [],
-    "notes": "",
-    "eaten": {}
+    "notes": ""
   },
   {
-    "id": "d-001",
+    "id": "2026-04-01",
     "date": "2026-04-01",
-    "morning": [
+    "morning": [],
+    "lunch": [
       {
-        "product": "кабачок",
+        "product": "Гречка",
+        "grams": 20
+      },
+      {
+        "product": "Кабачок",
+        "grams": 30
+      },
+      {
+        "product": "Брокколи",
+        "grams": 14
+      },
+      {
+        "product": "Морковь",
+        "grams": 5
+      }
+    ],
+    "evening": [],
+    "notes": ""
+  },
+  {
+    "id": "2026-03-31",
+    "date": "2026-03-31",
+    "morning": [],
+    "lunch": [
+      {
+        "product": "Гречка",
+        "grams": 23
+      },
+      {
+        "product": "Кабачок",
+        "grams": 35
+      },
+      {
+        "product": "Брокколи",
+        "grams": 14
+      }
+    ],
+    "evening": [],
+    "notes": ""
+  },
+  {
+    "id": "2026-03-30",
+    "date": "2026-03-30",
+    "morning": [],
+    "lunch": [
+      {
+        "product": "Гречка",
+        "grams": 20
+      },
+      {
+        "product": "Кабачок",
+        "grams": 47
+      },
+      {
+        "product": "Брокколи",
+        "grams": 14
+      }
+    ],
+    "evening": [],
+    "notes": ""
+  },
+  {
+    "id": "2026-03-29",
+    "date": "2026-03-29",
+    "morning": [],
+    "lunch": [
+      {
+        "product": "Гречка",
+        "grams": 10
+      },
+      {
+        "product": "Кабачок",
+        "grams": 47
+      }
+    ],
+    "evening": [],
+    "notes": ""
+  },
+  {
+    "id": "2026-03-28",
+    "date": "2026-03-28",
+    "morning": [],
+    "lunch": [
+      {
+        "product": "Гречка",
+        "grams": 5
+      },
+      {
+        "product": "Кабачок",
+        "grams": 47
+      }
+    ],
+    "evening": [],
+    "notes": ""
+  },
+  {
+    "id": "2026-03-27",
+    "date": "2026-03-27",
+    "morning": [],
+    "lunch": [
+      {
+        "product": "Кабачок",
+        "grams": 47
+      }
+    ],
+    "evening": [],
+    "notes": ""
+  },
+  {
+    "id": "2026-03-26",
+    "date": "2026-03-26",
+    "morning": [],
+    "lunch": [
+      {
+        "product": "Кабачок",
+        "grams": 30
+      },
+      {
+        "product": "Брокколи",
+        "grams": 15
+      }
+    ],
+    "evening": [],
+    "notes": ""
+  },
+  {
+    "id": "2026-03-25",
+    "date": "2026-03-25",
+    "morning": [],
+    "lunch": [
+      {
+        "product": "Кабачок",
+        "grams": 30
+      },
+      {
+        "product": "Брокколи",
+        "grams": 20
+      }
+    ],
+    "evening": [],
+    "notes": ""
+  },
+  {
+    "id": "2026-03-24",
+    "date": "2026-03-24",
+    "morning": [],
+    "lunch": [
+      {
+        "product": "Цветная капуста",
+        "grams": 10
+      },
+      {
+        "product": "Брокколи",
+        "grams": 20
+      }
+    ],
+    "evening": [],
+    "notes": "аллергия на цветную капусту, красные щеки"
+  },
+  {
+    "id": "2026-03-23",
+    "date": "2026-03-23",
+    "morning": [],
+    "lunch": [
+      {
+        "product": "Цветная капуста",
+        "grams": 5
+      },
+      {
+        "product": "Брокколи",
+        "grams": 40
+      }
+    ],
+    "evening": [],
+    "notes": ""
+  },
+  {
+    "id": "2026-03-21",
+    "date": "2026-03-21",
+    "morning": [],
+    "lunch": [
+      {
+        "product": "Кабачок",
+        "grams": 47
+      }
+    ],
+    "evening": [],
+    "notes": ""
+  },
+  {
+    "id": "2026-03-20",
+    "date": "2026-03-20",
+    "morning": [],
+    "lunch": [
+      {
+        "product": "Кабачок",
+        "grams": 47
+      }
+    ],
+    "evening": [],
+    "notes": ""
+  },
+  {
+    "id": "2026-03-19",
+    "date": "2026-03-19",
+    "morning": [],
+    "lunch": [
+      {
+        "product": "Брокколи",
+        "grams": 55
+      }
+    ],
+    "evening": [],
+    "notes": ""
+  },
+  {
+    "id": "2026-03-18",
+    "date": "2026-03-18",
+    "morning": [],
+    "lunch": [
+      {
+        "product": "Кабачок",
+        "grams": 10
+      },
+      {
+        "product": "Брокколи",
+        "grams": 40
+      }
+    ],
+    "evening": [],
+    "notes": ""
+  },
+  {
+    "id": "2026-03-17",
+    "date": "2026-03-17",
+    "morning": [],
+    "lunch": [
+      {
+        "product": "Кабачок",
+        "grams": 20
+      },
+      {
+        "product": "Брокколи",
+        "grams": 30
+      }
+    ],
+    "evening": [],
+    "notes": ""
+  },
+  {
+    "id": "2026-03-16",
+    "date": "2026-03-16",
+    "morning": [],
+    "lunch": [
+      {
+        "product": "Кабачок",
+        "grams": 30
+      },
+      {
+        "product": "Брокколи",
+        "grams": 20
+      }
+    ],
+    "evening": [],
+    "notes": ""
+  },
+  {
+    "id": "2026-03-15",
+    "date": "2026-03-15",
+    "morning": [],
+    "lunch": [
+      {
+        "product": "Кабачок",
+        "grams": 35
+      },
+      {
+        "product": "Брокколи",
+        "grams": 15
+      }
+    ],
+    "evening": [],
+    "notes": ""
+  },
+  {
+    "id": "2026-03-14",
+    "date": "2026-03-14",
+    "morning": [],
+    "lunch": [
+      {
+        "product": "Кабачок",
         "grams": 40
       },
       {
-        "product": "какаша",
-        "grams": 90
+        "product": "Брокколи",
+        "grams": 10
       }
     ],
-    "lunch": [],
     "evening": [],
-    "notes": "Первый прикорм, начинаем с кабачка",
-    "eaten": {}
+    "notes": ""
+  },
+  {
+    "id": "2026-03-13",
+    "date": "2026-03-13",
+    "morning": [],
+    "lunch": [
+      {
+        "product": "Кабачок",
+        "grams": 45
+      },
+      {
+        "product": "Брокколи",
+        "grams": 3
+      }
+    ],
+    "evening": [],
+    "notes": ""
+  },
+  {
+    "id": "2026-03-12",
+    "date": "2026-03-12",
+    "morning": [],
+    "lunch": [
+      {
+        "product": "Кабачок",
+        "grams": 45
+      }
+    ],
+    "evening": [],
+    "notes": ""
+  },
+  {
+    "id": "2026-03-11",
+    "date": "2026-03-11",
+    "morning": [],
+    "lunch": [
+      {
+        "product": "Кабачок",
+        "grams": 40
+      }
+    ],
+    "evening": [],
+    "notes": ""
+  },
+  {
+    "id": "2026-03-10",
+    "date": "2026-03-10",
+    "morning": [],
+    "lunch": [
+      {
+        "product": "Кабачок",
+        "grams": 30
+      }
+    ],
+    "evening": [],
+    "notes": ""
+  },
+  {
+    "id": "2026-03-09",
+    "date": "2026-03-09",
+    "morning": [],
+    "lunch": [
+      {
+        "product": "Кабачок",
+        "grams": 20
+      }
+    ],
+    "evening": [],
+    "notes": ""
+  },
+  {
+    "id": "2026-03-08",
+    "date": "2026-03-08",
+    "morning": [],
+    "lunch": [
+      {
+        "product": "Кабачок",
+        "grams": 15
+      }
+    ],
+    "evening": [],
+    "notes": ""
+  },
+  {
+    "id": "2026-03-07",
+    "date": "2026-03-07",
+    "morning": [],
+    "lunch": [
+      {
+        "product": "Кабачок",
+        "grams": 7
+      }
+    ],
+    "evening": [],
+    "notes": ""
+  },
+  {
+    "id": "2026-03-06",
+    "date": "2026-03-06",
+    "morning": [],
+    "lunch": [
+      {
+        "product": "Кабачок",
+        "grams": 3
+      }
+    ],
+    "evening": [],
+    "notes": ""
+  },
+  {
+    "id": "2026-03-01",
+    "date": "2026-03-01",
+    "morning": [],
+    "lunch": [
+      {
+        "product": "Кабачок",
+        "grams": 3
+      }
+    ],
+    "evening": [],
+    "notes": ""
   }
 ]
