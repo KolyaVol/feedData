@@ -44,6 +44,10 @@
       {
         "product": "Манго",
         "grams": 0
+      },
+      {
+        "product": "Кефир",
+        "grams": 20
       }
     ],
     "lunch": [
