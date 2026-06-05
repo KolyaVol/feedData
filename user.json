@@ -68,6 +68,10 @@
       {
         "product": "Творог ",
         "grams": 30
+      },
+      {
+        "product": "Шпинат",
+        "grams": 15
       }
     ],
     "notes": ""
