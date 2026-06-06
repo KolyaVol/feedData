@@ -73,6 +73,10 @@
       {
         "product": "Кефир ",
         "grams": 0
+      },
+      {
+        "product": "Картофель",
+        "grams": 30
       }
     ],
     "notes": ""
