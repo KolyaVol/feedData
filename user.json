@@ -49,6 +49,10 @@
       {
         "product": "Яблоко",
         "grams": 0
+      },
+      {
+        "product": "Клубника",
+        "grams": 5
       }
     ],
     "lunch": [
