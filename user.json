@@ -1,5 +1,44 @@
 [
   {
+    "id": "1780811504927-f53sgih",
+    "date": "2026-06-08",
+    "morning": [
+      {
+        "product": "Гречка ",
+        "grams": 77
+      },
+      {
+        "product": "Яблоко",
+        "grams": 0
+      },
+      {
+        "product": "Клубника",
+        "grams": 5
+      }
+    ],
+    "lunch": [
+      {
+        "product": "Морковь ",
+        "grams": 0
+      },
+      {
+        "product": "Цыплёнок",
+        "grams": 22
+      },
+      {
+        "product": "Брокколи",
+        "grams": 15
+      }
+    ],
+    "evening": [
+      {
+        "product": "",
+        "grams": 0
+      }
+    ],
+    "notes": "Сливочное "
+  },
+  {
     "id": "1780726625300-jsr4si7",
     "date": "2026-06-07",
     "morning": [
@@ -33,45 +72,6 @@
       }
     ],
     "notes": "Подсолнечное льняное "
-  },
-  {
-    "id": "1780811504927-f53sgih",
-    "date": "2026-06-08",
-    "morning": [
-      {
-        "product": "Гречка ",
-        "grams": 0
-      },
-      {
-        "product": "Яблоко",
-        "grams": 0
-      },
-      {
-        "product": "Клубника",
-        "grams": 5
-      }
-    ],
-    "lunch": [
-      {
-        "product": "Морковь ",
-        "grams": 0
-      },
-      {
-        "product": "Цыплёнок",
-        "grams": 22
-      },
-      {
-        "product": "Брокколи",
-        "grams": 15
-      }
-    ],
-    "evening": [
-      {
-        "product": "",
-        "grams": 0
-      }
-    ],
-    "notes": "Сливочное "
   },
   {
     "id": "1780636336482-cjr1guj",
