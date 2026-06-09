@@ -57,6 +57,10 @@
       {
         "product": "Груша ",
         "grams": 0
+      },
+      {
+        "product": "Творог",
+        "grams": 30
       }
     ],
     "notes": ""
