@@ -1,5 +1,63 @@
 [
   {
+    "id": "1780897870339-7o48k5n",
+    "date": "2026-06-09",
+    "morning": [
+      {
+        "product": "Кукуруза ",
+        "grams": 0
+      },
+      {
+        "product": "Клубника",
+        "grams": 0
+      }
+    ],
+    "lunch": [
+      {
+        "product": "Морковь ",
+        "grams": 47
+      },
+      {
+        "product": "Говядина",
+        "grams": 26
+      },
+      {
+        "product": "Брокколи",
+        "grams": 15
+      }
+    ],
+    "evening": [
+      {
+        "product": "Персик ",
+        "grams": 38
+      }
+    ],
+    "notes": "Оливковое "
+  },
+  {
+    "id": "1780998989502-o79n3wy",
+    "date": "2026-06-10",
+    "morning": [
+      {
+        "product": "",
+        "grams": 0
+      }
+    ],
+    "lunch": [
+      {
+        "product": "",
+        "grams": 0
+      }
+    ],
+    "evening": [
+      {
+        "product": "",
+        "grams": 0
+      }
+    ],
+    "notes": ""
+  },
+  {
     "id": "1780811504927-f53sgih",
     "date": "2026-06-08",
     "morning": [
@@ -37,45 +95,6 @@
       }
     ],
     "notes": "Сливочное "
-  },
-  {
-    "id": "1780897870339-7o48k5n",
-    "date": "2026-06-09",
-    "morning": [
-      {
-        "product": "Кукуруза ",
-        "grams": 0
-      },
-      {
-        "product": "Персик",
-        "grams": 38
-      },
-      {
-        "product": "Клубника",
-        "grams": 0
-      }
-    ],
-    "lunch": [
-      {
-        "product": "Морковь ",
-        "grams": 0
-      },
-      {
-        "product": "Говядина",
-        "grams": 0
-      },
-      {
-        "product": "Брокколи",
-        "grams": 15
-      }
-    ],
-    "evening": [
-      {
-        "product": "",
-        "grams": 0
-      }
-    ],
-    "notes": "Оливковое "
   },
   {
     "id": "1780726625300-jsr4si7",
