@@ -62,11 +62,11 @@
     "lunch": [
       {
         "product": "Тыква ",
-        "grams": 0
+        "grams": 38
       },
       {
         "product": "Хек",
-        "grams": 0
+        "grams": 43
       },
       {
         "product": "Брокколи",
@@ -76,7 +76,7 @@
     "evening": [
       {
         "product": "Манго ",
-        "grams": 0
+        "grams": 39
       },
       {
         "product": "Кефир",
