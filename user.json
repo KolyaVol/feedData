@@ -1,5 +1,48 @@
 [
   {
+    "id": "1780998989502-o79n3wy",
+    "date": "2026-06-10",
+    "morning": [
+      {
+        "product": "Рис",
+        "grams": 71
+      },
+      {
+        "product": "Клубника",
+        "grams": 0
+      },
+      {
+        "product": "Желток",
+        "grams": 8
+      }
+    ],
+    "lunch": [
+      {
+        "product": "Тыква ",
+        "grams": 50
+      },
+      {
+        "product": "Индейка",
+        "grams": 25
+      },
+      {
+        "product": "Брокколи",
+        "grams": 15
+      }
+    ],
+    "evening": [
+      {
+        "product": "Груша ",
+        "grams": 0
+      },
+      {
+        "product": "Творог",
+        "grams": 30
+      }
+    ],
+    "notes": ""
+  },
+  {
     "id": "1780897870339-7o48k5n",
     "date": "2026-06-09",
     "morning": [
@@ -33,49 +76,6 @@
       }
     ],
     "notes": "Оливковое "
-  },
-  {
-    "id": "1780998989502-o79n3wy",
-    "date": "2026-06-10",
-    "morning": [
-      {
-        "product": "Рис",
-        "grams": 0
-      },
-      {
-        "product": "Клубника",
-        "grams": 0
-      },
-      {
-        "product": "Желток",
-        "grams": 8
-      }
-    ],
-    "lunch": [
-      {
-        "product": "Тыква ",
-        "grams": 0
-      },
-      {
-        "product": "Индейка",
-        "grams": 0
-      },
-      {
-        "product": "Брокколи",
-        "grams": 15
-      }
-    ],
-    "evening": [
-      {
-        "product": "Груша ",
-        "grams": 0
-      },
-      {
-        "product": "Творог",
-        "grams": 30
-      }
-    ],
-    "notes": ""
   },
   {
     "id": "1780811504927-f53sgih",
