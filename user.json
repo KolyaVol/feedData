@@ -32,18 +32,13 @@
       {
         "product": "Брокколи",
         "grams": 17
-      }
-    ],
-    "evening": [
-      {
-        "product": "Творог ",
-        "grams": 0
       },
       {
         "product": "Яблоко",
-        "grams": 0
+        "grams": 50
       }
     ],
+    "evening": [],
     "notes": "Подсолнечное льняное "
   },
   {
