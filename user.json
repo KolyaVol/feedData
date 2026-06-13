@@ -57,7 +57,7 @@
     "lunch": [
       {
         "product": "Морковь ",
-        "grams": 0
+        "grams": 47
       },
       {
         "product": "Говядина",
@@ -65,7 +65,7 @@
       },
       {
         "product": "Брокколи",
-        "grams": 15
+        "grams": 14
       }
     ],
     "evening": [
