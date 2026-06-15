@@ -48,31 +48,31 @@
     "morning": [
       {
         "product": "Овсянка ",
-        "grams": 0
+        "grams": 1
       },
       {
         "product": "Клубника",
-        "grams": 0
+        "grams": 1
       }
     ],
     "lunch": [
       {
         "product": "Тыква ",
-        "grams": 0
+        "grams": 1
       },
       {
         "product": "Хек",
-        "grams": 0
+        "grams": 1
       },
       {
         "product": "Брокколи",
-        "grams": 0
+        "grams": 1
       }
     ],
     "evening": [
       {
         "product": "Манго ",
-        "grams": 0
+        "grams": 1
       }
     ],
     "notes": "Подсолнечное льняное "
