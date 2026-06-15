@@ -1,5 +1,48 @@
 [
   {
+    "id": "1781418711306-7ql2fi4",
+    "date": "2026-06-15",
+    "morning": [
+      {
+        "product": "Рис ",
+        "grams": 0
+      },
+      {
+        "product": "Чернослив",
+        "grams": 20
+      },
+      {
+        "product": "Клубника",
+        "grams": 0
+      }
+    ],
+    "lunch": [
+      {
+        "product": "Морковь ",
+        "grams": 47
+      },
+      {
+        "product": "Индейка",
+        "grams": 37
+      },
+      {
+        "product": "Брокколи",
+        "grams": 0
+      }
+    ],
+    "evening": [
+      {
+        "product": "Груша ",
+        "grams": 0
+      },
+      {
+        "product": "Кефир",
+        "grams": 0
+      }
+    ],
+    "notes": "Оливковое  "
+  },
+  {
     "id": "1781333992664-arquau2",
     "date": "2026-06-14",
     "morning": [
@@ -45,41 +88,6 @@
       }
     ],
     "notes": "Сливочное "
-  },
-  {
-    "id": "1781418711306-7ql2fi4",
-    "date": "2026-06-15",
-    "morning": [
-      {
-        "product": "Рис ",
-        "grams": 0
-      },
-      {
-        "product": "Чернослив",
-        "grams": 20
-      }
-    ],
-    "lunch": [
-      {
-        "product": "Морковь ",
-        "grams": 47
-      },
-      {
-        "product": "Индейка",
-        "grams": 37
-      },
-      {
-        "product": "Брокколи",
-        "grams": 0
-      }
-    ],
-    "evening": [
-      {
-        "product": "Груша ",
-        "grams": 0
-      }
-    ],
-    "notes": "Оливковое  "
   },
   {
     "id": "1781243473159-xske2d9",
