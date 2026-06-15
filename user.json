@@ -53,6 +53,10 @@
       {
         "product": "Клубника",
         "grams": 1
+      },
+      {
+        "product": "Желток",
+        "grams": 0
       }
     ],
     "lunch": [
