@@ -27,17 +27,17 @@
       },
       {
         "product": "Брокколи",
-        "grams": 0
+        "grams": 15
       }
     ],
     "evening": [
       {
         "product": "Груша ",
-        "grams": 0
+        "grams": 1
       },
       {
         "product": "Кефир",
-        "grams": 0
+        "grams": 1
       }
     ],
     "notes": "Оливковое  "
