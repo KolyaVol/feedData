@@ -62,21 +62,21 @@
     "lunch": [
       {
         "product": "Тыква ",
-        "grams": 46
+        "grams": 60
       },
       {
         "product": "Кролик",
-        "grams": 40
+        "grams": 18
       },
       {
         "product": "Брокколи",
-        "grams": 0
+        "grams": 14
       }
     ],
     "evening": [
       {
         "product": "Творог ",
-        "grams": 0
+        "grams": 30
       },
       {
         "product": "Банан",
