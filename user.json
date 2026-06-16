@@ -1,5 +1,44 @@
 [
   {
+    "id": "1781505604520-zudhxp5",
+    "date": "2026-06-16",
+    "morning": [
+      {
+        "product": "Овсянка ",
+        "grams": 71
+      },
+      {
+        "product": "Клубника",
+        "grams": 1
+      },
+      {
+        "product": "Желток",
+        "grams": 0
+      }
+    ],
+    "lunch": [
+      {
+        "product": "Тыква ",
+        "grams": 1
+      },
+      {
+        "product": "Хек",
+        "grams": 1
+      },
+      {
+        "product": "Брокколи",
+        "grams": 1
+      }
+    ],
+    "evening": [
+      {
+        "product": "Манго ",
+        "grams": 41
+      }
+    ],
+    "notes": "Подсолнечное льняное "
+  },
+  {
     "id": "1781418711306-7ql2fi4",
     "date": "2026-06-15",
     "morning": [
@@ -41,45 +80,6 @@
       }
     ],
     "notes": "Оливковое  "
-  },
-  {
-    "id": "1781505604520-zudhxp5",
-    "date": "2026-06-16",
-    "morning": [
-      {
-        "product": "Овсянка ",
-        "grams": 1
-      },
-      {
-        "product": "Клубника",
-        "grams": 1
-      },
-      {
-        "product": "Желток",
-        "grams": 0
-      }
-    ],
-    "lunch": [
-      {
-        "product": "Тыква ",
-        "grams": 1
-      },
-      {
-        "product": "Хек",
-        "grams": 1
-      },
-      {
-        "product": "Брокколи",
-        "grams": 1
-      }
-    ],
-    "evening": [
-      {
-        "product": "Манго ",
-        "grams": 41
-      }
-    ],
-    "notes": "Подсолнечное льняное "
   },
   {
     "id": "1781333992664-arquau2",
