@@ -14,6 +14,10 @@
       {
         "product": "Желток",
         "grams": 10
+      },
+      {
+        "product": "Йогурт",
+        "grams": 10
       }
     ],
     "lunch": [
