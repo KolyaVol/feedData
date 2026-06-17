@@ -26,16 +26,7 @@
         "grams": 14
       }
     ],
-    "evening": [
-      {
-        "product": "Творог ",
-        "grams": 30
-      },
-      {
-        "product": "Банан",
-        "grams": 0
-      }
-    ],
+    "evening": [],
     "notes": "Сливочное "
   },
   {
@@ -71,7 +62,7 @@
         "grams": 0
       },
       {
-        "product": "Яблоко",
+        "product": "Банан",
         "grams": 0
       }
     ],
