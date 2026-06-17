@@ -5,15 +5,11 @@
     "morning": [
       {
         "product": "Гречка ",
-        "grams": 0
+        "grams": 80
       },
       {
         "product": "Йогурт",
         "grams": 20
-      },
-      {
-        "product": "Клубника",
-        "grams": 0
       }
     ],
     "lunch": [
