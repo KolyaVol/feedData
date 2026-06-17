@@ -1,48 +1,5 @@
 [
   {
-    "id": "1781505604520-zudhxp5",
-    "date": "2026-06-16",
-    "morning": [
-      {
-        "product": "Овсянка ",
-        "grams": 71
-      },
-      {
-        "product": "Клубника",
-        "grams": 2
-      },
-      {
-        "product": "Желток",
-        "grams": 10
-      },
-      {
-        "product": "Йогурт",
-        "grams": 10
-      }
-    ],
-    "lunch": [
-      {
-        "product": "Тыква ",
-        "grams": 46
-      },
-      {
-        "product": "Хек",
-        "grams": 40
-      }
-    ],
-    "evening": [
-      {
-        "product": "Манго ",
-        "grams": 41
-      },
-      {
-        "product": "Брокколи",
-        "grams": 15
-      }
-    ],
-    "notes": "Подсолнечное льняное "
-  },
-  {
     "id": "1781591956457-77ykm14",
     "date": "2026-06-17",
     "morning": [
@@ -84,6 +41,72 @@
       }
     ],
     "notes": "Сливочное "
+  },
+  {
+    "id": "1781678495624-lpbotsr",
+    "date": "2026-06-18",
+    "morning": [
+      {
+        "product": "",
+        "grams": 0
+      }
+    ],
+    "lunch": [
+      {
+        "product": "",
+        "grams": 0
+      }
+    ],
+    "evening": [
+      {
+        "product": "",
+        "grams": 0
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "1781505604520-zudhxp5",
+    "date": "2026-06-16",
+    "morning": [
+      {
+        "product": "Овсянка ",
+        "grams": 71
+      },
+      {
+        "product": "Клубника",
+        "grams": 2
+      },
+      {
+        "product": "Желток",
+        "grams": 10
+      },
+      {
+        "product": "Йогурт",
+        "grams": 10
+      }
+    ],
+    "lunch": [
+      {
+        "product": "Тыква ",
+        "grams": 46
+      },
+      {
+        "product": "Хек",
+        "grams": 40
+      }
+    ],
+    "evening": [
+      {
+        "product": "Манго ",
+        "grams": 10
+      },
+      {
+        "product": "Брокколи",
+        "grams": 15
+      }
+    ],
+    "notes": "Подсолнечное льняное "
   },
   {
     "id": "1781418711306-7ql2fi4",
