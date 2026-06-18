@@ -9,7 +9,7 @@
       },
       {
         "product": "Йогурт",
-        "grams": 0
+        "grams": 32
       }
     ],
     "lunch": [
@@ -48,6 +48,10 @@
       },
       {
         "product": "Пшено",
+        "grams": 0
+      },
+      {
+        "product": "Желток",
         "grams": 0
       }
     ],
