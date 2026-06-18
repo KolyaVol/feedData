@@ -1,35 +1,5 @@
 [
   {
-    "id": "1781591956457-77ykm14",
-    "date": "2026-06-17",
-    "morning": [
-      {
-        "product": "Гречка ",
-        "grams": 80
-      },
-      {
-        "product": "Йогурт",
-        "grams": 20
-      }
-    ],
-    "lunch": [
-      {
-        "product": "Тыква ",
-        "grams": 60
-      },
-      {
-        "product": "Кролик",
-        "grams": 18
-      },
-      {
-        "product": "Брокколи",
-        "grams": 14
-      }
-    ],
-    "evening": [],
-    "notes": "Сливочное "
-  },
-  {
     "id": "1781678495624-lpbotsr",
     "date": "2026-06-18",
     "morning": [
@@ -49,11 +19,11 @@
       },
       {
         "product": "Цыплёнок",
-        "grams": 0
+        "grams": 19
       },
       {
         "product": "Брокколи",
-        "grams": 0
+        "grams": 15
       }
     ],
     "evening": [
@@ -67,6 +37,36 @@
       }
     ],
     "notes": "Оливковое "
+  },
+  {
+    "id": "1781591956457-77ykm14",
+    "date": "2026-06-17",
+    "morning": [
+      {
+        "product": "Гречка ",
+        "grams": 80
+      },
+      {
+        "product": "Йогурт",
+        "grams": 22
+      }
+    ],
+    "lunch": [
+      {
+        "product": "Тыква ",
+        "grams": 60
+      },
+      {
+        "product": "Кролик",
+        "grams": 18
+      },
+      {
+        "product": "Брокколи",
+        "grams": 14
+      }
+    ],
+    "evening": [],
+    "notes": "Сливочное "
   },
   {
     "id": "1781505604520-zudhxp5",
