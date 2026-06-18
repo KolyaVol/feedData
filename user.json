@@ -58,11 +58,11 @@
     "lunch": [
       {
         "product": "Кабачок ",
-        "grams": 0
+        "grams": 60
       },
       {
         "product": "Говядина",
-        "grams": 0
+        "grams": 22
       },
       {
         "product": "Брокколи",
@@ -72,7 +72,7 @@
     "evening": [
       {
         "product": "Яблоко ",
-        "grams": 0
+        "grams": 40
       },
       {
         "product": "Кефир",
