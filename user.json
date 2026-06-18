@@ -57,6 +57,10 @@
       {
         "product": "Яблоко ",
         "grams": 0
+      },
+      {
+        "product": "Кефир",
+        "grams": 0
       }
     ],
     "notes": ""
