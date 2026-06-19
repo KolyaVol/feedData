@@ -1,50 +1,11 @@
 [
   {
-    "id": "1781678495624-lpbotsr",
-    "date": "2026-06-18",
-    "morning": [
-      {
-        "product": "Кукуруза ",
-        "grams": 75
-      },
-      {
-        "product": "Йогурт",
-        "grams": 32
-      }
-    ],
-    "lunch": [
-      {
-        "product": "Кабачок ",
-        "grams": 60
-      },
-      {
-        "product": "Цыплёнок",
-        "grams": 19
-      },
-      {
-        "product": "Брокколи",
-        "grams": 15
-      }
-    ],
-    "evening": [
-      {
-        "product": "Творог ",
-        "grams": 33
-      },
-      {
-        "product": "Банан",
-        "grams": 0
-      }
-    ],
-    "notes": "Оливковое "
-  },
-  {
     "id": "1781762359546-a0bjt1i",
     "date": "2026-06-19",
     "morning": [
       {
         "product": "Мультизлаковая каша ",
-        "grams": 0
+        "grams": 64
       },
       {
         "product": "Пшено",
@@ -80,6 +41,45 @@
       }
     ],
     "notes": ""
+  },
+  {
+    "id": "1781678495624-lpbotsr",
+    "date": "2026-06-18",
+    "morning": [
+      {
+        "product": "Кукуруза ",
+        "grams": 75
+      },
+      {
+        "product": "Йогурт",
+        "grams": 32
+      }
+    ],
+    "lunch": [
+      {
+        "product": "Кабачок ",
+        "grams": 60
+      },
+      {
+        "product": "Цыплёнок",
+        "grams": 19
+      },
+      {
+        "product": "Брокколи",
+        "grams": 15
+      }
+    ],
+    "evening": [
+      {
+        "product": "Творог ",
+        "grams": 33
+      },
+      {
+        "product": "Банан",
+        "grams": 45
+      }
+    ],
+    "notes": "Оливковое "
   },
   {
     "id": "1781591956457-77ykm14",
