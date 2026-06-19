@@ -58,11 +58,11 @@
     "lunch": [
       {
         "product": "Морковь ",
-        "grams": 0
+        "grams": 60
       },
       {
         "product": "Индейка",
-        "grams": 0
+        "grams": 20
       },
       {
         "product": "Брокколи",
@@ -72,7 +72,7 @@
     "evening": [
       {
         "product": "Йогурт ",
-        "grams": 0
+        "grams": 40
       },
       {
         "product": "Персик",
