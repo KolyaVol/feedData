@@ -48,11 +48,11 @@
     "morning": [
       {
         "product": "Рис",
-        "grams": 1
+        "grams": 61
       },
       {
         "product": "Пшено",
-        "grams": 0
+        "grams": 21
       }
     ],
     "lunch": [
