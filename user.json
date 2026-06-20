@@ -10,6 +10,10 @@
       {
         "product": "Пшено",
         "grams": 31
+      },
+      {
+        "product": "Клубника",
+        "grams": 3
       }
     ],
     "lunch": [
