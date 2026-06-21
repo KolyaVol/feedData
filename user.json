@@ -1,5 +1,44 @@
 [
   {
+    "id": "1781935901500-zmq0zrk",
+    "date": "2026-06-21",
+    "morning": [
+      {
+        "product": "Овсянка ",
+        "grams": 48
+      },
+      {
+        "product": "Пшено",
+        "grams": 40
+      }
+    ],
+    "lunch": [
+      {
+        "product": "Морковь ",
+        "grams": 0
+      },
+      {
+        "product": "Хек",
+        "grams": 23
+      },
+      {
+        "product": "Брокколи",
+        "grams": 13
+      }
+    ],
+    "evening": [
+      {
+        "product": "Творог ",
+        "grams": 0
+      },
+      {
+        "product": "Груша",
+        "grams": 45
+      }
+    ],
+    "notes": "Оливковое "
+  },
+  {
     "id": "1781852456120-f4nvbzi",
     "date": "2026-06-20",
     "morning": [
@@ -41,45 +80,6 @@
       }
     ],
     "notes": "Сливочное "
-  },
-  {
-    "id": "1781935901500-zmq0zrk",
-    "date": "2026-06-21",
-    "morning": [
-      {
-        "product": "Овсянка ",
-        "grams": 0
-      },
-      {
-        "product": "Пшено",
-        "grams": 0
-      }
-    ],
-    "lunch": [
-      {
-        "product": "Морковь ",
-        "grams": 0
-      },
-      {
-        "product": "Хек",
-        "grams": 23
-      },
-      {
-        "product": "Брокколи",
-        "grams": 13
-      }
-    ],
-    "evening": [
-      {
-        "product": "Творог ",
-        "grams": 0
-      },
-      {
-        "product": "Груша",
-        "grams": 45
-      }
-    ],
-    "notes": "Оливковое "
   },
   {
     "id": "1781762359546-a0bjt1i",
