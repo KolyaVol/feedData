@@ -55,6 +55,10 @@
       {
         "product": "Кабачок ",
         "grams": 0
+      },
+      {
+        "product": "Свинина",
+        "grams": 15
       }
     ],
     "evening": [
