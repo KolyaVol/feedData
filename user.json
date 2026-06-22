@@ -1,5 +1,48 @@
 [
   {
+    "id": "1782022728754-fh04jtt",
+    "date": "2026-06-22",
+    "morning": [
+      {
+        "product": "Гречка ",
+        "grams": 82
+      },
+      {
+        "product": "Желток",
+        "grams": 10
+      }
+    ],
+    "lunch": [
+      {
+        "product": "Тыква ",
+        "grams": 61
+      },
+      {
+        "product": "Свинина",
+        "grams": 7
+      },
+      {
+        "product": "Кролик",
+        "grams": 8
+      },
+      {
+        "product": "Брокколи",
+        "grams": 0
+      }
+    ],
+    "evening": [
+      {
+        "product": "Йогурт ",
+        "grams": 0
+      },
+      {
+        "product": "Чернослив",
+        "grams": 31
+      }
+    ],
+    "notes": ""
+  },
+  {
     "id": "1781935901500-zmq0zrk",
     "date": "2026-06-21",
     "morning": [
@@ -33,7 +76,7 @@
     "evening": [
       {
         "product": "Творог ",
-        "grams": 0
+        "grams": 33
       },
       {
         "product": "Груша",
@@ -41,49 +84,6 @@
       }
     ],
     "notes": "Оливковое "
-  },
-  {
-    "id": "1782022728754-fh04jtt",
-    "date": "2026-06-22",
-    "morning": [
-      {
-        "product": "Гречка ",
-        "grams": 0
-      },
-      {
-        "product": "Желток",
-        "grams": 10
-      }
-    ],
-    "lunch": [
-      {
-        "product": "Тыква ",
-        "grams": 0
-      },
-      {
-        "product": "Свинина",
-        "grams": 7
-      },
-      {
-        "product": "Кролик",
-        "grams": 0
-      },
-      {
-        "product": "Брокколи",
-        "grams": 0
-      }
-    ],
-    "evening": [
-      {
-        "product": "Йогурт ",
-        "grams": 0
-      },
-      {
-        "product": "Чернослив",
-        "grams": 0
-      }
-    ],
-    "notes": ""
   },
   {
     "id": "1781852456120-f4nvbzi",
