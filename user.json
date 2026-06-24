@@ -33,11 +33,7 @@
     "evening": [
       {
         "product": "Кефир ",
-        "grams": 0
-      },
-      {
-        "product": "Манго",
-        "grams": 0
+        "grams": 100
       }
     ],
     "notes": "Оливковое "
