@@ -1,54 +1,15 @@
 [
   {
-    "id": "1782199364855-pp1jvfy",
-    "date": "2026-06-24",
-    "morning": [
-      {
-        "product": "Мультизлаковая ",
-        "grams": 39
-      },
-      {
-        "product": "Пшено",
-        "grams": 54
-      },
-      {
-        "product": "Клубника",
-        "grams": 7
-      }
-    ],
-    "lunch": [
-      {
-        "product": "Морковь ",
-        "grams": 63
-      },
-      {
-        "product": "Свинина",
-        "grams": 23
-      },
-      {
-        "product": "Брокколи",
-        "grams": 14
-      }
-    ],
-    "evening": [
-      {
-        "product": "Кефир ",
-        "grams": 100
-      }
-    ],
-    "notes": "Оливковое "
-  },
-  {
     "id": "1782283953677-q7jkcom",
     "date": "2026-06-25",
     "morning": [
       {
         "product": "Мультизлаковая каша ",
-        "grams": 0
+        "grams": 39
       },
       {
         "product": "Пшено",
-        "grams": 0
+        "grams": 43
       },
       {
         "product": "Желток",
@@ -88,6 +49,45 @@
       }
     ],
     "notes": ""
+  },
+  {
+    "id": "1782199364855-pp1jvfy",
+    "date": "2026-06-24",
+    "morning": [
+      {
+        "product": "Мультизлаковая ",
+        "grams": 39
+      },
+      {
+        "product": "Пшено",
+        "grams": 54
+      },
+      {
+        "product": "Клубника",
+        "grams": 7
+      }
+    ],
+    "lunch": [
+      {
+        "product": "Морковь ",
+        "grams": 63
+      },
+      {
+        "product": "Свинина",
+        "grams": 23
+      },
+      {
+        "product": "Брокколи",
+        "grams": 14
+      }
+    ],
+    "evening": [
+      {
+        "product": "Кефир ",
+        "grams": 100
+      }
+    ],
+    "notes": "Оливковое "
   },
   {
     "id": "1782109916973-0xlu231",
