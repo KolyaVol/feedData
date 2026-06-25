@@ -57,6 +57,10 @@
       {
         "product": "Рис",
         "grams": 0
+      },
+      {
+        "product": "Черешня",
+        "grams": 10
       }
     ],
     "lunch": [
