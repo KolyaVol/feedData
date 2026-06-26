@@ -1,5 +1,44 @@
 [
   {
+    "id": "1782364645105-wpmk86i",
+    "date": "2026-06-26",
+    "morning": [
+      {
+        "product": "Рис",
+        "grams": 92
+      },
+      {
+        "product": "Черешня",
+        "grams": 5
+      }
+    ],
+    "lunch": [
+      {
+        "product": "Тыква ",
+        "grams": 67
+      },
+      {
+        "product": "Индейка",
+        "grams": 23
+      },
+      {
+        "product": "Шпинат",
+        "grams": 0
+      }
+    ],
+    "evening": [
+      {
+        "product": "Йогурт ",
+        "grams": 0
+      },
+      {
+        "product": "Банан",
+        "grams": 0
+      }
+    ],
+    "notes": ""
+  },
+  {
     "id": "1782283953677-q7jkcom",
     "date": "2026-06-25",
     "morning": [
@@ -46,45 +85,6 @@
       {
         "product": "Манго",
         "grams": 55
-      }
-    ],
-    "notes": ""
-  },
-  {
-    "id": "1782364645105-wpmk86i",
-    "date": "2026-06-26",
-    "morning": [
-      {
-        "product": "Рис",
-        "grams": 0
-      },
-      {
-        "product": "Черешня",
-        "grams": 10
-      }
-    ],
-    "lunch": [
-      {
-        "product": "Тыква ",
-        "grams": 67
-      },
-      {
-        "product": "Индейка",
-        "grams": 23
-      },
-      {
-        "product": "Шпинат",
-        "grams": 0
-      }
-    ],
-    "evening": [
-      {
-        "product": "Йогурт ",
-        "grams": 0
-      },
-      {
-        "product": "Банан",
-        "grams": 0
       }
     ],
     "notes": ""
