@@ -39,6 +39,29 @@
     "notes": "Сливочное "
   },
   {
+    "id": "1782455440982-qio7vk0",
+    "date": "2026-06-27",
+    "morning": [
+      {
+        "product": "",
+        "grams": 0
+      }
+    ],
+    "lunch": [
+      {
+        "product": "",
+        "grams": 0
+      }
+    ],
+    "evening": [
+      {
+        "product": "",
+        "grams": 0
+      }
+    ],
+    "notes": ""
+  },
+  {
     "id": "1782283953677-q7jkcom",
     "date": "2026-06-25",
     "morning": [
@@ -87,7 +110,7 @@
         "grams": 55
       }
     ],
-    "notes": ""
+    "notes": "Подсолнечное льняное "
   },
   {
     "id": "1782199364855-pp1jvfy",
