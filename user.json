@@ -1,5 +1,40 @@
 [
   {
+    "id": "1782455440982-qio7vk0",
+    "date": "2026-06-27",
+    "morning": [
+      {
+        "product": "Овсянка ",
+        "grams": 75
+      },
+      {
+        "product": "Черешня",
+        "grams": 0
+      }
+    ],
+    "lunch": [
+      {
+        "product": "Кабачок ",
+        "grams": 0
+      },
+      {
+        "product": "Хек",
+        "grams": 21
+      },
+      {
+        "product": "Брокколи",
+        "grams": 12
+      }
+    ],
+    "evening": [
+      {
+        "product": "Яблоко ",
+        "grams": 0
+      }
+    ],
+    "notes": "Оливковое "
+  },
+  {
     "id": "1782364645105-wpmk86i",
     "date": "2026-06-26",
     "morning": [
@@ -37,41 +72,6 @@
       }
     ],
     "notes": "Сливочное "
-  },
-  {
-    "id": "1782455440982-qio7vk0",
-    "date": "2026-06-27",
-    "morning": [
-      {
-        "product": "Овсянка ",
-        "grams": 0
-      },
-      {
-        "product": "Черешня",
-        "grams": 0
-      }
-    ],
-    "lunch": [
-      {
-        "product": "Кабачок ",
-        "grams": 0
-      },
-      {
-        "product": "Хек",
-        "grams": 21
-      },
-      {
-        "product": "Брокколи",
-        "grams": 12
-      }
-    ],
-    "evening": [
-      {
-        "product": "Яблоко ",
-        "grams": 0
-      }
-    ],
-    "notes": "Оливковое "
   },
   {
     "id": "1782283953677-q7jkcom",
