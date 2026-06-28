@@ -24,12 +24,16 @@
       {
         "product": "Брокколи",
         "grams": 7
+      },
+      {
+        "product": "Сыр масдам",
+        "grams": 6
       }
     ],
     "evening": [
       {
         "product": "Кефир ",
-        "grams": 0
+        "grams": 100
       },
       {
         "product": "Персик",
