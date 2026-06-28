@@ -1,5 +1,40 @@
 [
   {
+    "id": "1782544175796-d6mbh2w",
+    "date": "2026-06-28",
+    "morning": [
+      {
+        "product": "Гречка ",
+        "grams": 78
+      }
+    ],
+    "lunch": [
+      {
+        "product": "Кабачок ",
+        "grams": 64
+      },
+      {
+        "product": "Кролик",
+        "grams": 28
+      },
+      {
+        "product": "Брокколи",
+        "grams": 14
+      }
+    ],
+    "evening": [
+      {
+        "product": "Кефир ",
+        "grams": 0
+      },
+      {
+        "product": "Персик",
+        "grams": 0
+      }
+    ],
+    "notes": ""
+  },
+  {
     "id": "1782455440982-qio7vk0",
     "date": "2026-06-27",
     "morning": [
@@ -37,41 +72,6 @@
       }
     ],
     "notes": "Оливковое "
-  },
-  {
-    "id": "1782544175796-d6mbh2w",
-    "date": "2026-06-28",
-    "morning": [
-      {
-        "product": "Гречка ",
-        "grams": 0
-      }
-    ],
-    "lunch": [
-      {
-        "product": "Кабачок ",
-        "grams": 64
-      },
-      {
-        "product": "Кролик",
-        "grams": 28
-      },
-      {
-        "product": "Брокколи",
-        "grams": 14
-      }
-    ],
-    "evening": [
-      {
-        "product": "Кефир ",
-        "grams": 0
-      },
-      {
-        "product": "Персик",
-        "grams": 0
-      }
-    ],
-    "notes": ""
   },
   {
     "id": "1782364645105-wpmk86i",
