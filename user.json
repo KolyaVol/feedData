@@ -1,5 +1,103 @@
 [
   {
+    "id": "1782976408900-k5tueny",
+    "date": "2026-07-03",
+    "morning": [
+      {
+        "product": "Овсянка ",
+        "grams": 82
+      },
+      {
+        "product": "Нектарин",
+        "grams": 0
+      }
+    ],
+    "lunch": [
+      {
+        "product": "Кабачок ",
+        "grams": 62
+      },
+      {
+        "product": "Хек",
+        "grams": 0
+      },
+      {
+        "product": "Семга",
+        "grams": 7
+      },
+      {
+        "product": "Брокколи",
+        "grams": 21
+      }
+    ],
+    "evening": [
+      {
+        "product": "Творог ",
+        "grams": 0
+      },
+      {
+        "product": "Яблоко",
+        "grams": 0
+      },
+      {
+        "product": "Чернослив",
+        "grams": 0
+      }
+    ],
+    "notes": "Подсолнечное льняное "
+  },
+  {
+    "id": "1782888287284-6o269x7",
+    "date": "2026-07-02",
+    "morning": [
+      {
+        "product": "Рис ",
+        "grams": 78
+      },
+      {
+        "product": "Желток",
+        "grams": 10
+      },
+      {
+        "product": "Нектарин",
+        "grams": 12
+      }
+    ],
+    "lunch": [
+      {
+        "product": "Тыква ",
+        "grams": 30
+      },
+      {
+        "product": "Индейка",
+        "grams": 39
+      },
+      {
+        "product": "Шпинат",
+        "grams": 15
+      },
+      {
+        "product": "Кабачок",
+        "grams": 20
+      }
+    ],
+    "evening": [
+      {
+        "product": "Кефир ",
+        "grams": 120
+      },
+      {
+        "product": "Банан",
+        "grams": 40
+      },
+      {
+        "product": "Вишня",
+        "grams": 7
+      }
+    ],
+    "notes": "Сливочное "
+  },
+  {
     "id": "1782803065393-u2pd8no",
     "date": "2026-07-01",
     "morning": [
@@ -45,45 +143,6 @@
       }
     ],
     "notes": "Оливковое "
-  },
-  {
-    "id": "1782888287284-6o269x7",
-    "date": "2026-07-02",
-    "morning": [
-      {
-        "product": "Рис ",
-        "grams": 0
-      },
-      {
-        "product": "Желток",
-        "grams": 0
-      }
-    ],
-    "lunch": [
-      {
-        "product": "Тыква ",
-        "grams": 30
-      },
-      {
-        "product": "Индейка",
-        "grams": 39
-      },
-      {
-        "product": "Шпинат",
-        "grams": 0
-      }
-    ],
-    "evening": [
-      {
-        "product": "Кефир ",
-        "grams": 0
-      },
-      {
-        "product": "Банан",
-        "grams": 0
-      }
-    ],
-    "notes": "Сливочное "
   },
   {
     "id": "1782718992356-4qw8mry",
