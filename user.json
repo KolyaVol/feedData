@@ -67,6 +67,10 @@
       {
         "product": "Семга",
         "grams": 30
+      },
+      {
+        "product": "Шпинат",
+        "grams": 0
       }
     ],
     "evening": [
