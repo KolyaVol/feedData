@@ -13,15 +13,11 @@
       },
       {
         "product": "Нектарин",
-        "grams": 0
+        "grams": 5
       },
       {
         "product": "Малина",
-        "grams": 0
-      },
-      {
-        "product": "Желток",
-        "grams": 0
+        "grams": 5
       }
     ],
     "lunch": [
@@ -39,7 +35,7 @@
       },
       {
         "product": "Шпинат",
-        "grams": 0
+        "grams": 11
       }
     ],
     "evening": [
