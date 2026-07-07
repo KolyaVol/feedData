@@ -57,6 +57,14 @@
       {
         "product": "Рис",
         "grams": 0
+      },
+      {
+        "product": "Желток",
+        "grams": 0
+      },
+      {
+        "product": "Нектарин",
+        "grams": 0
       }
     ],
     "lunch": [
