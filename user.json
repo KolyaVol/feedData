@@ -1,5 +1,115 @@
 [
   {
+    "id": "1783320264306-8xs0vbe",
+    "date": "2026-07-07",
+    "morning": [
+      {
+        "product": "Пшено ",
+        "grams": 46
+      },
+      {
+        "product": "Мультизлаковая каша",
+        "grams": 0
+      },
+      {
+        "product": "Нектарин",
+        "grams": 0
+      },
+      {
+        "product": "Малина",
+        "grams": 0
+      },
+      {
+        "product": "Желток",
+        "grams": 0
+      }
+    ],
+    "lunch": [
+      {
+        "product": "Свинина ",
+        "grams": 38
+      },
+      {
+        "product": "Тыква",
+        "grams": 0
+      },
+      {
+        "product": "Кабачок",
+        "grams": 0
+      },
+      {
+        "product": "Шпинат",
+        "grams": 0
+      }
+    ],
+    "evening": [
+      {
+        "product": "Творог ",
+        "grams": 0
+      },
+      {
+        "product": "Манго",
+        "grams": 41
+      }
+    ],
+    "notes": "Оливковое "
+  },
+  {
+    "id": "1783234441806-eqyb0he",
+    "date": "2026-07-06",
+    "morning": [
+      {
+        "product": "Пшено ",
+        "grams": 41
+      },
+      {
+        "product": "Мультизлаковая каша",
+        "grams": 51
+      },
+      {
+        "product": "Слива",
+        "grams": 10
+      },
+      {
+        "product": "Нектарин",
+        "grams": 10
+      }
+    ],
+    "lunch": [
+      {
+        "product": "Цыплёнок",
+        "grams": 35
+      },
+      {
+        "product": "Брокколи",
+        "grams": 21
+      },
+      {
+        "product": "Кабачок",
+        "grams": 48
+      },
+      {
+        "product": "Картофель",
+        "grams": 9
+      }
+    ],
+    "evening": [
+      {
+        "product": "Йогурт ",
+        "grams": 60
+      },
+      {
+        "product": "Груша",
+        "grams": 32
+      },
+      {
+        "product": "Банан",
+        "grams": 15
+      }
+    ],
+    "notes": "Подсолнечное льняное "
+  },
+  {
     "id": "1783148380783-95h8t13",
     "date": "2026-07-05",
     "morning": [
@@ -33,57 +143,18 @@
     "evening": [
       {
         "product": "Клубника ",
-        "grams": 0
+        "grams": 7
       },
       {
         "product": "Кефир",
-        "grams": 0
+        "grams": 100
+      },
+      {
+        "product": "Земляника",
+        "grams": 10
       }
     ],
     "notes": "Сливочное "
-  },
-  {
-    "id": "1783234441806-eqyb0he",
-    "date": "2026-07-06",
-    "morning": [
-      {
-        "product": "Пшено ",
-        "grams": 0
-      },
-      {
-        "product": "Мультизлаковая каша",
-        "grams": 0
-      },
-      {
-        "product": "Слива",
-        "grams": 0
-      }
-    ],
-    "lunch": [
-      {
-        "product": "Тыква ",
-        "grams": 0
-      },
-      {
-        "product": "Цыплёнок",
-        "grams": 0
-      },
-      {
-        "product": "Брокколи",
-        "grams": 0
-      }
-    ],
-    "evening": [
-      {
-        "product": "Йогурт ",
-        "grams": 0
-      },
-      {
-        "product": "Груша",
-        "grams": 0
-      }
-    ],
-    "notes": ""
   },
   {
     "id": "1783061769380-027qyz3",
