@@ -1,5 +1,56 @@
 [
   {
+    "id": "1783403562500-5lzlfwy",
+    "date": "2026-07-08",
+    "morning": [
+      {
+        "product": "Рис",
+        "grams": 81
+      },
+      {
+        "product": "Желток",
+        "grams": 0
+      },
+      {
+        "product": "Нектарин",
+        "grams": 0
+      },
+      {
+        "product": "Малина",
+        "grams": 0
+      }
+    ],
+    "lunch": [
+      {
+        "product": "Тыква",
+        "grams": 65
+      },
+      {
+        "product": "Говядина",
+        "grams": 31
+      },
+      {
+        "product": "Брокколи",
+        "grams": 0
+      },
+      {
+        "product": "Свинина",
+        "grams": 7
+      }
+    ],
+    "evening": [
+      {
+        "product": "Кефир ",
+        "grams": 0
+      },
+      {
+        "product": "Банан",
+        "grams": 0
+      }
+    ],
+    "notes": "Оливковое "
+  },
+  {
     "id": "1783320264306-8xs0vbe",
     "date": "2026-07-07",
     "morning": [
@@ -45,57 +96,6 @@
       }
     ],
     "notes": "Сливочное "
-  },
-  {
-    "id": "1783403562500-5lzlfwy",
-    "date": "2026-07-08",
-    "morning": [
-      {
-        "product": "Рис",
-        "grams": 0
-      },
-      {
-        "product": "Желток",
-        "grams": 0
-      },
-      {
-        "product": "Нектарин",
-        "grams": 0
-      },
-      {
-        "product": "Малина",
-        "grams": 0
-      }
-    ],
-    "lunch": [
-      {
-        "product": "Тыква",
-        "grams": 65
-      },
-      {
-        "product": "Говядина",
-        "grams": 31
-      },
-      {
-        "product": "Брокколи",
-        "grams": 0
-      },
-      {
-        "product": "Свинина",
-        "grams": 7
-      }
-    ],
-    "evening": [
-      {
-        "product": "Кефир ",
-        "grams": 0
-      },
-      {
-        "product": "Банан",
-        "grams": 0
-      }
-    ],
-    "notes": "Оливковое "
   },
   {
     "id": "1783234441806-eqyb0he",
