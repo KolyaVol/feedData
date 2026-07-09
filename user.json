@@ -1,5 +1,44 @@
 [
   {
+    "id": "1783495905937-zt98c8w",
+    "date": "2026-07-09",
+    "morning": [
+      {
+        "product": "Овсянка ",
+        "grams": 83
+      },
+      {
+        "product": "Слива",
+        "grams": 10
+      }
+    ],
+    "lunch": [
+      {
+        "product": "Морковь ",
+        "grams": 65
+      },
+      {
+        "product": "Индейка",
+        "grams": 0
+      },
+      {
+        "product": "Брокколи",
+        "grams": 15
+      }
+    ],
+    "evening": [
+      {
+        "product": "Йогурт ",
+        "grams": 0
+      },
+      {
+        "product": "Яблоко",
+        "grams": 44
+      }
+    ],
+    "notes": "Подсолнечное льняное "
+  },
+  {
     "id": "1783403562500-5lzlfwy",
     "date": "2026-07-08",
     "morning": [
@@ -35,63 +74,20 @@
       },
       {
         "product": "Малина",
-        "grams": 0
+        "grams": 15
       }
     ],
     "evening": [
       {
-        "product": "Кефир ",
-        "grams": 0
+        "product": "Биолакт",
+        "grams": 115
       },
       {
         "product": "Банан",
-        "grams": 0
+        "grams": 55
       }
     ],
-    "notes": "Оливковое "
-  },
-  {
-    "id": "1783495905937-zt98c8w",
-    "date": "2026-07-09",
-    "morning": [
-      {
-        "product": "Овсянка ",
-        "grams": 0
-      },
-      {
-        "product": "Малина",
-        "grams": 0
-      },
-      {
-        "product": "Слива",
-        "grams": 0
-      }
-    ],
-    "lunch": [
-      {
-        "product": "Морковь ",
-        "grams": 0
-      },
-      {
-        "product": "Индейка",
-        "grams": 0
-      },
-      {
-        "product": "Брокколи",
-        "grams": 0
-      }
-    ],
-    "evening": [
-      {
-        "product": "Йогурт ",
-        "grams": 0
-      },
-      {
-        "product": "Яблоко",
-        "grams": 0
-      }
-    ],
-    "notes": ""
+    "notes": "Оливковое \nПодсолнечное льняное "
   },
   {
     "id": "1783320264306-8xs0vbe",
