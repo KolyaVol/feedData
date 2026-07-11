@@ -47,6 +47,29 @@
     "notes": "Оливковое "
   },
   {
+    "id": "1783750091267-gbocnki",
+    "date": "2026-07-12",
+    "morning": [
+      {
+        "product": "",
+        "grams": 0
+      }
+    ],
+    "lunch": [
+      {
+        "product": "",
+        "grams": 0
+      }
+    ],
+    "evening": [
+      {
+        "product": "",
+        "grams": 0
+      }
+    ],
+    "notes": ""
+  },
+  {
     "id": "1783578603823-ww82n14",
     "date": "2026-07-10",
     "morning": [
@@ -79,6 +102,10 @@
       {
         "product": "Шпинат",
         "grams": 8
+      },
+      {
+        "product": "Огурец",
+        "grams": 5
       }
     ],
     "evening": [
