@@ -66,15 +66,15 @@
     "lunch": [
       {
         "product": "Кабачок ",
-        "grams": 0
+        "grams": 65
       },
       {
         "product": "Цыплёнок",
-        "grams": 0
+        "grams": 35
       },
       {
         "product": "Брокколи",
-        "grams": 0
+        "grams": 14
       }
     ],
     "evening": [
