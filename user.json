@@ -79,6 +79,10 @@
       {
         "product": "Шпинат",
         "grams": 0
+      },
+      {
+        "product": "Хек",
+        "grams": 6
       }
     ],
     "evening": [
