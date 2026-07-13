@@ -104,10 +104,14 @@
       },
       {
         "product": "Малина",
-        "grams": 5
+        "grams": 7
       },
       {
         "product": "Земляника",
+        "grams": 7
+      },
+      {
+        "product": "Вишня",
         "grams": 7
       }
     ],
