@@ -14,6 +14,10 @@
       {
         "product": "Горох",
         "grams": 5
+      },
+      {
+        "product": "Слива",
+        "grams": 10
       }
     ],
     "lunch": [
