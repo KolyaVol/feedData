@@ -19,7 +19,7 @@
     "lunch": [
       {
         "product": "Тыква ",
-        "grams": 0
+        "grams": 87
       },
       {
         "product": "Индейка",
@@ -31,6 +31,10 @@
       },
       {
         "product": "Брокколи",
+        "grams": 0
+      },
+      {
+        "product": "Огурец",
         "grams": 0
       }
     ],
