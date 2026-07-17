@@ -40,6 +40,10 @@
       {
         "product": "Помидор",
         "grams": 0
+      },
+      {
+        "product": "Огурец",
+        "grams": 0
       }
     ],
     "evening": [
