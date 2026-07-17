@@ -32,6 +32,10 @@
       {
         "product": "Шпинат",
         "grams": 5
+      },
+      {
+        "product": "Кабачок",
+        "grams": 0
       }
     ],
     "evening": [
