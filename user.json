@@ -1,5 +1,52 @@
 [
   {
+    "id": "1784184283121-3s1l8zz",
+    "date": "2026-07-17",
+    "morning": [
+      {
+        "product": "Кукуруза ",
+        "grams": 107
+      },
+      {
+        "product": "Абрикос",
+        "grams": 0
+      },
+      {
+        "product": "Желток",
+        "grams": 12
+      }
+    ],
+    "lunch": [
+      {
+        "product": "Тыква ",
+        "grams": 85
+      },
+      {
+        "product": "Хек",
+        "grams": 0
+      },
+      {
+        "product": "Шпинат",
+        "grams": 0
+      }
+    ],
+    "evening": [
+      {
+        "product": "Кефир ",
+        "grams": 0
+      },
+      {
+        "product": "Груша",
+        "grams": 0
+      },
+      {
+        "product": "Чернослив",
+        "grams": 0
+      }
+    ],
+    "notes": "Сливочное \nОливковое "
+  },
+  {
     "id": "1784095346077-5cwrwya",
     "date": "2026-07-16",
     "morning": [
@@ -57,57 +104,6 @@
       }
     ],
     "notes": "Сливочное \nПодсолнечное льняное "
-  },
-  {
-    "id": "1784184283121-3s1l8zz",
-    "date": "2026-07-17",
-    "morning": [
-      {
-        "product": "Кукуруза ",
-        "grams": 0
-      },
-      {
-        "product": "Абрикос",
-        "grams": 0
-      },
-      {
-        "product": "Помидор",
-        "grams": 0
-      },
-      {
-        "product": "Желток",
-        "grams": 0
-      }
-    ],
-    "lunch": [
-      {
-        "product": "Тыква ",
-        "grams": 85
-      },
-      {
-        "product": "Хек",
-        "grams": 0
-      },
-      {
-        "product": "Шпинат",
-        "grams": 0
-      }
-    ],
-    "evening": [
-      {
-        "product": "Кефир ",
-        "grams": 0
-      },
-      {
-        "product": "Груша",
-        "grams": 0
-      },
-      {
-        "product": "Чернослив",
-        "grams": 0
-      }
-    ],
-    "notes": "Сливочное \nОливковое "
   },
   {
     "id": "1784013101269-ft6cg81",
