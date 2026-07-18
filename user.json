@@ -14,6 +14,10 @@
       {
         "product": "Абрикос",
         "grams": 20
+      },
+      {
+        "product": "Голубика",
+        "grams": 7
       }
     ],
     "lunch": [
