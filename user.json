@@ -1,5 +1,48 @@
 [
   {
+    "id": "1784360246792-6165a9u",
+    "date": "2026-07-19",
+    "morning": [
+      {
+        "product": "Рис",
+        "grams": 0
+      },
+      {
+        "product": "Абрикос",
+        "grams": 15
+      },
+      {
+        "product": "Грецкие орехи",
+        "grams": 3
+      }
+    ],
+    "lunch": [
+      {
+        "product": "Морковь ",
+        "grams": 85
+      },
+      {
+        "product": "Цыплёнок",
+        "grams": 0
+      },
+      {
+        "product": "Брокколи",
+        "grams": 20
+      }
+    ],
+    "evening": [
+      {
+        "product": "Творог ",
+        "grams": 0
+      },
+      {
+        "product": "Манго",
+        "grams": 0
+      }
+    ],
+    "notes": "Сливочное \nОливковое "
+  },
+  {
     "id": "1784271191997-t0gmwmt",
     "date": "2026-07-18",
     "morning": [
@@ -39,7 +82,7 @@
       },
       {
         "product": "Огурец",
-        "grams": 0
+        "grams": 7
       }
     ],
     "evening": [
@@ -49,57 +92,18 @@
       },
       {
         "product": "Йогурт",
-        "grams": 0
+        "grams": 100
       },
       {
         "product": "Малина",
-        "grams": 0
+        "grams": 25
+      },
+      {
+        "product": "Голубика",
+        "grams": 7
       }
     ],
     "notes": "Сливочное \nПодсолнечное льняное "
-  },
-  {
-    "id": "1784360246792-6165a9u",
-    "date": "2026-07-19",
-    "morning": [
-      {
-        "product": "Рис",
-        "grams": 0
-      },
-      {
-        "product": "Абрикос",
-        "grams": 0
-      },
-      {
-        "product": "Грецкие орехи",
-        "grams": 0
-      }
-    ],
-    "lunch": [
-      {
-        "product": "Морковь ",
-        "grams": 0
-      },
-      {
-        "product": "Цыплёнок",
-        "grams": 0
-      },
-      {
-        "product": "Брокколи",
-        "grams": 0
-      }
-    ],
-    "evening": [
-      {
-        "product": "Творог ",
-        "grams": 0
-      },
-      {
-        "product": "Манго",
-        "grams": 0
-      }
-    ],
-    "notes": "Сливочное \nОливковое "
   },
   {
     "id": "1784184283121-3s1l8zz",
