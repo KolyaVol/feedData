@@ -75,6 +75,10 @@
       {
         "product": "Свинина",
         "grams": 0
+      },
+      {
+        "product": "Шпинат",
+        "grams": 5
       }
     ],
     "evening": [
