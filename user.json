@@ -23,7 +23,7 @@
     "lunch": [
       {
         "product": "Кабачок ",
-        "grams": 93
+        "grams": 110
       },
       {
         "product": "Свинина",
@@ -32,6 +32,10 @@
       {
         "product": "Шпинат",
         "grams": 5
+      },
+      {
+        "product": "Огурец",
+        "grams": 7
       }
     ],
     "evening": [
