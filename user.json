@@ -95,6 +95,10 @@
       {
         "product": "Брокколи",
         "grams": 0
+      },
+      {
+        "product": "Свинина",
+        "grams": 6
       }
     ],
     "evening": [
