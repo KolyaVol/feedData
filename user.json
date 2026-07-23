@@ -45,19 +45,11 @@
     "evening": [
       {
         "product": "Кефир ",
-        "grams": 0
+        "grams": 115
       },
       {
         "product": "Груша",
-        "grams": 0
-      },
-      {
-        "product": "Смородина",
-        "grams": 0
-      },
-      {
-        "product": "Малина",
-        "grams": 0
+        "grams": 30
       }
     ],
     "notes": "Сливочное \nОливковое "
