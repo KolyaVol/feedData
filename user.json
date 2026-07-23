@@ -75,6 +75,10 @@
       {
         "product": "Морковь ",
         "grams": 0
+      },
+      {
+        "product": "Шпинат",
+        "grams": 3
       }
     ],
     "evening": [
