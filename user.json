@@ -70,15 +70,15 @@
     "lunch": [
       {
         "product": "Морковь ",
-        "grams": 0
+        "grams": 95
       },
       {
         "product": "Индейка",
-        "grams": 0
+        "grams": 50
       },
       {
         "product": "Брокколи",
-        "grams": 0
+        "grams": 20
       }
     ],
     "evening": [
