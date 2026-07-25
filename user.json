@@ -9,7 +9,11 @@
       },
       {
         "product": "Абрикос",
-        "grams": 0
+        "grams": 15
+      },
+      {
+        "product": "Нектарин",
+        "grams": 20
       }
     ],
     "lunch": [
