@@ -47,6 +47,29 @@
     "notes": "Сливочное \nОливковое "
   },
   {
+    "id": "1784965664486-4ifg480",
+    "date": "2026-07-27",
+    "morning": [
+      {
+        "product": "",
+        "grams": 0
+      }
+    ],
+    "lunch": [
+      {
+        "product": "",
+        "grams": 0
+      }
+    ],
+    "evening": [
+      {
+        "product": "",
+        "grams": 0
+      }
+    ],
+    "notes": ""
+  },
+  {
     "id": "1784965544904-m87bko3",
     "date": "2026-07-26",
     "morning": [
@@ -80,6 +103,10 @@
     "evening": [
       {
         "product": "Кефир ",
+        "grams": 0
+      },
+      {
+        "product": "Яблоко",
         "grams": 0
       }
     ],
