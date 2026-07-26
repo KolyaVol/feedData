@@ -23,25 +23,17 @@
     "lunch": [
       {
         "product": "Кабачок ",
-        "grams": 0
+        "grams": 59
       },
       {
-        "product": "Форель",
-        "grams": 0
-      },
-      {
-        "product": "Брокколи",
-        "grams": 0
+        "product": "Хек",
+        "grams": 44
       }
     ],
     "evening": [
       {
         "product": "Кефир ",
-        "grams": 0
-      },
-      {
-        "product": "Яблоко",
-        "grams": 0
+        "grams": 105
       }
     ],
     "notes": "Сливочное \nПодсолнечное льняное "
@@ -51,23 +43,39 @@
     "date": "2026-07-27",
     "morning": [
       {
-        "product": "",
+        "product": "Кукуруза ",
+        "grams": 0
+      },
+      {
+        "product": "Абрикос",
         "grams": 0
       }
     ],
     "lunch": [
       {
-        "product": "",
+        "product": "Тыква ",
+        "grams": 0
+      },
+      {
+        "product": "Цыплёнок",
+        "grams": 0
+      },
+      {
+        "product": "Шпинат",
         "grams": 0
       }
     ],
     "evening": [
       {
-        "product": "",
+        "product": "Йогурт ",
+        "grams": 0
+      },
+      {
+        "product": "Яблоко ",
         "grams": 0
       }
     ],
-    "notes": ""
+    "notes": "Сливочное \nОливковое "
   },
   {
     "id": "1784878048967-irl9bd4",
