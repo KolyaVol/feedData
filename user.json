@@ -1,5 +1,71 @@
 [
   {
+    "id": "1784965544904-m87bko3",
+    "date": "2026-07-26",
+    "morning": [
+      {
+        "product": "Гречка ",
+        "grams": 173
+      },
+      {
+        "product": "Абрикос",
+        "grams": 0
+      },
+      {
+        "product": "Желток",
+        "grams": 15
+      }
+    ],
+    "lunch": [
+      {
+        "product": "Кабачок ",
+        "grams": 0
+      },
+      {
+        "product": "Форель",
+        "grams": 0
+      },
+      {
+        "product": "Брокколи",
+        "grams": 0
+      }
+    ],
+    "evening": [
+      {
+        "product": "Кефир ",
+        "grams": 0
+      },
+      {
+        "product": "Яблоко",
+        "grams": 0
+      }
+    ],
+    "notes": "Сливочное \nПодсолнечное льняное "
+  },
+  {
+    "id": "1784965664486-4ifg480",
+    "date": "2026-07-27",
+    "morning": [
+      {
+        "product": "",
+        "grams": 0
+      }
+    ],
+    "lunch": [
+      {
+        "product": "",
+        "grams": 0
+      }
+    ],
+    "evening": [
+      {
+        "product": "",
+        "grams": 0
+      }
+    ],
+    "notes": ""
+  },
+  {
     "id": "1784878048967-irl9bd4",
     "date": "2026-07-25",
     "morning": [
@@ -45,76 +111,6 @@
       }
     ],
     "notes": "Сливочное \nОливковое "
-  },
-  {
-    "id": "1784965664486-4ifg480",
-    "date": "2026-07-27",
-    "morning": [
-      {
-        "product": "",
-        "grams": 0
-      }
-    ],
-    "lunch": [
-      {
-        "product": "",
-        "grams": 0
-      }
-    ],
-    "evening": [
-      {
-        "product": "",
-        "grams": 0
-      }
-    ],
-    "notes": ""
-  },
-  {
-    "id": "1784965544904-m87bko3",
-    "date": "2026-07-26",
-    "morning": [
-      {
-        "product": "Гречка ",
-        "grams": 0
-      },
-      {
-        "product": "Нектарин",
-        "grams": 0
-      },
-      {
-        "product": "Абрикос",
-        "grams": 0
-      },
-      {
-        "product": "Желток",
-        "grams": 0
-      }
-    ],
-    "lunch": [
-      {
-        "product": "Кабачок ",
-        "grams": 0
-      },
-      {
-        "product": "Форель",
-        "grams": 0
-      },
-      {
-        "product": "Брокколи",
-        "grams": 0
-      }
-    ],
-    "evening": [
-      {
-        "product": "Кефир ",
-        "grams": 0
-      },
-      {
-        "product": "Яблоко",
-        "grams": 0
-      }
-    ],
-    "notes": "Сливочное \nПодсолнечное льняное "
   },
   {
     "id": "1784789175201-dyp3wtu",
