@@ -74,7 +74,11 @@
     "lunch": [
       {
         "product": "Морковь ",
-        "grams": 0
+        "grams": 95
+      },
+      {
+        "product": "Говядина с печенью",
+        "grams": 40
       }
     ],
     "evening": [
