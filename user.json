@@ -1,5 +1,48 @@
 [
   {
+    "id": "1785132894844-3maycg0",
+    "date": "2026-07-28",
+    "morning": [
+      {
+        "product": "Пшено ",
+        "grams": 84
+      },
+      {
+        "product": "Мультизлаковая каша",
+        "grams": 78
+      },
+      {
+        "product": "Абрикос",
+        "grams": 0
+      }
+    ],
+    "lunch": [
+      {
+        "product": "Морковь ",
+        "grams": 0
+      },
+      {
+        "product": "Свинина",
+        "grams": 46
+      },
+      {
+        "product": "Брокколи",
+        "grams": 0
+      }
+    ],
+    "evening": [
+      {
+        "product": "Творог ",
+        "grams": 0
+      },
+      {
+        "product": "Персик",
+        "grams": 35
+      }
+    ],
+    "notes": ""
+  },
+  {
     "id": "1784965664486-4ifg480",
     "date": "2026-07-27",
     "morning": [
@@ -41,53 +84,10 @@
       },
       {
         "product": "Абрикос",
-        "grams": 0
+        "grams": 7
       }
     ],
     "notes": "Сливочное \nОливковое "
-  },
-  {
-    "id": "1785132894844-3maycg0",
-    "date": "2026-07-28",
-    "morning": [
-      {
-        "product": "Пшено ",
-        "grams": 0
-      },
-      {
-        "product": "Мультизлаковая каша",
-        "grams": 0
-      },
-      {
-        "product": "Абрикос",
-        "grams": 0
-      }
-    ],
-    "lunch": [
-      {
-        "product": "Морковь ",
-        "grams": 0
-      },
-      {
-        "product": "Свинина",
-        "grams": 46
-      },
-      {
-        "product": "Брокколи",
-        "grams": 0
-      }
-    ],
-    "evening": [
-      {
-        "product": "Творог ",
-        "grams": 0
-      },
-      {
-        "product": "Персик",
-        "grams": 35
-      }
-    ],
-    "notes": ""
   },
   {
     "id": "1784965544904-m87bko3",
