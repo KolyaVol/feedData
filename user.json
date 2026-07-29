@@ -86,7 +86,7 @@
       },
       {
         "product": "Форель",
-        "grams": 0
+        "grams": 49
       },
       {
         "product": "Шпинат",
@@ -96,11 +96,11 @@
     "evening": [
       {
         "product": "Йогурт ",
-        "grams": 0
+        "grams": 100
       },
       {
         "product": "Манго",
-        "grams": 0
+        "grams": 48
       }
     ],
     "notes": "Сливочное \nПодсолнечное льняное "
