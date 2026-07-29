@@ -17,7 +17,7 @@
       },
       {
         "product": "Абрикос",
-        "grams": 0
+        "grams": 15
       }
     ],
     "lunch": [
@@ -31,7 +31,7 @@
       },
       {
         "product": "Шпинат",
-        "grams": 0
+        "grams": 8
       }
     ],
     "evening": [
