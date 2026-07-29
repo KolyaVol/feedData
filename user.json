@@ -32,6 +32,10 @@
       {
         "product": "Шпинат",
         "grams": 8
+      },
+      {
+        "product": "Помидор",
+        "grams": 10
       }
     ],
     "evening": [
