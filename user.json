@@ -13,7 +13,7 @@
       },
       {
         "product": "Абрикос",
-        "grams": 0
+        "grams": 15
       }
     ],
     "lunch": [
@@ -27,7 +27,7 @@
       },
       {
         "product": "Шпинат",
-        "grams": 0
+        "grams": 5
       }
     ],
     "evening": [
@@ -41,6 +41,29 @@
       }
     ],
     "notes": "Сливочное \nПодсолнечное льняное "
+  },
+  {
+    "id": "1785397625477-dyoavv5",
+    "date": "2026-07-31",
+    "morning": [
+      {
+        "product": "",
+        "grams": 0
+      }
+    ],
+    "lunch": [
+      {
+        "product": "",
+        "grams": 0
+      }
+    ],
+    "evening": [
+      {
+        "product": "",
+        "grams": 0
+      }
+    ],
+    "notes": ""
   },
   {
     "id": "1785221976327-6o233o0",
