@@ -32,6 +32,10 @@
       {
         "product": "Брокколи",
         "grams": 10
+      },
+      {
+        "product": "Картофель",
+        "grams": 5
       }
     ],
     "evening": [
