@@ -32,6 +32,10 @@
       {
         "product": "Брокколи",
         "grams": 27
+      },
+      {
+        "product": "Макароны",
+        "grams": 5
       }
     ],
     "evening": [
