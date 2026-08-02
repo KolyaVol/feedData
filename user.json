@@ -28,6 +28,10 @@
       {
         "product": "Белок",
         "grams": 4
+      },
+      {
+        "product": "Кабачок",
+        "grams": 15
       }
     ],
     "evening": [
