@@ -24,6 +24,10 @@
       {
         "product": "Брокколи",
         "grams": 22
+      },
+      {
+        "product": "Белок",
+        "grams": 4
       }
     ],
     "evening": [
