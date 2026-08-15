@@ -1,5 +1,107 @@
 [
   {
+    "id": "1786782491131-smy1pp8",
+    "date": "2026-08-15",
+    "morning": [
+      {
+        "product": "Овсянка ",
+        "grams": 137
+      },
+      {
+        "product": "Слива",
+        "grams": 10
+      },
+      {
+        "product": "Персик",
+        "grams": 25
+      },
+      {
+        "product": "Арбуз",
+        "grams": 1
+      },
+      {
+        "product": "Дыня",
+        "grams": 1
+      }
+    ],
+    "lunch": [
+      {
+        "product": "Кабачок ",
+        "grams": 20
+      },
+      {
+        "product": "Хек",
+        "grams": 53
+      },
+      {
+        "product": "Морковь",
+        "grams": 10
+      },
+      {
+        "product": "Брокколи",
+        "grams": 15
+      },
+      {
+        "product": "Картофель",
+        "grams": 25
+      }
+    ],
+    "evening": [
+      {
+        "product": "Йогурт ",
+        "grams": 100
+      },
+      {
+        "product": "Слива",
+        "grams": 10
+      },
+      {
+        "product": "Кабачок",
+        "grams": 75
+      },
+      {
+        "product": "Макароны",
+        "grams": 0
+      }
+    ],
+    "notes": "Сливочное \nОливковое "
+  },
+  {
+    "id": "1786784386272-0ceia9e",
+    "date": "2026-08-16",
+    "morning": [
+      {
+        "product": "Рис",
+        "grams": 0
+      },
+      {
+        "product": "Слива",
+        "grams": 0
+      },
+      {
+        "product": "Персик",
+        "grams": 0
+      }
+    ],
+    "lunch": [
+      {
+        "product": "Тыква ",
+        "grams": 0
+      },
+      {
+        "product": "Цыплёнок",
+        "grams": 0
+      }
+    ],
+    "evening": [
+      {
+        "product": "",
+        "grams": 0
+      }
+    ],
+    "notes": ""
+  },
+  {
     "id": "1785570883004-ji9wa1f",
     "date": "2026-08-02",
     "morning": [
@@ -37,7 +139,7 @@
     "evening": [
       {
         "product": "Творог ",
-        "grams": 50
+        "grams": 53
       },
       {
         "product": "Персик",
@@ -50,6 +152,10 @@
       {
         "product": "Абрикос",
         "grams": 15
+      },
+      {
+        "product": "Грецкие орехи",
+        "grams": 2
       }
     ],
     "notes": "Сливочное \nОливковое "
