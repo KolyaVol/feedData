@@ -36,6 +36,10 @@
       {
         "product": "Цыплёнок",
         "grams": 49
+      },
+      {
+        "product": "Картофель",
+        "grams": 15
       }
     ],
     "evening": [
