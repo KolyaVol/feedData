@@ -1,5 +1,40 @@
 [
   {
+    "id": "1786784386272-0ceia9e",
+    "date": "2026-08-16",
+    "morning": [
+      {
+        "product": "Рис",
+        "grams": 149
+      },
+      {
+        "product": "Слива",
+        "grams": 7
+      },
+      {
+        "product": "Персик",
+        "grams": 15
+      }
+    ],
+    "lunch": [
+      {
+        "product": "Тыква ",
+        "grams": 0
+      },
+      {
+        "product": "Цыплёнок",
+        "grams": 0
+      }
+    ],
+    "evening": [
+      {
+        "product": "",
+        "grams": 0
+      }
+    ],
+    "notes": ""
+  },
+  {
     "id": "1786782491131-smy1pp8",
     "date": "2026-08-15",
     "morning": [
@@ -65,41 +100,6 @@
       }
     ],
     "notes": "Сливочное \nОливковое "
-  },
-  {
-    "id": "1786784386272-0ceia9e",
-    "date": "2026-08-16",
-    "morning": [
-      {
-        "product": "Рис",
-        "grams": 0
-      },
-      {
-        "product": "Слива",
-        "grams": 0
-      },
-      {
-        "product": "Персик",
-        "grams": 0
-      }
-    ],
-    "lunch": [
-      {
-        "product": "Тыква ",
-        "grams": 0
-      },
-      {
-        "product": "Цыплёнок",
-        "grams": 0
-      }
-    ],
-    "evening": [
-      {
-        "product": "",
-        "grams": 0
-      }
-    ],
-    "notes": ""
   },
   {
     "id": "1785570883004-ji9wa1f",
