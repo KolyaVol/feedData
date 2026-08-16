@@ -46,6 +46,10 @@
       {
         "product": "Персик",
         "grams": 0
+      },
+      {
+        "product": "Тыква",
+        "grams": 72
       }
     ],
     "notes": ""
