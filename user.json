@@ -44,6 +44,10 @@
       {
         "product": "Морковь",
         "grams": 7
+      },
+      {
+        "product": "Макароны",
+        "grams": 7
       }
     ],
     "evening": [
