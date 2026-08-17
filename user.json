@@ -54,6 +54,10 @@
       {
         "product": "Персик",
         "grams": 19
+      },
+      {
+        "product": "Слива",
+        "grams": 10
       }
     ],
     "notes": ""
