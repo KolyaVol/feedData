@@ -58,6 +58,14 @@
       {
         "product": "Слива",
         "grams": 10
+      },
+      {
+        "product": "Огурец",
+        "grams": 10
+      },
+      {
+        "product": "Помидор",
+        "grams": 10
       }
     ],
     "notes": ""
