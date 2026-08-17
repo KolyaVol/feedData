@@ -46,6 +46,10 @@
       {
         "product": "Манго",
         "grams": 0
+      },
+      {
+        "product": "Тыква",
+        "grams": 40
       }
     ],
     "notes": ""
