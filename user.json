@@ -81,11 +81,15 @@
       {
         "product": "Желток",
         "grams": 0
+      },
+      {
+        "product": "Белок",
+        "grams": 0
       }
     ],
     "lunch": [
       {
-        "product": "",
+        "product": "Морковь ",
         "grams": 0
       }
     ],
