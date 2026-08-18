@@ -1,5 +1,60 @@
 [
   {
+    "id": "1786970871277-1f43qq3",
+    "date": "2026-08-18",
+    "morning": [
+      {
+        "product": "Кукуруза ",
+        "grams": 140
+      },
+      {
+        "product": "Слива",
+        "grams": 0
+      },
+      {
+        "product": "Персик",
+        "grams": 0
+      }
+    ],
+    "lunch": [
+      {
+        "product": "Морковь ",
+        "grams": 0
+      },
+      {
+        "product": "Свинина ",
+        "grams": 46
+      },
+      {
+        "product": "Кабачок",
+        "grams": 0
+      },
+      {
+        "product": "Брокколи",
+        "grams": 0
+      },
+      {
+        "product": "Спаржевая фасоль",
+        "grams": 0
+      }
+    ],
+    "evening": [
+      {
+        "product": "Йогурт ",
+        "grams": 0
+      },
+      {
+        "product": "Слива",
+        "grams": 0
+      },
+      {
+        "product": "Персик",
+        "grams": 0
+      }
+    ],
+    "notes": ""
+  },
+  {
     "id": "1786888071912-6kxjly4",
     "date": "2026-08-17",
     "morning": [
@@ -66,61 +121,6 @@
       {
         "product": "Помидор",
         "grams": 10
-      }
-    ],
-    "notes": ""
-  },
-  {
-    "id": "1786970871277-1f43qq3",
-    "date": "2026-08-18",
-    "morning": [
-      {
-        "product": "Кукуруза ",
-        "grams": 0
-      },
-      {
-        "product": "Слива",
-        "grams": 0
-      },
-      {
-        "product": "Персик",
-        "grams": 0
-      }
-    ],
-    "lunch": [
-      {
-        "product": "Морковь ",
-        "grams": 0
-      },
-      {
-        "product": "Свинина ",
-        "grams": 46
-      },
-      {
-        "product": "Кабачок",
-        "grams": 0
-      },
-      {
-        "product": "Брокколи",
-        "grams": 0
-      },
-      {
-        "product": "Спаржевая фасоль",
-        "grams": 0
-      }
-    ],
-    "evening": [
-      {
-        "product": "Йогурт ",
-        "grams": 0
-      },
-      {
-        "product": "Слива",
-        "grams": 0
-      },
-      {
-        "product": "Персик",
-        "grams": 0
       }
     ],
     "notes": ""
