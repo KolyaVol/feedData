@@ -27,21 +27,21 @@
       },
       {
         "product": "Кабачок",
-        "grams": 0
+        "grams": 35
       },
       {
         "product": "Брокколи",
-        "grams": 0
+        "grams": 25
       },
       {
         "product": "Спаржевая фасоль",
-        "grams": 0
+        "grams": 15
       }
     ],
     "evening": [
       {
         "product": "Йогурт ",
-        "grams": 0
+        "grams": 100
       },
       {
         "product": "Слива",
@@ -56,7 +56,7 @@
         "grams": 40
       }
     ],
-    "notes": ""
+    "notes": "Кунжутное "
   },
   {
     "id": "1786888071912-6kxjly4",
