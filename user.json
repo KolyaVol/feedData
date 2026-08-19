@@ -32,12 +32,16 @@
       {
         "product": "Кабачок",
         "grams": 10
+      },
+      {
+        "product": "Брокколи",
+        "grams": 15
       }
     ],
     "evening": [
       {
         "product": "Творог ",
-        "grams": 0
+        "grams": 60
       },
       {
         "product": "Персик",
