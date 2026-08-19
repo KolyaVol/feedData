@@ -28,6 +28,10 @@
       {
         "product": "Яйцо",
         "grams": 20
+      },
+      {
+        "product": "Кабачок",
+        "grams": 10
       }
     ],
     "evening": [
