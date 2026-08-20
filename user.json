@@ -1,5 +1,48 @@
 [
   {
+    "id": "1787126501856-sohtyox",
+    "date": "2026-08-20",
+    "morning": [
+      {
+        "product": "Пшено ",
+        "grams": 148
+      },
+      {
+        "product": "Слива",
+        "grams": 40
+      },
+      {
+        "product": "Абрикос ",
+        "grams": 40
+      }
+    ],
+    "lunch": [
+      {
+        "product": "Говядина ",
+        "grams": 40
+      },
+      {
+        "product": "Кабачок",
+        "grams": 0
+      },
+      {
+        "product": "Яйцо",
+        "grams": 20
+      },
+      {
+        "product": "Морковь",
+        "grams": 20
+      }
+    ],
+    "evening": [
+      {
+        "product": "Кефир ",
+        "grams": 0
+      }
+    ],
+    "notes": "Кунжутное "
+  },
+  {
     "id": "1787054536961-6dppuy6",
     "date": "2026-08-19",
     "morning": [
@@ -45,41 +88,22 @@
       },
       {
         "product": "Персик",
-        "grams": 0
+        "grams": 25
+      },
+      {
+        "product": "Абрикос",
+        "grams": 15
+      },
+      {
+        "product": "Голубика",
+        "grams": 10
+      },
+      {
+        "product": "Кукуруза",
+        "grams": 5
       }
     ],
     "notes": "Оливковое "
-  },
-  {
-    "id": "1787126501856-sohtyox",
-    "date": "2026-08-20",
-    "morning": [
-      {
-        "product": "Пшено ",
-        "grams": 0
-      },
-      {
-        "product": "Слива",
-        "grams": 0
-      }
-    ],
-    "lunch": [
-      {
-        "product": "Говядина ",
-        "grams": 0
-      },
-      {
-        "product": "Кабачок",
-        "grams": 0
-      }
-    ],
-    "evening": [
-      {
-        "product": "Кефир ",
-        "grams": 0
-      }
-    ],
-    "notes": ""
   },
   {
     "id": "1786970871277-1f43qq3",
