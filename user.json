@@ -31,21 +31,21 @@
       },
       {
         "product": "Картофель",
-        "grams": 0
+        "grams": 10
       },
       {
         "product": "Брокколи",
-        "grams": 0
+        "grams": 5
       },
       {
         "product": "Морковь",
-        "grams": 0
+        "grams": 5
       }
     ],
     "evening": [
       {
         "product": "Кефир ",
-        "grams": 0
+        "grams": 200
       },
       {
         "product": "Банан",
