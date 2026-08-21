@@ -1,5 +1,56 @@
 [
   {
+    "id": "1787233424939-bdqrfjo",
+    "date": "2026-08-21",
+    "morning": [
+      {
+        "product": "Овсянка ",
+        "grams": 152
+      },
+      {
+        "product": "Слива",
+        "grams": 0
+      },
+      {
+        "product": "Абрикос",
+        "grams": 0
+      }
+    ],
+    "lunch": [
+      {
+        "product": "Кабачок ",
+        "grams": 0
+      },
+      {
+        "product": "Форель",
+        "grams": 0
+      },
+      {
+        "product": "Картофель",
+        "grams": 0
+      },
+      {
+        "product": "Брокколи",
+        "grams": 0
+      },
+      {
+        "product": "Морковь",
+        "grams": 0
+      }
+    ],
+    "evening": [
+      {
+        "product": "Кефир ",
+        "grams": 0
+      },
+      {
+        "product": "Банан",
+        "grams": 0
+      }
+    ],
+    "notes": "Оливковое "
+  },
+  {
     "id": "1787126501856-sohtyox",
     "date": "2026-08-20",
     "morning": [
@@ -65,57 +116,6 @@
       }
     ],
     "notes": "Кунжутное "
-  },
-  {
-    "id": "1787233424939-bdqrfjo",
-    "date": "2026-08-21",
-    "morning": [
-      {
-        "product": "Овсянка ",
-        "grams": 0
-      },
-      {
-        "product": "Слива",
-        "grams": 0
-      },
-      {
-        "product": "Абрикос",
-        "grams": 0
-      }
-    ],
-    "lunch": [
-      {
-        "product": "Кабачок ",
-        "grams": 0
-      },
-      {
-        "product": "Форель",
-        "grams": 0
-      },
-      {
-        "product": "Картофель",
-        "grams": 0
-      },
-      {
-        "product": "Брокколи",
-        "grams": 0
-      },
-      {
-        "product": "Морковь",
-        "grams": 0
-      }
-    ],
-    "evening": [
-      {
-        "product": "Кефир ",
-        "grams": 0
-      },
-      {
-        "product": "Банан",
-        "grams": 0
-      }
-    ],
-    "notes": "Оливковое "
   },
   {
     "id": "1787054536961-6dppuy6",
