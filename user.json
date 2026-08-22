@@ -1,5 +1,44 @@
 [
   {
+    "id": "1787300852426-bh9dnyu",
+    "date": "2026-08-22",
+    "morning": [
+      {
+        "product": "Рис ",
+        "grams": 156
+      },
+      {
+        "product": "Слива",
+        "grams": 0
+      },
+      {
+        "product": "Абрикос",
+        "grams": 0
+      }
+    ],
+    "lunch": [
+      {
+        "product": "Тыква ",
+        "grams": 0
+      },
+      {
+        "product": "Кролик",
+        "grams": 0
+      }
+    ],
+    "evening": [
+      {
+        "product": "Творог ",
+        "grams": 0
+      },
+      {
+        "product": "Банан ",
+        "grams": 0
+      }
+    ],
+    "notes": "Кунжутное "
+  },
+  {
     "id": "1787233424939-bdqrfjo",
     "date": "2026-08-21",
     "morning": [
@@ -57,45 +96,6 @@
       }
     ],
     "notes": "Оливковое "
-  },
-  {
-    "id": "1787300852426-bh9dnyu",
-    "date": "2026-08-22",
-    "morning": [
-      {
-        "product": "Рис ",
-        "grams": 0
-      },
-      {
-        "product": "Слива",
-        "grams": 0
-      },
-      {
-        "product": "Абрикос",
-        "grams": 0
-      }
-    ],
-    "lunch": [
-      {
-        "product": "Тыква ",
-        "grams": 0
-      },
-      {
-        "product": "Кролик",
-        "grams": 0
-      }
-    ],
-    "evening": [
-      {
-        "product": "Творог ",
-        "grams": 0
-      },
-      {
-        "product": "Манго",
-        "grams": 0
-      }
-    ],
-    "notes": "Кунжутное "
   },
   {
     "id": "1787126501856-sohtyox",
