@@ -28,6 +28,10 @@
       {
         "product": "Помидор",
         "grams": 5
+      },
+      {
+        "product": "Кукуруза",
+        "grams": 5
       }
     ],
     "evening": [
