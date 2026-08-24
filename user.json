@@ -1,5 +1,56 @@
 [
   {
+    "id": "1787473686324-bh8bv1q",
+    "date": "2026-08-24",
+    "morning": [
+      {
+        "product": "Кукуруза ",
+        "grams": 140
+      },
+      {
+        "product": "Слива",
+        "grams": 0
+      },
+      {
+        "product": "Абрикос",
+        "grams": 0
+      }
+    ],
+    "lunch": [
+      {
+        "product": "Морковь ",
+        "grams": 0
+      },
+      {
+        "product": "Индейка",
+        "grams": 0
+      },
+      {
+        "product": "Кабачок",
+        "grams": 0
+      },
+      {
+        "product": "Брокколи",
+        "grams": 0
+      },
+      {
+        "product": "Морковь",
+        "grams": 0
+      }
+    ],
+    "evening": [
+      {
+        "product": "Кефир ",
+        "grams": 0
+      },
+      {
+        "product": "Манго",
+        "grams": 0
+      }
+    ],
+    "notes": ""
+  },
+  {
     "id": "1787386543195-j0bi1ho",
     "date": "2026-08-23",
     "morning": [
@@ -61,57 +112,6 @@
       }
     ],
     "notes": "Оливковое "
-  },
-  {
-    "id": "1787473686324-bh8bv1q",
-    "date": "2026-08-24",
-    "morning": [
-      {
-        "product": "Кукуруза ",
-        "grams": 0
-      },
-      {
-        "product": "Слива",
-        "grams": 0
-      },
-      {
-        "product": "Абрикос",
-        "grams": 0
-      }
-    ],
-    "lunch": [
-      {
-        "product": "Морковь ",
-        "grams": 0
-      },
-      {
-        "product": "Индейка",
-        "grams": 0
-      },
-      {
-        "product": "Кабачок",
-        "grams": 0
-      },
-      {
-        "product": "Брокколи",
-        "grams": 0
-      },
-      {
-        "product": "Морковь",
-        "grams": 0
-      }
-    ],
-    "evening": [
-      {
-        "product": "Кефир ",
-        "grams": 0
-      },
-      {
-        "product": "Манго",
-        "grams": 0
-      }
-    ],
-    "notes": ""
   },
   {
     "id": "1787300852426-bh9dnyu",
