@@ -1,5 +1,48 @@
 [
   {
+    "id": "1787556715437-ee16ozi",
+    "date": "2026-08-25",
+    "morning": [
+      {
+        "product": "Мультизлаковая каша ",
+        "grams": 149
+      },
+      {
+        "product": "Слива",
+        "grams": 25
+      },
+      {
+        "product": "Абрикос",
+        "grams": 14
+      }
+    ],
+    "lunch": [
+      {
+        "product": "Морковь ",
+        "grams": 0
+      },
+      {
+        "product": "Индейка",
+        "grams": 0
+      }
+    ],
+    "evening": [
+      {
+        "product": "Творог ",
+        "grams": 0
+      },
+      {
+        "product": "Манго",
+        "grams": 0
+      },
+      {
+        "product": "Грецкие орехи",
+        "grams": 0
+      }
+    ],
+    "notes": "Оливковое "
+  },
+  {
     "id": "1787473686324-bh8bv1q",
     "date": "2026-08-24",
     "morning": [
@@ -57,53 +100,10 @@
       },
       {
         "product": "Голубика",
-        "grams": 7
+        "grams": 8
       }
     ],
     "notes": "Кунжутное "
-  },
-  {
-    "id": "1787556715437-ee16ozi",
-    "date": "2026-08-25",
-    "morning": [
-      {
-        "product": "Мультизлаковая каша ",
-        "grams": 0
-      },
-      {
-        "product": "Слива",
-        "grams": 0
-      },
-      {
-        "product": "Абрикос",
-        "grams": 0
-      }
-    ],
-    "lunch": [
-      {
-        "product": "Морковь ",
-        "grams": 0
-      },
-      {
-        "product": "Индейка",
-        "grams": 0
-      }
-    ],
-    "evening": [
-      {
-        "product": "Творог ",
-        "grams": 0
-      },
-      {
-        "product": "Манго",
-        "grams": 0
-      },
-      {
-        "product": "Грецкие орехи",
-        "grams": 0
-      }
-    ],
-    "notes": "Оливковое "
   },
   {
     "id": "1787386543195-j0bi1ho",
