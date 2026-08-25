@@ -33,15 +33,15 @@
     "evening": [
       {
         "product": "Творог ",
-        "grams": 0
+        "grams": 53
       },
       {
         "product": "Голубика ",
-        "grams": 0
+        "grams": 2
       },
       {
         "product": "Грецкие орехи",
-        "grams": 0
+        "grams": 6
       },
       {
         "product": "Морковь",
@@ -49,7 +49,7 @@
       },
       {
         "product": "Яблоко",
-        "grams": 0
+        "grams": 5
       }
     ],
     "notes": "Оливковое "
