@@ -1,5 +1,75 @@
 [
   {
+    "id": "1787644245113-v6t14ww",
+    "date": "2026-08-26",
+    "morning": [
+      {
+        "product": "Пшено ",
+        "grams": 0
+      },
+      {
+        "product": "Абрикос",
+        "grams": 0
+      },
+      {
+        "product": "Слива",
+        "grams": 0
+      },
+      {
+        "product": "Яйцо",
+        "grams": 0
+      }
+    ],
+    "lunch": [
+      {
+        "product": "Морковь ",
+        "grams": 0
+      },
+      {
+        "product": "Форель",
+        "grams": 0
+      }
+    ],
+    "evening": [
+      {
+        "product": "Йогурт ",
+        "grams": 0
+      },
+      {
+        "product": "Яблоко",
+        "grams": 0
+      },
+      {
+        "product": "Голубика",
+        "grams": 0
+      }
+    ],
+    "notes": "Кунжутное "
+  },
+  {
+    "id": "1787719967446-8ffly8n",
+    "date": "2026-08-27",
+    "morning": [
+      {
+        "product": "",
+        "grams": 0
+      }
+    ],
+    "lunch": [
+      {
+        "product": "",
+        "grams": 0
+      }
+    ],
+    "evening": [
+      {
+        "product": "",
+        "grams": 0
+      }
+    ],
+    "notes": ""
+  },
+  {
     "id": "1787556715437-ee16ozi",
     "date": "2026-08-25",
     "morning": [
@@ -53,53 +123,6 @@
       }
     ],
     "notes": "Оливковое "
-  },
-  {
-    "id": "1787644245113-v6t14ww",
-    "date": "2026-08-26",
-    "morning": [
-      {
-        "product": "Пшено ",
-        "grams": 0
-      },
-      {
-        "product": "Абрикос",
-        "grams": 0
-      },
-      {
-        "product": "Слива",
-        "grams": 0
-      },
-      {
-        "product": "Яйцо",
-        "grams": 0
-      }
-    ],
-    "lunch": [
-      {
-        "product": "Морковь ",
-        "grams": 0
-      },
-      {
-        "product": "Форель",
-        "grams": 0
-      }
-    ],
-    "evening": [
-      {
-        "product": "Йогурт ",
-        "grams": 0
-      },
-      {
-        "product": "Яблоко",
-        "grams": 0
-      },
-      {
-        "product": "Голубика",
-        "grams": 0
-      }
-    ],
-    "notes": "Кунжутное "
   },
   {
     "id": "1787473686324-bh8bv1q",
