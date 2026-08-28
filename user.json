@@ -1,5 +1,103 @@
 [
   {
+    "id": "1787816171852-ygd79e2",
+    "date": "2026-08-28",
+    "morning": [
+      {
+        "product": "Овсянка ",
+        "grams": 0
+      },
+      {
+        "product": "Слива",
+        "grams": 35
+      },
+      {
+        "product": "Абрикос",
+        "grams": 52
+      }
+    ],
+    "lunch": [
+      {
+        "product": "Кабачок ",
+        "grams": 0
+      },
+      {
+        "product": "Цыплёнок",
+        "grams": 47
+      }
+    ],
+    "evening": [
+      {
+        "product": "Творог ",
+        "grams": 0
+      },
+      {
+        "product": "Грецкие орехи",
+        "grams": 0
+      }
+    ],
+    "notes": "Кунжутное "
+  },
+  {
+    "id": "1787719967446-8ffly8n",
+    "date": "2026-08-27",
+    "morning": [
+      {
+        "product": "Пшено ",
+        "grams": 147
+      },
+      {
+        "product": "Слива",
+        "grams": 33
+      },
+      {
+        "product": "Абрикос",
+        "grams": 19
+      }
+    ],
+    "lunch": [
+      {
+        "product": "Кабачок ",
+        "grams": 92
+      },
+      {
+        "product": "Цыплёнок",
+        "grams": 47
+      },
+      {
+        "product": "Брокколи",
+        "grams": 10
+      },
+      {
+        "product": "Картофель",
+        "grams": 15
+      },
+      {
+        "product": "Морковь",
+        "grams": 3
+      }
+    ],
+    "evening": [
+      {
+        "product": "Биолакт",
+        "grams": 134
+      },
+      {
+        "product": "Голубика",
+        "grams": 10
+      },
+      {
+        "product": "Яблоко",
+        "grams": 7
+      },
+      {
+        "product": "Помидор",
+        "grams": 15
+      }
+    ],
+    "notes": "Оливковое "
+  },
+  {
     "id": "1787644245113-v6t14ww",
     "date": "2026-08-26",
     "morning": [
@@ -41,57 +139,22 @@
       },
       {
         "product": "Яблоко",
-        "grams": 0
+        "grams": 5
       },
       {
         "product": "Голубика",
-        "grams": 6
+        "grams": 8
       },
       {
         "product": "Грецкие орехи",
-        "grams": 0
+        "grams": 6
+      },
+      {
+        "product": "Манго",
+        "grams": 45
       }
     ],
     "notes": "Кунжутное "
-  },
-  {
-    "id": "1787719967446-8ffly8n",
-    "date": "2026-08-27",
-    "morning": [
-      {
-        "product": "Овсянка ",
-        "grams": 0
-      },
-      {
-        "product": "Слива",
-        "grams": 0
-      },
-      {
-        "product": "Абрикос",
-        "grams": 0
-      }
-    ],
-    "lunch": [
-      {
-        "product": "Кабачок ",
-        "grams": 0
-      },
-      {
-        "product": "Цыплёнок",
-        "grams": 0
-      }
-    ],
-    "evening": [
-      {
-        "product": "Кефир ",
-        "grams": 0
-      },
-      {
-        "product": "Голубика",
-        "grams": 0
-      }
-    ],
-    "notes": "Оливковое "
   },
   {
     "id": "1787556715437-ee16ozi",
