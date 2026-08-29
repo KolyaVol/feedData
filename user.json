@@ -61,11 +61,19 @@
       {
         "product": "Гречка ",
         "grams": 0
+      },
+      {
+        "product": "Абрикос",
+        "grams": 0
+      },
+      {
+        "product": "Слива",
+        "grams": 0
       }
     ],
     "lunch": [
       {
-        "product": "",
+        "product": "Тыква ",
         "grams": 0
       }
     ],
