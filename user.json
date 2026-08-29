@@ -46,9 +46,36 @@
       {
         "product": "Помидор",
         "grams": 0
+      },
+      {
+        "product": "Голубика",
+        "grams": 0
       }
     ],
     "notes": "Оливковое "
+  },
+  {
+    "id": "1787982355121-yb4a58z",
+    "date": "2026-08-30",
+    "morning": [
+      {
+        "product": "",
+        "grams": 0
+      }
+    ],
+    "lunch": [
+      {
+        "product": "",
+        "grams": 0
+      }
+    ],
+    "evening": [
+      {
+        "product": "",
+        "grams": 0
+      }
+    ],
+    "notes": ""
   },
   {
     "id": "1787816171852-ygd79e2",
