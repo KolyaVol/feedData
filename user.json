@@ -1,58 +1,15 @@
 [
   {
-    "id": "1787816171852-ygd79e2",
-    "date": "2026-08-28",
-    "morning": [
-      {
-        "product": "Овсянка ",
-        "grams": 145
-      },
-      {
-        "product": "Слива",
-        "grams": 35
-      },
-      {
-        "product": "Абрикос",
-        "grams": 52
-      }
-    ],
-    "lunch": [
-      {
-        "product": "Кабачок ",
-        "grams": 72
-      },
-      {
-        "product": "Цыплёнок",
-        "grams": 47
-      }
-    ],
-    "evening": [
-      {
-        "product": "Творог ",
-        "grams": 0
-      },
-      {
-        "product": "Грецкие орехи",
-        "grams": 0
-      },
-      {
-        "product": "Кабачок",
-        "grams": 20
-      }
-    ],
-    "notes": "Кунжутное "
-  },
-  {
     "id": "1787902466329-mvj24rv",
     "date": "2026-08-29",
     "morning": [
       {
         "product": "Рис ",
-        "grams": 0
+        "grams": 140
       },
       {
         "product": "Слива",
-        "grams": 0
+        "grams": 53
       },
       {
         "product": "Абрикос",
@@ -80,6 +37,73 @@
       }
     ],
     "notes": "Оливковое "
+  },
+  {
+    "id": "1787816171852-ygd79e2",
+    "date": "2026-08-28",
+    "morning": [
+      {
+        "product": "Овсянка ",
+        "grams": 145
+      },
+      {
+        "product": "Слива",
+        "grams": 35
+      },
+      {
+        "product": "Абрикос",
+        "grams": 52
+      }
+    ],
+    "lunch": [
+      {
+        "product": "Кабачок ",
+        "grams": 72
+      },
+      {
+        "product": "Цыплёнок",
+        "grams": 47
+      },
+      {
+        "product": "Брокколи",
+        "grams": 15
+      },
+      {
+        "product": "Морковь",
+        "grams": 7
+      },
+      {
+        "product": "Картофель",
+        "grams": 7
+      }
+    ],
+    "evening": [
+      {
+        "product": "Творог ",
+        "grams": 54
+      },
+      {
+        "product": "Грецкие орехи",
+        "grams": 5
+      },
+      {
+        "product": "Кабачок",
+        "grams": 20
+      },
+      {
+        "product": "Помидор",
+        "grams": 20
+      },
+      {
+        "product": "Огурец",
+        "grams": 15
+      },
+      {
+        "product": "Голубика",
+        "grams": 10
+      }
+    ],
+    "notes": "Кунжутное "
   },
   {
     "id": "1787719967446-8ffly8n",
