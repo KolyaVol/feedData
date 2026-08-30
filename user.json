@@ -1,5 +1,40 @@
 [
   {
+    "id": "1787982355121-yb4a58z",
+    "date": "2026-08-30",
+    "morning": [
+      {
+        "product": "Гречка ",
+        "grams": 0
+      },
+      {
+        "product": "Абрикос",
+        "grams": 0
+      },
+      {
+        "product": "Слива",
+        "grams": 0
+      }
+    ],
+    "lunch": [
+      {
+        "product": "Тыква ",
+        "grams": 0
+      },
+      {
+        "product": "Свинина",
+        "grams": 0
+      }
+    ],
+    "evening": [
+      {
+        "product": "Кефир ",
+        "grams": 0
+      }
+    ],
+    "notes": "Кунжутное "
+  },
+  {
     "id": "1787902466329-mvj24rv",
     "date": "2026-08-29",
     "morning": [
@@ -45,7 +80,7 @@
       },
       {
         "product": "Грецкие орехи",
-        "grams": 0
+        "grams": 5
       },
       {
         "product": "Огурец",
@@ -61,41 +96,6 @@
       }
     ],
     "notes": "Оливковое "
-  },
-  {
-    "id": "1787982355121-yb4a58z",
-    "date": "2026-08-30",
-    "morning": [
-      {
-        "product": "Гречка ",
-        "grams": 0
-      },
-      {
-        "product": "Абрикос",
-        "grams": 0
-      },
-      {
-        "product": "Слива",
-        "grams": 0
-      }
-    ],
-    "lunch": [
-      {
-        "product": "Тыква ",
-        "grams": 0
-      },
-      {
-        "product": "Свинина",
-        "grams": 0
-      }
-    ],
-    "evening": [
-      {
-        "product": "Кефир ",
-        "grams": 0
-      }
-    ],
-    "notes": "Кунжутное "
   },
   {
     "id": "1787816171852-ygd79e2",
