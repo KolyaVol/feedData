@@ -1,35 +1,106 @@
 [
   {
-    "id": "1787982355121-yb4a58z",
-    "date": "2026-08-30",
+    "id": "1788074512806-j1x75q4",
+    "date": "2026-08-31",
     "morning": [
       {
-        "product": "Гречка ",
+        "product": "Кукуруза ",
+        "grams": 153
+      },
+      {
+        "product": "Слива",
         "grams": 0
       },
       {
         "product": "Абрикос",
         "grams": 0
-      },
-      {
-        "product": "Слива",
-        "grams": 0
       }
     ],
     "lunch": [
       {
-        "product": "Тыква ",
+        "product": "Морковь ",
         "grams": 0
       },
       {
-        "product": "Свинина",
+        "product": "Говядина с печенью",
         "grams": 0
       }
     ],
     "evening": [
       {
-        "product": "Кефир ",
+        "product": "Творог ",
         "grams": 0
+      },
+      {
+        "product": "Голубика",
+        "grams": 0
+      },
+      {
+        "product": "Помидор",
+        "grams": 0
+      }
+    ],
+    "notes": "Оливковое "
+  },
+  {
+    "id": "1787982355121-yb4a58z",
+    "date": "2026-08-30",
+    "morning": [
+      {
+        "product": "Гречка ",
+        "grams": 148
+      },
+      {
+        "product": "Абрикос",
+        "grams": 35
+      },
+      {
+        "product": "Слива",
+        "grams": 48
+      },
+      {
+        "product": "Голубика",
+        "grams": 8
+      }
+    ],
+    "lunch": [
+      {
+        "product": "Тыква ",
+        "grams": 92
+      },
+      {
+        "product": "Свинина",
+        "grams": 47
+      },
+      {
+        "product": "Брокколи",
+        "grams": 15
+      },
+      {
+        "product": "Кабачок",
+        "grams": 25
+      },
+      {
+        "product": "Морковь",
+        "grams": 5
+      }
+    ],
+    "evening": [
+      {
+        "product": "Кефир ",
+        "grams": 130
+      },
+      {
+        "product": "Голубика",
+        "grams": 10
+      },
+      {
+        "product": "Помидор",
+        "grams": 25
+      },
+      {
+        "product": "Арбуз",
+        "grams": 20
       }
     ],
     "notes": "Кунжутное "
