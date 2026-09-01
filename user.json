@@ -1,5 +1,48 @@
 [
   {
+    "id": "1788164075625-x4uhvdp",
+    "date": "2026-09-01",
+    "morning": [
+      {
+        "product": "Мультизлаковая каша ",
+        "grams": 148
+      },
+      {
+        "product": "Слива",
+        "grams": 0
+      },
+      {
+        "product": "Абрикос",
+        "grams": 0
+      }
+    ],
+    "lunch": [
+      {
+        "product": "Морковь ",
+        "grams": 95
+      },
+      {
+        "product": "Говядина с печенью",
+        "grams": 50
+      }
+    ],
+    "evening": [
+      {
+        "product": "Йогурт ",
+        "grams": 0
+      },
+      {
+        "product": "Голубика",
+        "grams": 0
+      },
+      {
+        "product": "Помидор",
+        "grams": 0
+      }
+    ],
+    "notes": "Кунжутное "
+  },
+  {
     "id": "1788074512806-j1x75q4",
     "date": "2026-08-31",
     "morning": [
@@ -19,71 +62,48 @@
     "lunch": [
       {
         "product": "Морковь ",
-        "grams": 0
+        "grams": 95
       },
       {
         "product": "Говядина с печенью",
-        "grams": 0
+        "grams": 50
       },
       {
         "product": "Картофель",
-        "grams": 0
+        "grams": 10
       },
       {
         "product": "Брокколи",
-        "grams": 0
+        "grams": 10
+      },
+      {
+        "product": "Цветная капуста",
+        "grams": 7
       }
     ],
     "evening": [
       {
         "product": "Творог ",
-        "grams": 0
+        "grams": 55
       },
       {
         "product": "Голубика",
-        "grams": 0
+        "grams": 15
       },
       {
         "product": "Помидор",
-        "grams": 0
+        "grams": 30
+      },
+      {
+        "product": "Яблоко",
+        "grams": 30
+      },
+      {
+        "product": "Ежевика",
+        "grams": 20
       }
     ],
     "notes": "Оливковое "
-  },
-  {
-    "id": "1788164075625-x4uhvdp",
-    "date": "2026-09-01",
-    "morning": [
-      {
-        "product": "Мультизлаковая каша ",
-        "grams": 0
-      },
-      {
-        "product": "Слива",
-        "grams": 0
-      },
-      {
-        "product": "Абрикос",
-        "grams": 0
-      }
-    ],
-    "lunch": [
-      {
-        "product": "Морковь ",
-        "grams": 0
-      },
-      {
-        "product": "Говядина с печенью",
-        "grams": 0
-      }
-    ],
-    "evening": [
-      {
-        "product": "Йогурт ",
-        "grams": 0
-      }
-    ],
-    "notes": "Кунжутное "
   },
   {
     "id": "1787982355121-yb4a58z",
