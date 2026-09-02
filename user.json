@@ -36,6 +36,10 @@
       {
         "product": "Картофель",
         "grams": 10
+      },
+      {
+        "product": "Морковь",
+        "grams": 5
       }
     ],
     "evening": [
