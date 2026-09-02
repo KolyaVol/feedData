@@ -1,5 +1,52 @@
 [
   {
+    "id": "1788246961604-qx0vzfy",
+    "date": "2026-09-02",
+    "morning": [
+      {
+        "product": "Пшено ",
+        "grams": 170
+      },
+      {
+        "product": "Абрикос",
+        "grams": 0
+      },
+      {
+        "product": "Слива",
+        "grams": 0
+      }
+    ],
+    "lunch": [
+      {
+        "product": "Кабачок ",
+        "grams": 0
+      },
+      {
+        "product": "Семга",
+        "grams": 0
+      }
+    ],
+    "evening": [
+      {
+        "product": "Кефир ",
+        "grams": 0
+      },
+      {
+        "product": "Голубика",
+        "grams": 0
+      },
+      {
+        "product": "Банан",
+        "grams": 0
+      },
+      {
+        "product": "Помидор",
+        "grams": 0
+      }
+    ],
+    "notes": "Оливковое "
+  },
+  {
     "id": "1788164075625-x4uhvdp",
     "date": "2026-09-01",
     "morning": [
@@ -61,53 +108,6 @@
       }
     ],
     "notes": "Кунжутное "
-  },
-  {
-    "id": "1788246961604-qx0vzfy",
-    "date": "2026-09-02",
-    "morning": [
-      {
-        "product": "Пшено ",
-        "grams": 0
-      },
-      {
-        "product": "Абрикос",
-        "grams": 0
-      },
-      {
-        "product": "Слива",
-        "grams": 0
-      }
-    ],
-    "lunch": [
-      {
-        "product": "Кабачок ",
-        "grams": 0
-      },
-      {
-        "product": "Семга",
-        "grams": 0
-      }
-    ],
-    "evening": [
-      {
-        "product": "Кефир ",
-        "grams": 0
-      },
-      {
-        "product": "Голубика",
-        "grams": 0
-      },
-      {
-        "product": "Банан",
-        "grams": 0
-      },
-      {
-        "product": "Помидор",
-        "grams": 0
-      }
-    ],
-    "notes": "Оливковое "
   },
   {
     "id": "1788074512806-j1x75q4",
