@@ -75,11 +75,15 @@
       {
         "product": "Тыква ",
         "grams": 0
+      },
+      {
+        "product": "Кролик",
+        "grams": 0
       }
     ],
     "evening": [
       {
-        "product": "",
+        "product": "Йогурт ",
         "grams": 0
       }
     ],
