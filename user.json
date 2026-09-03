@@ -1,5 +1,48 @@
 [
   {
+    "id": "1788335669771-w6r6ppx",
+    "date": "2026-09-03",
+    "morning": [
+      {
+        "product": "Овсянка ",
+        "grams": 169
+      },
+      {
+        "product": "Слива",
+        "grams": 0
+      },
+      {
+        "product": "Абрикос",
+        "grams": 0
+      }
+    ],
+    "lunch": [
+      {
+        "product": "Кабачок ",
+        "grams": 0
+      },
+      {
+        "product": "Кролик",
+        "grams": 0
+      }
+    ],
+    "evening": [
+      {
+        "product": "Творог ",
+        "grams": 0
+      },
+      {
+        "product": "Голубика",
+        "grams": 0
+      },
+      {
+        "product": "Грецкие орехи",
+        "grams": 0
+      }
+    ],
+    "notes": "Кунжутное "
+  },
+  {
     "id": "1788246961604-qx0vzfy",
     "date": "2026-09-02",
     "morning": [
@@ -61,49 +104,6 @@
       }
     ],
     "notes": "Оливковое "
-  },
-  {
-    "id": "1788335669771-w6r6ppx",
-    "date": "2026-09-03",
-    "morning": [
-      {
-        "product": "Овсянка ",
-        "grams": 0
-      },
-      {
-        "product": "Слива",
-        "grams": 0
-      },
-      {
-        "product": "Абрикос",
-        "grams": 0
-      }
-    ],
-    "lunch": [
-      {
-        "product": "Кабачок ",
-        "grams": 0
-      },
-      {
-        "product": "Кролик",
-        "grams": 0
-      }
-    ],
-    "evening": [
-      {
-        "product": "Творог ",
-        "grams": 0
-      },
-      {
-        "product": "Голубика",
-        "grams": 0
-      },
-      {
-        "product": "Грецкие орехи",
-        "grams": 0
-      }
-    ],
-    "notes": "Кунжутное "
   },
   {
     "id": "1788164075625-x4uhvdp",
