@@ -61,6 +61,14 @@
       {
         "product": "Рис",
         "grams": 0
+      },
+      {
+        "product": "Слива",
+        "grams": 0
+      },
+      {
+        "product": "Абрикос",
+        "grams": 0
       }
     ],
     "lunch": [
