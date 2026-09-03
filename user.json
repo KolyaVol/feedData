@@ -27,15 +27,15 @@
       },
       {
         "product": "Тыква",
-        "grams": 0
+        "grams": 15
       },
       {
         "product": "Перец",
-        "grams": 0
+        "grams": 5
       },
       {
         "product": "Спаржевая фасоль",
-        "grams": 0
+        "grams": 3
       }
     ],
     "evening": [
@@ -50,6 +50,10 @@
       {
         "product": "Грецкие орехи",
         "grams": 0
+      },
+      {
+        "product": "Кабачок",
+        "grams": 20
       }
     ],
     "notes": "Кунжутное "
