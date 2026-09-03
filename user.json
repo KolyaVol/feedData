@@ -45,23 +45,19 @@
     "evening": [
       {
         "product": "Творог ",
-        "grams": 0
+        "grams": 60
       },
       {
         "product": "Голубика",
-        "grams": 0
+        "grams": 10
       },
       {
         "product": "Грецкие орехи",
-        "grams": 0
+        "grams": 4
       },
       {
         "product": "Кабачок",
         "grams": 20
-      },
-      {
-        "product": "Помидор",
-        "grams": 0
       }
     ],
     "notes": "Кунжутное "
