@@ -36,6 +36,10 @@
       {
         "product": "Спаржевая фасоль",
         "grams": 3
+      },
+      {
+        "product": "Огурец",
+        "grams": 5
       }
     ],
     "evening": [
