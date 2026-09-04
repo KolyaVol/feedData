@@ -57,11 +57,15 @@
       {
         "product": "Слива",
         "grams": 0
+      },
+      {
+        "product": "Голубика",
+        "grams": 0
       }
     ],
     "lunch": [
       {
-        "product": "",
+        "product": "Тыква",
         "grams": 0
       }
     ],
