@@ -23,17 +23,17 @@
     "lunch": [
       {
         "product": "Тыква ",
-        "grams": 0
+        "grams": 92
       },
       {
         "product": "Кролик",
-        "grams": 0
+        "grams": 47
       }
     ],
     "evening": [
       {
         "product": "Йогурт ",
-        "grams": 0
+        "grams": 100
       },
       {
         "product": "Голубика",
