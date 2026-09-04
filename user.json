@@ -33,15 +33,15 @@
     "evening": [
       {
         "product": "Йогурт ",
-        "grams": 100
+        "grams": 2
       },
       {
         "product": "Голубика",
-        "grams": 0
+        "grams": 14
       },
       {
         "product": "Грецкие орехи",
-        "grams": 0
+        "grams": 5
       }
     ],
     "notes": "Оливковое "
