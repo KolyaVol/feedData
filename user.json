@@ -32,6 +32,10 @@
       {
         "product": "Спаржевая фасоль",
         "grams": 7
+      },
+      {
+        "product": "Перец",
+        "grams": 5
       }
     ],
     "evening": [
