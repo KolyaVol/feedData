@@ -1,5 +1,52 @@
 [
   {
+    "id": "1788424596066-g9329ux",
+    "date": "2026-09-04",
+    "morning": [
+      {
+        "product": "Рис",
+        "grams": 306
+      },
+      {
+        "product": "Слива",
+        "grams": 60
+      },
+      {
+        "product": "Абрикос",
+        "grams": 38
+      },
+      {
+        "product": "Яйцо",
+        "grams": 64
+      }
+    ],
+    "lunch": [
+      {
+        "product": "Тыква ",
+        "grams": 0
+      },
+      {
+        "product": "Кролик",
+        "grams": 0
+      }
+    ],
+    "evening": [
+      {
+        "product": "Йогурт ",
+        "grams": 0
+      },
+      {
+        "product": "Голубика",
+        "grams": 0
+      },
+      {
+        "product": "Грецкие орехи",
+        "grams": 0
+      }
+    ],
+    "notes": "Оливковое "
+  },
+  {
     "id": "1788335669771-w6r6ppx",
     "date": "2026-09-03",
     "morning": [
@@ -65,53 +112,6 @@
       }
     ],
     "notes": "Кунжутное "
-  },
-  {
-    "id": "1788424596066-g9329ux",
-    "date": "2026-09-04",
-    "morning": [
-      {
-        "product": "Рис",
-        "grams": 0
-      },
-      {
-        "product": "Слива",
-        "grams": 0
-      },
-      {
-        "product": "Абрикос",
-        "grams": 0
-      },
-      {
-        "product": "Яйцо",
-        "grams": 0
-      }
-    ],
-    "lunch": [
-      {
-        "product": "Тыква ",
-        "grams": 0
-      },
-      {
-        "product": "Кролик",
-        "grams": 0
-      }
-    ],
-    "evening": [
-      {
-        "product": "Йогурт ",
-        "grams": 0
-      },
-      {
-        "product": "Голубика",
-        "grams": 0
-      },
-      {
-        "product": "Грецкие орехи",
-        "grams": 0
-      }
-    ],
-    "notes": "Оливковое "
   },
   {
     "id": "1788246961604-qx0vzfy",
