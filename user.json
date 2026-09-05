@@ -1,5 +1,40 @@
 [
   {
+    "id": "1788506809571-pc0c2ab",
+    "date": "2026-09-05",
+    "morning": [
+      {
+        "product": "Гречка ",
+        "grams": 155
+      },
+      {
+        "product": "Слива",
+        "grams": 55
+      },
+      {
+        "product": "Голубика",
+        "grams": 16
+      }
+    ],
+    "lunch": [
+      {
+        "product": "Тыква",
+        "grams": 0
+      },
+      {
+        "product": "Индейка",
+        "grams": 0
+      }
+    ],
+    "evening": [
+      {
+        "product": "Кефир",
+        "grams": 0
+      }
+    ],
+    "notes": ""
+  },
+  {
     "id": "1788424596066-g9329ux",
     "date": "2026-09-04",
     "morning": [
@@ -41,7 +76,7 @@
     "evening": [
       {
         "product": "Йогурт ",
-        "grams": 2
+        "grams": 200
       },
       {
         "product": "Голубика",
@@ -61,41 +96,6 @@
       }
     ],
     "notes": "Оливковое "
-  },
-  {
-    "id": "1788506809571-pc0c2ab",
-    "date": "2026-09-05",
-    "morning": [
-      {
-        "product": "Гречка ",
-        "grams": 0
-      },
-      {
-        "product": "Слива",
-        "grams": 0
-      },
-      {
-        "product": "Голубика",
-        "grams": 0
-      }
-    ],
-    "lunch": [
-      {
-        "product": "Тыква",
-        "grams": 0
-      },
-      {
-        "product": "Индейка",
-        "grams": 0
-      }
-    ],
-    "evening": [
-      {
-        "product": "Кефир",
-        "grams": 0
-      }
-    ],
-    "notes": ""
   },
   {
     "id": "1788335669771-w6r6ppx",
