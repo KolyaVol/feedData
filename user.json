@@ -28,6 +28,14 @@
       {
         "product": "Перец",
         "grams": 7
+      },
+      {
+        "product": "Кабачок",
+        "grams": 20
+      },
+      {
+        "product": "Морковь",
+        "grams": 5
       }
     ],
     "evening": [
