@@ -49,11 +49,15 @@
       },
       {
         "product": "Ежевика",
-        "grams": 27
+        "grams": 25
       },
       {
         "product": "Тыква",
         "grams": 30
+      },
+      {
+        "product": "Груша",
+        "grams": 20
       }
     ],
     "notes": "Кунжутное "
