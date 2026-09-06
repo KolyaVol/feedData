@@ -19,11 +19,11 @@
     "lunch": [
       {
         "product": "Морковь ",
-        "grams": 0
+        "grams": 95
       },
       {
         "product": "Индейка",
-        "grams": 0
+        "grams": 47
       },
       {
         "product": "Спаржевая фасоль",
@@ -49,6 +49,29 @@
       }
     ],
     "notes": "Оливковое "
+  },
+  {
+    "id": "1788684685030-eaikhsb",
+    "date": "2026-09-07",
+    "morning": [
+      {
+        "product": "",
+        "grams": 0
+      }
+    ],
+    "lunch": [
+      {
+        "product": "",
+        "grams": 0
+      }
+    ],
+    "evening": [
+      {
+        "product": "",
+        "grams": 0
+      }
+    ],
+    "notes": ""
   },
   {
     "id": "1788506809571-pc0c2ab",
