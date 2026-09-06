@@ -32,6 +32,10 @@
       {
         "product": "Кабачок",
         "grams": 25
+      },
+      {
+        "product": "Сыр",
+        "grams": 20
       }
     ],
     "evening": [
