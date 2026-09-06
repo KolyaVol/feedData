@@ -96,11 +96,11 @@
     "evening": [
       {
         "product": "Йогурт ",
-        "grams": 0
+        "grams": 100
       },
       {
         "product": "Манго",
-        "grams": 0
+        "grams": 57
       }
     ],
     "notes": "Кунжутное "
