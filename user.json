@@ -32,6 +32,10 @@
       {
         "product": "Сыр",
         "grams": 20
+      },
+      {
+        "product": "Спаржевая фасоль",
+        "grams": 7
       }
     ],
     "evening": [
