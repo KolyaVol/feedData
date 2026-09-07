@@ -1,5 +1,48 @@
 [
   {
+    "id": "1788684685030-eaikhsb",
+    "date": "2026-09-07",
+    "morning": [
+      {
+        "product": "Мультизлаковая каша ",
+        "grams": 0
+      },
+      {
+        "product": "Слива",
+        "grams": 0
+      },
+      {
+        "product": "Голубика",
+        "grams": 20
+      },
+      {
+        "product": "Яйцо",
+        "grams": 54
+      }
+    ],
+    "lunch": [
+      {
+        "product": "Морковь ",
+        "grams": 95
+      },
+      {
+        "product": "Семга",
+        "grams": 47
+      }
+    ],
+    "evening": [
+      {
+        "product": "Йогурт ",
+        "grams": 100
+      },
+      {
+        "product": "Манго",
+        "grams": 57
+      }
+    ],
+    "notes": "Кунжутное "
+  },
+  {
     "id": "1788594179038-ssq0wp3",
     "date": "2026-09-06",
     "morning": [
@@ -62,48 +105,13 @@
       {
         "product": "Малина",
         "grams": 10
+      },
+      {
+        "product": "Сыр",
+        "grams": 8
       }
     ],
     "notes": "Оливковое "
-  },
-  {
-    "id": "1788684685030-eaikhsb",
-    "date": "2026-09-07",
-    "morning": [
-      {
-        "product": "Мультизлаковая каша ",
-        "grams": 0
-      },
-      {
-        "product": "Слива",
-        "grams": 0
-      },
-      {
-        "product": "Голубика",
-        "grams": 0
-      }
-    ],
-    "lunch": [
-      {
-        "product": "Морковь ",
-        "grams": 95
-      },
-      {
-        "product": "Семга",
-        "grams": 47
-      }
-    ],
-    "evening": [
-      {
-        "product": "Йогурт ",
-        "grams": 100
-      },
-      {
-        "product": "Манго",
-        "grams": 57
-      }
-    ],
-    "notes": "Кунжутное "
   },
   {
     "id": "1788506809571-pc0c2ab",
