@@ -51,7 +51,11 @@
     "date": "2026-09-10",
     "morning": [
       {
-        "product": "",
+        "product": "Рис ",
+        "grams": 0
+      },
+      {
+        "product": "Слива",
         "grams": 0
       }
     ],
