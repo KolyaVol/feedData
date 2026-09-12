@@ -28,6 +28,10 @@
       {
         "product": "Индейка",
         "grams": 7
+      },
+      {
+        "product": "Желток",
+        "grams": 0
       }
     ],
     "evening": [
