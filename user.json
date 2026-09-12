@@ -1,5 +1,178 @@
 [
   {
+    "id": "1789106568210-5iq75vy",
+    "date": "2026-09-12",
+    "morning": [
+      {
+        "product": "Кукуруза ",
+        "grams": 155
+      },
+      {
+        "product": "Слива",
+        "grams": 0
+      },
+      {
+        "product": "Голубика",
+        "grams": 0
+      }
+    ],
+    "lunch": [
+      {
+        "product": "Морковь ",
+        "grams": 0
+      },
+      {
+        "product": "Говядина",
+        "grams": 43
+      },
+      {
+        "product": "Индейка",
+        "grams": 7
+      }
+    ],
+    "evening": [
+      {
+        "product": "Творог ",
+        "grams": 0
+      },
+      {
+        "product": "Манго",
+        "grams": 0
+      }
+    ],
+    "notes": "Оливковое "
+  },
+  {
+    "id": "1789028055411-b6gi7lw",
+    "date": "2026-09-11",
+    "morning": [
+      {
+        "product": "Гречка ",
+        "grams": 166
+      },
+      {
+        "product": "Слива",
+        "grams": 32
+      },
+      {
+        "product": "Голубика",
+        "grams": 13
+      }
+    ],
+    "lunch": [
+      {
+        "product": "Тыква ",
+        "grams": 82
+      },
+      {
+        "product": "Свинина",
+        "grams": 47
+      },
+      {
+        "product": "Брокколи",
+        "grams": 10
+      },
+      {
+        "product": "Кабачок",
+        "grams": 40
+      },
+      {
+        "product": "Спаржевая фасоль",
+        "grams": 5
+      }
+    ],
+    "evening": [
+      {
+        "product": "Кефир ",
+        "grams": 175
+      },
+      {
+        "product": "Тыква",
+        "grams": 30
+      },
+      {
+        "product": "Груша",
+        "grams": 35
+      },
+      {
+        "product": "Яблоко",
+        "grams": 25
+      },
+      {
+        "product": "Ежевика",
+        "grams": 25
+      }
+    ],
+    "notes": "Кунжутное "
+  },
+  {
+    "id": "1788941210599-z78og1p",
+    "date": "2026-09-10",
+    "morning": [
+      {
+        "product": "Рис ",
+        "grams": 149
+      },
+      {
+        "product": "Слива",
+        "grams": 30
+      },
+      {
+        "product": "Голубика",
+        "grams": 11
+      },
+      {
+        "product": "Банан",
+        "grams": 33
+      }
+    ],
+    "lunch": [
+      {
+        "product": "Тыква ",
+        "grams": 82
+      },
+      {
+        "product": "Свинина",
+        "grams": 47
+      },
+      {
+        "product": "Брокколи",
+        "grams": 10
+      },
+      {
+        "product": "Кабачок",
+        "grams": 30
+      },
+      {
+        "product": "Спаржевая фасоль",
+        "grams": 7
+      }
+    ],
+    "evening": [
+      {
+        "product": "Йогурт ",
+        "grams": 100
+      },
+      {
+        "product": "Грецкие орехи",
+        "grams": 5
+      },
+      {
+        "product": "Яйцо",
+        "grams": 45
+      },
+      {
+        "product": "Тыква",
+        "grams": 30
+      },
+      {
+        "product": "Груша",
+        "grams": 44
+      }
+    ],
+    "notes": "Оливковое "
+  },
+  {
     "id": "1788850944780-gc44xtd",
     "date": "2026-09-09",
     "morning": [
@@ -41,61 +214,30 @@
     "evening": [
       {
         "product": "Творог ",
-        "grams": 0
+        "grams": 60
       },
       {
         "product": "Банан",
-        "grams": 0
+        "grams": 70
       },
       {
         "product": "Ежевика",
-        "grams": 0
+        "grams": 25
       },
       {
         "product": "Грецкие орехи",
-        "grams": 0
+        "grams": 6
       },
       {
         "product": "Кабачок",
         "grams": 40
+      },
+      {
+        "product": "Яблоко",
+        "grams": 10
       }
     ],
     "notes": "Кунжутное "
-  },
-  {
-    "id": "1788941210599-z78og1p",
-    "date": "2026-09-10",
-    "morning": [
-      {
-        "product": "Рис ",
-        "grams": 0
-      },
-      {
-        "product": "Слива",
-        "grams": 0
-      },
-      {
-        "product": "Голубика",
-        "grams": 0
-      }
-    ],
-    "lunch": [
-      {
-        "product": "Тыква ",
-        "grams": 0
-      },
-      {
-        "product": "Свинина",
-        "grams": 0
-      }
-    ],
-    "evening": [
-      {
-        "product": "Йогурт ",
-        "grams": 0
-      }
-    ],
-    "notes": "Оливковое "
   },
   {
     "id": "1788769129276-32is7vt",
