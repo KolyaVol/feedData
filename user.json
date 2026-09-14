@@ -1,5 +1,174 @@
 [
   {
+    "id": "1789285153695-tw97kjt",
+    "date": "2026-09-14",
+    "morning": [
+      {
+        "product": "Пшено ",
+        "grams": 170
+      },
+      {
+        "product": "Слива",
+        "grams": 37
+      },
+      {
+        "product": "Голубика",
+        "grams": 12
+      },
+      {
+        "product": "Молоко",
+        "grams": 1
+      }
+    ],
+    "lunch": [
+      {
+        "product": "Кабачок ",
+        "grams": 82
+      },
+      {
+        "product": "Кролик",
+        "grams": 47
+      },
+      {
+        "product": "Морковь",
+        "grams": 5
+      },
+      {
+        "product": "Брокколи",
+        "grams": 35
+      },
+      {
+        "product": "Спаржевая фасоль",
+        "grams": 7
+      }
+    ],
+    "evening": [
+      {
+        "product": "Кефир ",
+        "grams": 152
+      },
+      {
+        "product": "Нектарин ",
+        "grams": 50
+      },
+      {
+        "product": "Кабачок",
+        "grams": 40
+      }
+    ],
+    "notes": "Оливковое "
+  },
+  {
+    "id": "1789364341990-u8huo0a",
+    "date": "2026-09-15",
+    "morning": [
+      {
+        "product": "Овсянка ",
+        "grams": 0
+      },
+      {
+        "product": "Нектарин ",
+        "grams": 0
+      },
+      {
+        "product": "Голубика",
+        "grams": 0
+      },
+      {
+        "product": "Молоко",
+        "grams": 0
+      },
+      {
+        "product": "Яйцо",
+        "grams": 0
+      }
+    ],
+    "lunch": [
+      {
+        "product": "Кабачок ",
+        "grams": 0
+      },
+      {
+        "product": "Кролик",
+        "grams": 0
+      }
+    ],
+    "evening": [
+      {
+        "product": "Творог ",
+        "grams": 0
+      },
+      {
+        "product": "Банан",
+        "grams": 0
+      }
+    ],
+    "notes": "Кунжутное "
+  },
+  {
+    "id": "1789200505066-ujpvudg",
+    "date": "2026-09-13",
+    "morning": [
+      {
+        "product": "Мультизлаковая каша ",
+        "grams": 176
+      },
+      {
+        "product": "Слива",
+        "grams": 30
+      },
+      {
+        "product": "Голубика",
+        "grams": 15
+      }
+    ],
+    "lunch": [
+      {
+        "product": "Морковь ",
+        "grams": 72
+      },
+      {
+        "product": "Форель",
+        "grams": 47
+      },
+      {
+        "product": "Брокколи",
+        "grams": 35
+      },
+      {
+        "product": "Кабачок",
+        "grams": 30
+      },
+      {
+        "product": "Спаржевая фасоль",
+        "grams": 7
+      }
+    ],
+    "evening": [
+      {
+        "product": "Йогурт ",
+        "grams": 100
+      },
+      {
+        "product": "Грецкие орехи",
+        "grams": 6
+      },
+      {
+        "product": "Морковь",
+        "grams": 30
+      },
+      {
+        "product": "Ежевика",
+        "grams": 25
+      },
+      {
+        "product": "Белок",
+        "grams": 34
+      }
+    ],
+    "notes": "Кунжутное "
+  },
+  {
     "id": "1789106568210-5iq75vy",
     "date": "2026-09-12",
     "morning": [
@@ -19,7 +188,7 @@
     "lunch": [
       {
         "product": "Морковь ",
-        "grams": 0
+        "grams": 95
       },
       {
         "product": "Говядина",
@@ -31,17 +200,45 @@
       },
       {
         "product": "Желток",
-        "grams": 0
+        "grams": 15
+      },
+      {
+        "product": "Кукуруза",
+        "grams": 5
+      },
+      {
+        "product": "Огурец",
+        "grams": 7
+      },
+      {
+        "product": "Помидор",
+        "grams": 40
       }
     ],
     "evening": [
       {
         "product": "Творог ",
-        "grams": 0
+        "grams": 60
       },
       {
-        "product": "Манго",
-        "grams": 0
+        "product": "Груша ",
+        "grams": 20
+      },
+      {
+        "product": "Грецкие орехи",
+        "grams": 5
+      },
+      {
+        "product": "Яблоко",
+        "grams": 17
+      },
+      {
+        "product": "Арбуз",
+        "grams": 45
+      },
+      {
+        "product": "Голубика",
+        "grams": 10
       }
     ],
     "notes": "Оливковое "
