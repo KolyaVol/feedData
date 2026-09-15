@@ -1,5 +1,48 @@
 [
   {
+    "id": "1789364341990-u8huo0a",
+    "date": "2026-09-15",
+    "morning": [
+      {
+        "product": "Овсянка ",
+        "grams": 157
+      },
+      {
+        "product": "Нектарин ",
+        "grams": 30
+      },
+      {
+        "product": "Молоко",
+        "grams": 1
+      },
+      {
+        "product": "Яйцо",
+        "grams": 51
+      }
+    ],
+    "lunch": [
+      {
+        "product": "Кабачок ",
+        "grams": 0
+      },
+      {
+        "product": "Кролик",
+        "grams": 0
+      }
+    ],
+    "evening": [
+      {
+        "product": "Творог ",
+        "grams": 0
+      },
+      {
+        "product": "Банан",
+        "grams": 0
+      }
+    ],
+    "notes": "Кунжутное "
+  },
+  {
     "id": "1789285153695-tw97kjt",
     "date": "2026-09-14",
     "morning": [
@@ -57,53 +100,6 @@
       }
     ],
     "notes": "Оливковое "
-  },
-  {
-    "id": "1789364341990-u8huo0a",
-    "date": "2026-09-15",
-    "morning": [
-      {
-        "product": "Овсянка ",
-        "grams": 0
-      },
-      {
-        "product": "Нектарин ",
-        "grams": 0
-      },
-      {
-        "product": "Голубика",
-        "grams": 0
-      },
-      {
-        "product": "Молоко",
-        "grams": 0
-      },
-      {
-        "product": "Яйцо",
-        "grams": 0
-      }
-    ],
-    "lunch": [
-      {
-        "product": "Кабачок ",
-        "grams": 0
-      },
-      {
-        "product": "Кролик",
-        "grams": 0
-      }
-    ],
-    "evening": [
-      {
-        "product": "Творог ",
-        "grams": 0
-      },
-      {
-        "product": "Банан",
-        "grams": 0
-      }
-    ],
-    "notes": "Кунжутное "
   },
   {
     "id": "1789200505066-ujpvudg",
