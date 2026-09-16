@@ -1,54 +1,11 @@
 [
   {
-    "id": "1789364341990-u8huo0a",
-    "date": "2026-09-15",
-    "morning": [
-      {
-        "product": "Овсянка ",
-        "grams": 157
-      },
-      {
-        "product": "Нектарин ",
-        "grams": 30
-      },
-      {
-        "product": "Молоко",
-        "grams": 1
-      },
-      {
-        "product": "Яйцо",
-        "grams": 51
-      }
-    ],
-    "lunch": [
-      {
-        "product": "Кабачок ",
-        "grams": 0
-      },
-      {
-        "product": "Кролик",
-        "grams": 0
-      }
-    ],
-    "evening": [
-      {
-        "product": "Творог ",
-        "grams": 0
-      },
-      {
-        "product": "Банан",
-        "grams": 0
-      }
-    ],
-    "notes": "Кунжутное "
-  },
-  {
     "id": "1789459436801-5rl0h7g",
     "date": "2026-09-16",
     "morning": [
       {
         "product": "Рис",
-        "grams": 0
+        "grams": 166
       },
       {
         "product": "Слива",
@@ -76,6 +33,69 @@
       }
     ],
     "notes": ""
+  },
+  {
+    "id": "1789364341990-u8huo0a",
+    "date": "2026-09-15",
+    "morning": [
+      {
+        "product": "Овсянка ",
+        "grams": 157
+      },
+      {
+        "product": "Нектарин ",
+        "grams": 30
+      },
+      {
+        "product": "Молоко",
+        "grams": 1
+      },
+      {
+        "product": "Яйцо",
+        "grams": 51
+      }
+    ],
+    "lunch": [
+      {
+        "product": "Кабачок ",
+        "grams": 62
+      },
+      {
+        "product": "Кролик",
+        "grams": 47
+      },
+      {
+        "product": "Брокколи",
+        "grams": 30
+      },
+      {
+        "product": "Морковь",
+        "grams": 3
+      },
+      {
+        "product": "Спаржевая фасоль",
+        "grams": 7
+      }
+    ],
+    "evening": [
+      {
+        "product": "Творог ",
+        "grams": 60
+      },
+      {
+        "product": "Банан",
+        "grams": 70
+      },
+      {
+        "product": "Грецкие орехи",
+        "grams": 5
+      },
+      {
+        "product": "Кабачок",
+        "grams": 40
+      }
+    ],
+    "notes": "Кунжутное "
   },
   {
     "id": "1789285153695-tw97kjt",
