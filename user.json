@@ -14,6 +14,10 @@
       {
         "product": "Нектарин",
         "grams": 27
+      },
+      {
+        "product": "Молоко",
+        "grams": 1
       }
     ],
     "lunch": [
