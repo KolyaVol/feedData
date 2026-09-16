@@ -28,6 +28,10 @@
       {
         "product": "Индейка",
         "grams": 47
+      },
+      {
+        "product": "Картофель",
+        "grams": 0
       }
     ],
     "evening": [
