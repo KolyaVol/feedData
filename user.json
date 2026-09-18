@@ -1,5 +1,134 @@
 [
   {
+    "id": "1789629477224-nrgwgtg",
+    "date": "2026-09-18",
+    "morning": [
+      {
+        "product": "Кукуруза ",
+        "grams": 160
+      },
+      {
+        "product": "Нектарин ",
+        "grams": 30
+      },
+      {
+        "product": "Яйцо",
+        "grams": 40
+      }
+    ],
+    "lunch": [
+      {
+        "product": "Морковь ",
+        "grams": 95
+      },
+      {
+        "product": "Форель",
+        "grams": 47
+      },
+      {
+        "product": "Брокколи",
+        "grams": 0
+      },
+      {
+        "product": "Белок",
+        "grams": 20
+      }
+    ],
+    "evening": [
+      {
+        "product": "Творог ",
+        "grams": 0
+      },
+      {
+        "product": "Банан",
+        "grams": 0
+      }
+    ],
+    "notes": "Оливковое "
+  },
+  {
+    "id": "1789718397756-jd65ja6",
+    "date": "2026-09-19",
+    "morning": [
+      {
+        "product": "",
+        "grams": 0
+      }
+    ],
+    "lunch": [
+      {
+        "product": "",
+        "grams": 0
+      }
+    ],
+    "evening": [
+      {
+        "product": "",
+        "grams": 0
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "1789543435846-sf6gu56",
+    "date": "2026-09-17",
+    "morning": [
+      {
+        "product": "Гречка ",
+        "grams": 166
+      },
+      {
+        "product": "Слива",
+        "grams": 40
+      },
+      {
+        "product": "Голубика",
+        "grams": 5
+      },
+      {
+        "product": "Молоко",
+        "grams": 1
+      }
+    ],
+    "lunch": [
+      {
+        "product": "Тыква ",
+        "grams": 92
+      },
+      {
+        "product": "Индейка",
+        "grams": 47
+      },
+      {
+        "product": "Картофель",
+        "grams": 5
+      },
+      {
+        "product": "Брокколи",
+        "grams": 3
+      },
+      {
+        "product": "Помидор",
+        "grams": 3
+      }
+    ],
+    "evening": [
+      {
+        "product": "Кефир ",
+        "grams": 134
+      },
+      {
+        "product": "Нектарин",
+        "grams": 32
+      },
+      {
+        "product": "Ежевика",
+        "grams": 18
+      }
+    ],
+    "notes": "Кунжутное "
+  },
+  {
     "id": "1789459436801-5rl0h7g",
     "date": "2026-09-16",
     "morning": [
@@ -58,44 +187,13 @@
       {
         "product": "Груша",
         "grams": 15
+      },
+      {
+        "product": "Сыр",
+        "grams": 2
       }
     ],
     "notes": "Оливковое "
-  },
-  {
-    "id": "1789543435846-sf6gu56",
-    "date": "2026-09-17",
-    "morning": [
-      {
-        "product": "Гречка ",
-        "grams": 0
-      },
-      {
-        "product": "Слива",
-        "grams": 0
-      },
-      {
-        "product": "Голубика",
-        "grams": 0
-      }
-    ],
-    "lunch": [
-      {
-        "product": "Тыква ",
-        "grams": 0
-      },
-      {
-        "product": "Индейка",
-        "grams": 0
-      }
-    ],
-    "evening": [
-      {
-        "product": "Кефир ",
-        "grams": 0
-      }
-    ],
-    "notes": "Кунжутное "
   },
   {
     "id": "1789364341990-u8huo0a",
