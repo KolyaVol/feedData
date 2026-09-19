@@ -23,7 +23,7 @@
     "lunch": [
       {
         "product": "Морковь ",
-        "grams": 95
+        "grams": 98
       },
       {
         "product": "Цыплёнок",
@@ -41,15 +41,15 @@
     "evening": [
       {
         "product": "Йогурт ",
-        "grams": 0
+        "grams": 100
       },
       {
         "product": "Ежевика",
-        "grams": 0
+        "grams": 40
       },
       {
         "product": "Грецкие орехи",
-        "grams": 0
+        "grams": 6
       }
     ],
     "notes": "Кунжутное "
