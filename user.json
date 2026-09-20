@@ -1,5 +1,40 @@
 [
   {
+    "id": "1789807655421-6s37dp0",
+    "date": "2026-09-20",
+    "morning": [
+      {
+        "product": "Пшено ",
+        "grams": 155
+      },
+      {
+        "product": "Слива",
+        "grams": 2
+      },
+      {
+        "product": "Яйцо",
+        "grams": 26
+      }
+    ],
+    "lunch": [
+      {
+        "product": "Свинина ",
+        "grams": 0
+      },
+      {
+        "product": "Кабачок",
+        "grams": 0
+      }
+    ],
+    "evening": [
+      {
+        "product": "Кефир ",
+        "grams": 0
+      }
+    ],
+    "notes": "Оливковое "
+  },
+  {
     "id": "1789718397756-jd65ja6",
     "date": "2026-09-19",
     "morning": [
@@ -57,41 +92,6 @@
       }
     ],
     "notes": "Кунжутное "
-  },
-  {
-    "id": "1789807655421-6s37dp0",
-    "date": "2026-09-20",
-    "morning": [
-      {
-        "product": "Пшено ",
-        "grams": 0
-      },
-      {
-        "product": "Слива",
-        "grams": 0
-      },
-      {
-        "product": "Яйцо",
-        "grams": 0
-      }
-    ],
-    "lunch": [
-      {
-        "product": "Свинина ",
-        "grams": 0
-      },
-      {
-        "product": "Кабачок",
-        "grams": 0
-      }
-    ],
-    "evening": [
-      {
-        "product": "Кефир ",
-        "grams": 0
-      }
-    ],
-    "notes": "Оливковое "
   },
   {
     "id": "1789629477224-nrgwgtg",
