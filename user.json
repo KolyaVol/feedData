@@ -32,6 +32,10 @@
       {
         "product": "Белок",
         "grams": 5
+      },
+      {
+        "product": "Малина",
+        "grams": 3
       }
     ],
     "evening": [
