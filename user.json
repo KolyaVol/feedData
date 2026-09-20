@@ -14,6 +14,10 @@
       {
         "product": "Яйцо",
         "grams": 26
+      },
+      {
+        "product": "Молоко",
+        "grams": 1
       }
     ],
     "lunch": [
@@ -28,11 +32,38 @@
     ],
     "evening": [
       {
-        "product": "Кефир ",
+        "product": "Биолакт ",
         "grams": 0
       }
     ],
     "notes": "Оливковое "
+  },
+  {
+    "id": "1789887156740-yk6bbvm",
+    "date": "2026-09-21",
+    "morning": [
+      {
+        "product": "Овсянка ",
+        "grams": 0
+      }
+    ],
+    "lunch": [
+      {
+        "product": "Кабачок ",
+        "grams": 0
+      },
+      {
+        "product": "Свинина",
+        "grams": 0
+      }
+    ],
+    "evening": [
+      {
+        "product": "Творог ",
+        "grams": 0
+      }
+    ],
+    "notes": "Кунжутное "
   },
   {
     "id": "1789718397756-jd65ja6",
