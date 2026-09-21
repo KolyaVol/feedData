@@ -19,25 +19,37 @@
     "lunch": [
       {
         "product": "Кабачок ",
-        "grams": 0
+        "grams": 86
       },
       {
         "product": "Свинина",
-        "grams": 0
+        "grams": 47
       },
       {
         "product": "Морковь",
-        "grams": 0
+        "grams": 4
       },
       {
         "product": "Брокколи",
-        "grams": 0
+        "grams": 18
       }
     ],
     "evening": [
       {
         "product": "Творог ",
-        "grams": 0
+        "grams": 60
+      },
+      {
+        "product": "Кабачок",
+        "grams": 50
+      },
+      {
+        "product": "Грецкие орехи",
+        "grams": 5
+      },
+      {
+        "product": "Груша",
+        "grams": 20
       }
     ],
     "notes": "Кунжутное "
@@ -48,6 +60,10 @@
     "morning": [
       {
         "product": "Рис",
+        "grams": 0
+      },
+      {
+        "product": "Яйцо",
         "grams": 0
       }
     ],
