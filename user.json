@@ -23,19 +23,19 @@
     "lunch": [
       {
         "product": "Тыква ",
-        "grams": 0
+        "grams": 92
       },
       {
         "product": "Говядина с печенью",
-        "grams": 0
+        "grams": 50
       },
       {
         "product": "Кабачок",
-        "grams": 0
+        "grams": 18
       },
       {
         "product": "Брокколи",
-        "grams": 0
+        "grams": 25
       }
     ],
     "evening": [
