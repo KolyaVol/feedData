@@ -1,5 +1,44 @@
 [
   {
+    "id": "1789972468803-b3m1r5j",
+    "date": "2026-09-22",
+    "morning": [
+      {
+        "product": "Рис",
+        "grams": 157
+      },
+      {
+        "product": "Яйцо",
+        "grams": 0
+      },
+      {
+        "product": "Яблоко",
+        "grams": 0
+      },
+      {
+        "product": "Творог",
+        "grams": 0
+      }
+    ],
+    "lunch": [
+      {
+        "product": "Тыква ",
+        "grams": 0
+      },
+      {
+        "product": "Говядина с печенью",
+        "grams": 0
+      }
+    ],
+    "evening": [
+      {
+        "product": "Йогурт ",
+        "grams": 0
+      }
+    ],
+    "notes": "Оливковое "
+  },
+  {
     "id": "1789887156740-yk6bbvm",
     "date": "2026-09-21",
     "morning": [
@@ -53,45 +92,6 @@
       }
     ],
     "notes": "Кунжутное "
-  },
-  {
-    "id": "1789972468803-b3m1r5j",
-    "date": "2026-09-22",
-    "morning": [
-      {
-        "product": "Рис",
-        "grams": 0
-      },
-      {
-        "product": "Яйцо",
-        "grams": 0
-      },
-      {
-        "product": "Яблоко",
-        "grams": 0
-      },
-      {
-        "product": "Творог",
-        "grams": 0
-      }
-    ],
-    "lunch": [
-      {
-        "product": "Тыква ",
-        "grams": 0
-      },
-      {
-        "product": "Говядина с печенью",
-        "grams": 0
-      }
-    ],
-    "evening": [
-      {
-        "product": "Йогурт ",
-        "grams": 0
-      }
-    ],
-    "notes": "Оливковое "
   },
   {
     "id": "1789807655421-6s37dp0",
