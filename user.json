@@ -24,6 +24,10 @@
       {
         "product": "Форель",
         "grams": 0
+      },
+      {
+        "product": "Белок",
+        "grams": 14
       }
     ],
     "evening": [
