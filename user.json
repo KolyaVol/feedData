@@ -1,5 +1,95 @@
 [
   {
+    "id": "1790141080231-714cpje",
+    "date": "2026-09-24",
+    "morning": [
+      {
+        "product": "Кукуруза ",
+        "grams": 152
+      },
+      {
+        "product": "Яйцо ",
+        "grams": 36
+      },
+      {
+        "product": "Яблоко",
+        "grams": 32
+      }
+    ],
+    "lunch": [
+      {
+        "product": "Морковь ",
+        "grams": 0
+      },
+      {
+        "product": "Форель",
+        "grams": 0
+      }
+    ],
+    "evening": [
+      {
+        "product": "Творог ",
+        "grams": 0
+      },
+      {
+        "product": "Грецкие орехи",
+        "grams": 0
+      }
+    ],
+    "notes": "Оливковое "
+  },
+  {
+    "id": "1790063864877-v7rta44",
+    "date": "2026-09-23",
+    "morning": [
+      {
+        "product": "Гречка ",
+        "grams": 161
+      },
+      {
+        "product": "Груша",
+        "grams": 31
+      },
+      {
+        "product": "Малина",
+        "grams": 9
+      }
+    ],
+    "lunch": [
+      {
+        "product": "Тыква ",
+        "grams": 92
+      },
+      {
+        "product": "Говядина с печенью",
+        "grams": 50
+      },
+      {
+        "product": "Помидор",
+        "grams": 15
+      },
+      {
+        "product": "Картофель",
+        "grams": 14
+      },
+      {
+        "product": "Перец",
+        "grams": 5
+      }
+    ],
+    "evening": [
+      {
+        "product": "Кефир ",
+        "grams": 200
+      },
+      {
+        "product": "Яблоко",
+        "grams": 66
+      }
+    ],
+    "notes": "Кунжутное "
+  },
+  {
     "id": "1789972468803-b3m1r5j",
     "date": "2026-09-22",
     "morning": [
@@ -65,41 +155,6 @@
       }
     ],
     "notes": "Оливковое "
-  },
-  {
-    "id": "1790063864877-v7rta44",
-    "date": "2026-09-23",
-    "morning": [
-      {
-        "product": "Гречка ",
-        "grams": 0
-      },
-      {
-        "product": "Груша",
-        "grams": 0
-      },
-      {
-        "product": "Малина",
-        "grams": 0
-      }
-    ],
-    "lunch": [
-      {
-        "product": "Тыква ",
-        "grams": 0
-      },
-      {
-        "product": "Говядина с печенью",
-        "grams": 0
-      }
-    ],
-    "evening": [
-      {
-        "product": "Кефир ",
-        "grams": 0
-      }
-    ],
-    "notes": ""
   },
   {
     "id": "1789887156740-yk6bbvm",
