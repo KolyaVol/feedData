@@ -19,7 +19,7 @@
     "lunch": [
       {
         "product": "Кролик ",
-        "grams": 0
+        "grams": 47
       },
       {
         "product": "Кабачок",
@@ -27,6 +27,10 @@
       },
       {
         "product": "Брокколи",
+        "grams": 0
+      },
+      {
+        "product": "Морковь",
         "grams": 0
       }
     ],
@@ -37,6 +41,29 @@
       }
     ],
     "notes": "Оливковое "
+  },
+  {
+    "id": "1790412961292-9c9ew60",
+    "date": "2026-09-27",
+    "morning": [
+      {
+        "product": "",
+        "grams": 0
+      }
+    ],
+    "lunch": [
+      {
+        "product": "",
+        "grams": 0
+      }
+    ],
+    "evening": [
+      {
+        "product": "",
+        "grams": 0
+      }
+    ],
+    "notes": ""
   },
   {
     "id": "1790237312186-x0l9bg2",
