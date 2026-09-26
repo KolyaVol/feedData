@@ -1,5 +1,44 @@
 [
   {
+    "id": "1790324530466-tgapf63",
+    "date": "2026-09-26",
+    "morning": [
+      {
+        "product": "Пшено ",
+        "grams": 175
+      },
+      {
+        "product": "Малина",
+        "grams": 15
+      },
+      {
+        "product": "Груша",
+        "grams": 40
+      }
+    ],
+    "lunch": [
+      {
+        "product": "Кролик ",
+        "grams": 0
+      },
+      {
+        "product": "Кабачок",
+        "grams": 0
+      },
+      {
+        "product": "Брокколи",
+        "grams": 0
+      }
+    ],
+    "evening": [
+      {
+        "product": "Кефир ",
+        "grams": 0
+      }
+    ],
+    "notes": "Оливковое "
+  },
+  {
     "id": "1790237312186-x0l9bg2",
     "date": "2026-09-25",
     "morning": [
@@ -61,37 +100,6 @@
       }
     ],
     "notes": "Кунжутное "
-  },
-  {
-    "id": "1790324530466-tgapf63",
-    "date": "2026-09-26",
-    "morning": [
-      {
-        "product": "Пшено ",
-        "grams": 0
-      },
-      {
-        "product": "Малина",
-        "grams": 0
-      }
-    ],
-    "lunch": [
-      {
-        "product": "Кролик ",
-        "grams": 0
-      },
-      {
-        "product": "Кабачок",
-        "grams": 0
-      }
-    ],
-    "evening": [
-      {
-        "product": "Кефир ",
-        "grams": 0
-      }
-    ],
-    "notes": "Оливковое "
   },
   {
     "id": "1790141080231-714cpje",
