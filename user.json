@@ -24,6 +24,10 @@
       {
         "product": "Индейка",
         "grams": 47
+      },
+      {
+        "product": "Яйцо",
+        "grams": 0
       }
     ],
     "evening": [
