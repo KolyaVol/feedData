@@ -71,11 +71,15 @@
       {
         "product": "Цветная капуста",
         "grams": 0
+      },
+      {
+        "product": "Морковь",
+        "grams": 0
       }
     ],
     "evening": [
       {
-        "product": "",
+        "product": "Кефир ",
         "grams": 0
       }
     ],
