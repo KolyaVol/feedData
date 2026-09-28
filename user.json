@@ -1,5 +1,52 @@
 [
   {
+    "id": "1790500340634-tyw84wo",
+    "date": "2026-09-28",
+    "morning": [
+      {
+        "product": "Рис",
+        "grams": 155
+      },
+      {
+        "product": "Груша",
+        "grams": 10
+      },
+      {
+        "product": "Творожное суфле",
+        "grams": 55
+      }
+    ],
+    "lunch": [
+      {
+        "product": "Тыква ",
+        "grams": 0
+      },
+      {
+        "product": "Семга",
+        "grams": 0
+      },
+      {
+        "product": "Цветная капуста",
+        "grams": 0
+      },
+      {
+        "product": "Морковь",
+        "grams": 0
+      }
+    ],
+    "evening": [
+      {
+        "product": "Йогурт ",
+        "grams": 0
+      },
+      {
+        "product": "Банан",
+        "grams": 0
+      }
+    ],
+    "notes": "Оливковое "
+  },
+  {
     "id": "1790412961292-9c9ew60",
     "date": "2026-09-27",
     "morning": [
@@ -53,41 +100,6 @@
       }
     ],
     "notes": "Кунжутное "
-  },
-  {
-    "id": "1790500340634-tyw84wo",
-    "date": "2026-09-28",
-    "morning": [
-      {
-        "product": "Рис",
-        "grams": 0
-      },
-      {
-        "product": "Груша",
-        "grams": 0
-      }
-    ],
-    "lunch": [
-      {
-        "product": "Тыква ",
-        "grams": 0
-      },
-      {
-        "product": "Семга",
-        "grams": 0
-      }
-    ],
-    "evening": [
-      {
-        "product": "Йогурт ",
-        "grams": 0
-      },
-      {
-        "product": "Банан",
-        "grams": 0
-      }
-    ],
-    "notes": "Оливковое "
   },
   {
     "id": "1790324530466-tgapf63",
