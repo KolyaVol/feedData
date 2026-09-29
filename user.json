@@ -1,5 +1,48 @@
 [
   {
+    "id": "1790584046049-kcrb9zj",
+    "date": "2026-09-29",
+    "morning": [
+      {
+        "product": "Гречка ",
+        "grams": 167
+      },
+      {
+        "product": "Яблоко",
+        "grams": 47
+      }
+    ],
+    "lunch": [
+      {
+        "product": "Тыква ",
+        "grams": 0
+      },
+      {
+        "product": "Семга",
+        "grams": 0
+      },
+      {
+        "product": "Цветная капуста",
+        "grams": 0
+      },
+      {
+        "product": "Морковь",
+        "grams": 0
+      }
+    ],
+    "evening": [
+      {
+        "product": "Кефир ",
+        "grams": 0
+      },
+      {
+        "product": "Банан",
+        "grams": 0
+      }
+    ],
+    "notes": "Кунжутное "
+  },
+  {
     "id": "1790500340634-tyw84wo",
     "date": "2026-09-28",
     "morning": [
@@ -57,49 +100,6 @@
       }
     ],
     "notes": "Оливковое "
-  },
-  {
-    "id": "1790584046049-kcrb9zj",
-    "date": "2026-09-29",
-    "morning": [
-      {
-        "product": "Гречка ",
-        "grams": 0
-      },
-      {
-        "product": "Яблоко",
-        "grams": 0
-      }
-    ],
-    "lunch": [
-      {
-        "product": "Тыква ",
-        "grams": 0
-      },
-      {
-        "product": "Семга",
-        "grams": 0
-      },
-      {
-        "product": "Цветная капуста",
-        "grams": 0
-      },
-      {
-        "product": "Морковь",
-        "grams": 0
-      }
-    ],
-    "evening": [
-      {
-        "product": "Кефир ",
-        "grams": 0
-      },
-      {
-        "product": "Банан",
-        "grams": 0
-      }
-    ],
-    "notes": "Кунжутное "
   },
   {
     "id": "1790412961292-9c9ew60",
