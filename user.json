@@ -1,5 +1,52 @@
 [
   {
+    "id": "1790668572664-pexwem6",
+    "date": "2026-09-30",
+    "morning": [
+      {
+        "product": "Кукуруза ",
+        "grams": 161
+      },
+      {
+        "product": "Яблоко ",
+        "grams": 66
+      },
+      {
+        "product": "Яйцо",
+        "grams": 50
+      }
+    ],
+    "lunch": [
+      {
+        "product": "Тыква ",
+        "grams": 0
+      },
+      {
+        "product": "Цыплёнок",
+        "grams": 0
+      },
+      {
+        "product": "Цветная капуста",
+        "grams": 0
+      },
+      {
+        "product": "Морковь",
+        "grams": 0
+      }
+    ],
+    "evening": [
+      {
+        "product": "Творог ",
+        "grams": 0
+      },
+      {
+        "product": "Банан",
+        "grams": 0
+      }
+    ],
+    "notes": "Кунжутное "
+  },
+  {
     "id": "1790584046049-kcrb9zj",
     "date": "2026-09-29",
     "morning": [
@@ -33,57 +80,14 @@
     "evening": [
       {
         "product": "Кефир ",
-        "grams": 0
+        "grams": 80
       },
       {
         "product": "Банан",
-        "grams": 0
+        "grams": 85
       }
     ],
     "notes": "Оливковое "
-  },
-  {
-    "id": "1790668572664-pexwem6",
-    "date": "2026-09-30",
-    "morning": [
-      {
-        "product": "Кукуруза ",
-        "grams": 0
-      },
-      {
-        "product": "Груша",
-        "grams": 0
-      }
-    ],
-    "lunch": [
-      {
-        "product": "Тыква ",
-        "grams": 0
-      },
-      {
-        "product": "Цыплёнок",
-        "grams": 0
-      },
-      {
-        "product": "Цветная капуста",
-        "grams": 36
-      },
-      {
-        "product": "Морковь",
-        "grams": 15
-      }
-    ],
-    "evening": [
-      {
-        "product": "Творог ",
-        "grams": 0
-      },
-      {
-        "product": "Банан",
-        "grams": 0
-      }
-    ],
-    "notes": "Кунжутное "
   },
   {
     "id": "1790500340634-tyw84wo",
