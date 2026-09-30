@@ -41,11 +41,11 @@
     "evening": [
       {
         "product": "Творог ",
-        "grams": 0
+        "grams": 65
       },
       {
         "product": "Банан",
-        "grams": 0
+        "grams": 100
       }
     ],
     "notes": "Кунжутное "
