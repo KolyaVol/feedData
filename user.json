@@ -31,7 +31,11 @@
       },
       {
         "product": "Морковь",
-        "grams": 12
+        "grams": 3
+      },
+      {
+        "product": "Яйцо",
+        "grams": 3
       }
     ],
     "evening": [
