@@ -49,6 +49,10 @@
       {
         "product": "Яблоко",
         "grams": 0
+      },
+      {
+        "product": "Инжир",
+        "grams": 0
       }
     ],
     "lunch": [
