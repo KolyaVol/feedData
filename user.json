@@ -1,5 +1,40 @@
 [
   {
+    "id": "1790841068429-jdte33q",
+    "date": "2026-10-02",
+    "morning": [
+      {
+        "product": "Пшено ",
+        "grams": 0
+      },
+      {
+        "product": "Яблоко",
+        "grams": 73
+      },
+      {
+        "product": "Инжир",
+        "grams": 0
+      }
+    ],
+    "lunch": [
+      {
+        "product": "Свинина ",
+        "grams": 0
+      },
+      {
+        "product": "Кабачок",
+        "grams": 0
+      }
+    ],
+    "evening": [
+      {
+        "product": "Кефир ",
+        "grams": 0
+      }
+    ],
+    "notes": ""
+  },
+  {
     "id": "1790753747070-9kl2jyn",
     "date": "2026-10-01",
     "morning": [
@@ -57,41 +92,6 @@
       }
     ],
     "notes": "Оливковое "
-  },
-  {
-    "id": "1790841068429-jdte33q",
-    "date": "2026-10-02",
-    "morning": [
-      {
-        "product": "Пшено ",
-        "grams": 0
-      },
-      {
-        "product": "Яблоко",
-        "grams": 0
-      },
-      {
-        "product": "Инжир",
-        "grams": 0
-      }
-    ],
-    "lunch": [
-      {
-        "product": "Свинина ",
-        "grams": 0
-      },
-      {
-        "product": "Кабачок",
-        "grams": 0
-      }
-    ],
-    "evening": [
-      {
-        "product": "Кефир ",
-        "grams": 0
-      }
-    ],
-    "notes": ""
   },
   {
     "id": "1790668572664-pexwem6",
