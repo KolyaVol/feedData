@@ -32,6 +32,10 @@
       {
         "product": "Помидор",
         "grams": 0
+      },
+      {
+        "product": "Цветная капуста",
+        "grams": 0
       }
     ],
     "evening": [
@@ -65,7 +69,7 @@
     ],
     "lunch": [
       {
-        "product": "",
+        "product": "Говядина ",
         "grams": 0
       }
     ],
