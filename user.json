@@ -1,62 +1,19 @@
 [
   {
-    "id": "1790841068429-jdte33q",
-    "date": "2026-10-02",
-    "morning": [
-      {
-        "product": "Пшено ",
-        "grams": 152
-      },
-      {
-        "product": "Яблоко",
-        "grams": 50
-      },
-      {
-        "product": "Инжир",
-        "grams": 14
-      }
-    ],
-    "lunch": [
-      {
-        "product": "Свинина ",
-        "grams": 47
-      },
-      {
-        "product": "Кабачок",
-        "grams": 0
-      },
-      {
-        "product": "Перец",
-        "grams": 0
-      },
-      {
-        "product": "Помидор",
-        "grams": 0
-      }
-    ],
-    "evening": [
-      {
-        "product": "Кефир ",
-        "grams": 0
-      },
-      {
-        "product": "Груша",
-        "grams": 0
-      }
-    ],
-    "notes": ""
-  },
-  {
     "id": "1790929087020-svnnce0",
     "date": "2026-10-03",
     "morning": [
       {
         "product": "Овсянка ",
-        "grams": 0
+        "grams": 155
       },
       {
         "product": "Яблоко",
-        "grams": 0
+        "grams": 59
+      },
+      {
+        "product": "Груша",
+        "grams": 23
       }
     ],
     "lunch": [
@@ -87,7 +44,54 @@
         "grams": 0
       }
     ],
-    "notes": ""
+    "notes": "Оливковое "
+  },
+  {
+    "id": "1790841068429-jdte33q",
+    "date": "2026-10-02",
+    "morning": [
+      {
+        "product": "Пшено ",
+        "grams": 152
+      },
+      {
+        "product": "Яблоко",
+        "grams": 50
+      },
+      {
+        "product": "Инжир",
+        "grams": 14
+      }
+    ],
+    "lunch": [
+      {
+        "product": "Свинина ",
+        "grams": 47
+      },
+      {
+        "product": "Кабачок",
+        "grams": 42
+      },
+      {
+        "product": "Перец",
+        "grams": 13
+      },
+      {
+        "product": "Помидор",
+        "grams": 45
+      }
+    ],
+    "evening": [
+      {
+        "product": "Кефир ",
+        "grams": 195
+      },
+      {
+        "product": "Груша",
+        "grams": 50
+      }
+    ],
+    "notes": "Кунжутное "
   },
   {
     "id": "1790753747070-9kl2jyn",
