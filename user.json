@@ -1,5 +1,122 @@
 [
   {
+    "id": "1791102091930-qyev8ci",
+    "date": "2026-10-05",
+    "morning": [
+      {
+        "product": "Гречка ",
+        "grams": 0
+      },
+      {
+        "product": "Инжир",
+        "grams": 0
+      }
+    ],
+    "lunch": [
+      {
+        "product": "Говядина ",
+        "grams": 0
+      },
+      {
+        "product": "Морковь",
+        "grams": 0
+      },
+      {
+        "product": "Тыква",
+        "grams": 0
+      },
+      {
+        "product": "Перец",
+        "grams": 0
+      }
+    ],
+    "evening": [
+      {
+        "product": "Кефир ",
+        "grams": 0
+      }
+    ],
+    "notes": "Оливковое "
+  },
+  {
+    "id": "1791174337080-whww2a8",
+    "date": "2026-10-06",
+    "morning": [
+      {
+        "product": "",
+        "grams": 0
+      }
+    ],
+    "lunch": [
+      {
+        "product": "",
+        "grams": 0
+      }
+    ],
+    "evening": [
+      {
+        "product": "",
+        "grams": 0
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "1791011492629-pfi66rx",
+    "date": "2026-10-04",
+    "morning": [
+      {
+        "product": "Рис",
+        "grams": 157
+      },
+      {
+        "product": "Творожное суфле",
+        "grams": 65
+      },
+      {
+        "product": "Инжир",
+        "grams": 38
+      }
+    ],
+    "lunch": [
+      {
+        "product": "Говядина ",
+        "grams": 47
+      },
+      {
+        "product": "Морковь",
+        "grams": 5
+      },
+      {
+        "product": "Тыква",
+        "grams": 80
+      },
+      {
+        "product": "Перец",
+        "grams": 23
+      }
+    ],
+    "evening": [
+      {
+        "product": "Йогурт ",
+        "grams": 100
+      },
+      {
+        "product": "Творожное суфле",
+        "grams": 72
+      },
+      {
+        "product": "Арбуз",
+        "grams": 18
+      },
+      {
+        "product": "Грецкие орехи",
+        "grams": 5
+      }
+    ],
+    "notes": "Кунжутное "
+  },
+  {
     "id": "1790929087020-svnnce0",
     "date": "2026-10-03",
     "morning": [
@@ -50,44 +167,13 @@
       {
         "product": "Арбуз",
         "grams": 20
+      },
+      {
+        "product": "Грецкие орехи",
+        "grams": 5
       }
     ],
     "notes": "Оливковое "
-  },
-  {
-    "id": "1791011492629-pfi66rx",
-    "date": "2026-10-04",
-    "morning": [
-      {
-        "product": "Рис",
-        "grams": 0
-      },
-      {
-        "product": "Творожное суфле",
-        "grams": 0
-      },
-      {
-        "product": "Инжир",
-        "grams": 0
-      }
-    ],
-    "lunch": [
-      {
-        "product": "Говядина ",
-        "grams": 0
-      },
-      {
-        "product": "Морковь",
-        "grams": 0
-      }
-    ],
-    "evening": [
-      {
-        "product": "Йогурт ",
-        "grams": 0
-      }
-    ],
-    "notes": "Кунжутное "
   },
   {
     "id": "1790841068429-jdte33q",
