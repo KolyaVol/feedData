@@ -61,11 +61,15 @@
       {
         "product": "Малина",
         "grams": 0
+      },
+      {
+        "product": "Яблоко",
+        "grams": 0
       }
     ],
     "lunch": [
       {
-        "product": "",
+        "product": "Кролик ",
         "grams": 0
       }
     ],
