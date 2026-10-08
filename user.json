@@ -1,5 +1,48 @@
 [
   {
+    "id": "1791357292327-j8g61r9",
+    "date": "2026-10-08",
+    "morning": [
+      {
+        "product": "Овсянка ",
+        "grams": 155
+      },
+      {
+        "product": "Малина",
+        "grams": 25
+      },
+      {
+        "product": "Яблоко",
+        "grams": 61
+      }
+    ],
+    "lunch": [
+      {
+        "product": "Кролик ",
+        "grams": 0
+      },
+      {
+        "product": "Кабачок",
+        "grams": 0
+      },
+      {
+        "product": "Картофель",
+        "grams": 0
+      },
+      {
+        "product": "Брокколи",
+        "grams": 0
+      }
+    ],
+    "evening": [
+      {
+        "product": "Кефир ",
+        "grams": 0
+      }
+    ],
+    "notes": "Кунжутное "
+  },
+  {
     "id": "1791273597970-uzk0v3a",
     "date": "2026-10-07",
     "morning": [
@@ -54,52 +97,13 @@
       {
         "product": "Морковь",
         "grams": 35
+      },
+      {
+        "product": "Яйцо",
+        "grams": 52
       }
     ],
     "notes": "Оливковое "
-  },
-  {
-    "id": "1791357292327-j8g61r9",
-    "date": "2026-10-08",
-    "morning": [
-      {
-        "product": "Овсянка ",
-        "grams": 0
-      },
-      {
-        "product": "Малина",
-        "grams": 0
-      },
-      {
-        "product": "Яблоко",
-        "grams": 0
-      }
-    ],
-    "lunch": [
-      {
-        "product": "Кролик ",
-        "grams": 0
-      },
-      {
-        "product": "Кабачок",
-        "grams": 0
-      },
-      {
-        "product": "Картофель",
-        "grams": 0
-      },
-      {
-        "product": "Брокколи",
-        "grams": 0
-      }
-    ],
-    "evening": [
-      {
-        "product": "Кефир ",
-        "grams": 0
-      }
-    ],
-    "notes": "Кунжутное "
   },
   {
     "id": "1791174337080-whww2a8",
