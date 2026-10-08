@@ -19,7 +19,7 @@
     "lunch": [
       {
         "product": "Кролик ",
-        "grams": 0
+        "grams": 47
       },
       {
         "product": "Кабачок",
@@ -62,6 +62,10 @@
     "lunch": [
       {
         "product": "Индейка ",
+        "grams": 0
+      },
+      {
+        "product": "Кабачок",
         "grams": 0
       }
     ],
