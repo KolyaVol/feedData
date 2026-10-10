@@ -69,7 +69,11 @@
     ],
     "lunch": [
       {
-        "product": "",
+        "product": "Хек",
+        "grams": 0
+      },
+      {
+        "product": "Тыква",
         "grams": 0
       }
     ],
