@@ -36,6 +36,10 @@
       {
         "product": "Морковь",
         "grams": 0
+      },
+      {
+        "product": "Белок",
+        "grams": 23
       }
     ],
     "evening": [
