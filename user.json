@@ -1,5 +1,111 @@
 [
   {
+    "id": "1791702717711-lm2yf3w",
+    "date": "2026-10-12",
+    "morning": [
+      {
+        "product": "Мультизлаковая каша ",
+        "grams": 172
+      },
+      {
+        "product": "Авокадо",
+        "grams": 0
+      },
+      {
+        "product": "Инжир",
+        "grams": 0
+      }
+    ],
+    "lunch": [
+      {
+        "product": "Цыплёнок ",
+        "grams": 0
+      },
+      {
+        "product": "Чечевичные оладьи",
+        "grams": 0
+      },
+      {
+        "product": "Цветная капуста",
+        "grams": 0
+      }
+    ],
+    "evening": [
+      {
+        "product": "Творог ",
+        "grams": 0
+      },
+      {
+        "product": "Банан",
+        "grams": 0
+      },
+      {
+        "product": "Грецкие орехи",
+        "grams": 0
+      }
+    ],
+    "notes": "Кунжутное "
+  },
+  {
+    "id": "1791615839054-xxzrivs",
+    "date": "2026-10-11",
+    "morning": [
+      {
+        "product": "Кукуруза ",
+        "grams": 143
+      },
+      {
+        "product": "Малина",
+        "grams": 18
+      },
+      {
+        "product": "Киви ",
+        "grams": 10
+      }
+    ],
+    "lunch": [
+      {
+        "product": "Хек",
+        "grams": 50
+      },
+      {
+        "product": "Тыква",
+        "grams": 50
+      },
+      {
+        "product": "Чечевичные оладьи",
+        "grams": 14
+      },
+      {
+        "product": "Помидор",
+        "grams": 15
+      },
+      {
+        "product": "Кукуруза",
+        "grams": 33
+      }
+    ],
+    "evening": [
+      {
+        "product": "Кефир ",
+        "grams": 158
+      },
+      {
+        "product": "Чечевичные оладьи",
+        "grams": 25
+      },
+      {
+        "product": "Малина",
+        "grams": 19
+      },
+      {
+        "product": "Киви",
+        "grams": 14
+      }
+    ],
+    "notes": "Оливковое "
+  },
+  {
     "id": "1791529856583-clm641p",
     "date": "2026-10-10",
     "morning": [
@@ -27,75 +133,56 @@
       },
       {
         "product": "Тыква",
-        "grams": 92
+        "grams": 63
       },
       {
         "product": "Перец",
-        "grams": 27
+        "grams": 12
       },
       {
         "product": "Цветная капуста",
-        "grams": 33
+        "grams": 11
       },
       {
         "product": "Творожное суфле",
         "grams": 18
+      },
+      {
+        "product": "Картофель",
+        "grams": 5
       }
     ],
     "evening": [
       {
         "product": "Йогурт ",
-        "grams": 0
+        "grams": 100
       },
       {
         "product": "Творожное суфле",
-        "grams": 0
+        "grams": 61
       },
       {
         "product": "Грецкие орехи",
-        "grams": 0
+        "grams": 5
       },
       {
         "product": "Киви",
-        "grams": 0
+        "grams": 24
+      },
+      {
+        "product": "Перец",
+        "grams": 12
+      },
+      {
+        "product": "Цветная капуста",
+        "grams": 23
+      },
+      {
+        "product": "Кукуруза",
+        "grams": 5
       }
     ],
     "notes": "Кунжутное "
-  },
-  {
-    "id": "1791615839054-xxzrivs",
-    "date": "2026-10-11",
-    "morning": [
-      {
-        "product": "Кукуруза ",
-        "grams": 0
-      },
-      {
-        "product": "Малина",
-        "grams": 0
-      },
-      {
-        "product": "Инжир",
-        "grams": 0
-      }
-    ],
-    "lunch": [
-      {
-        "product": "Хек",
-        "grams": 0
-      },
-      {
-        "product": "Тыква",
-        "grams": 0
-      }
-    ],
-    "evening": [
-      {
-        "product": "Кефир ",
-        "grams": 0
-      }
-    ],
-    "notes": "Оливковое "
   },
   {
     "id": "1791446204676-52egp1p",
