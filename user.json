@@ -85,16 +85,7 @@
         "grams": 0
       }
     ],
-    "evening": [
-      {
-        "product": "Кефир ",
-        "grams": 0
-      },
-      {
-        "product": "Инжир",
-        "grams": 0
-      }
-    ],
+    "evening": [],
     "notes": "Кунжутное "
   },
   {
