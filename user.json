@@ -1,5 +1,40 @@
 [
   {
+    "id": "1791876793681-tlkppdj",
+    "date": "2026-10-14",
+    "morning": [
+      {
+        "product": "Овсянка ",
+        "grams": 0
+      },
+      {
+        "product": "Яблоко",
+        "grams": 32
+      },
+      {
+        "product": "Манго",
+        "grams": 58
+      }
+    ],
+    "lunch": [
+      {
+        "product": "Свинина ",
+        "grams": 0
+      },
+      {
+        "product": "Брокколи",
+        "grams": 0
+      }
+    ],
+    "evening": [
+      {
+        "product": "Кефир",
+        "grams": 0
+      }
+    ],
+    "notes": "Кунжутное "
+  },
+  {
     "id": "1791793259818-zcd2in3",
     "date": "2026-10-13",
     "morning": [
@@ -49,7 +84,7 @@
       },
       {
         "product": "Творожное суфле",
-        "grams": 0
+        "grams": 59
       },
       {
         "product": "Манго",
@@ -73,45 +108,10 @@
       },
       {
         "product": "Грецкие орехи",
-        "grams": 0
+        "grams": 6
       }
     ],
     "notes": "Оливковое "
-  },
-  {
-    "id": "1791876793681-tlkppdj",
-    "date": "2026-10-14",
-    "morning": [
-      {
-        "product": "Овсянка ",
-        "grams": 0
-      },
-      {
-        "product": "Яблоко",
-        "grams": 0
-      },
-      {
-        "product": "Манго",
-        "grams": 0
-      }
-    ],
-    "lunch": [
-      {
-        "product": "Свинина ",
-        "grams": 0
-      },
-      {
-        "product": "Брокколи",
-        "grams": 0
-      }
-    ],
-    "evening": [
-      {
-        "product": "Кефир",
-        "grams": 0
-      }
-    ],
-    "notes": "Кунжутное "
   },
   {
     "id": "1791702717711-lm2yf3w",
