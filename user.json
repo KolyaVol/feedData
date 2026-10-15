@@ -15,7 +15,7 @@
     "lunch": [
       {
         "product": "Свинина ",
-        "grams": 0
+        "grams": 47
       },
       {
         "product": "Омлет",
@@ -28,6 +28,10 @@
       {
         "product": "Картофель",
         "grams": 39
+      },
+      {
+        "product": "Цветная капуста",
+        "grams": 0
       }
     ],
     "evening": [
