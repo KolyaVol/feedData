@@ -75,6 +75,10 @@
       {
         "product": "Морковь",
         "grams": 0
+      },
+      {
+        "product": "Помидор",
+        "grams": 0
       }
     ],
     "evening": [
