@@ -1,5 +1,273 @@
 [
   {
+    "id": "1792482263340-0874yst",
+    "date": "2026-10-21",
+    "morning": [
+      {
+        "product": "Рис",
+        "grams": 0
+      },
+      {
+        "product": "Малина",
+        "grams": 35
+      },
+      {
+        "product": "Яблоко",
+        "grams": 102
+      }
+    ],
+    "lunch": [
+      {
+        "product": "Индейка ",
+        "grams": 0
+      },
+      {
+        "product": "Макароны",
+        "grams": 0
+      },
+      {
+        "product": "Брокколи",
+        "grams": 0
+      },
+      {
+        "product": "Тыква",
+        "grams": 0
+      }
+    ],
+    "evening": [
+      {
+        "product": "Творог ",
+        "grams": 0
+      },
+      {
+        "product": "Банан",
+        "grams": 0
+      }
+    ],
+    "notes": "Кунжутное "
+  },
+  {
+    "id": "1792391239113-uyub82n",
+    "date": "2026-10-20",
+    "morning": [
+      {
+        "product": "Овсянка ",
+        "grams": 176
+      },
+      {
+        "product": "Малина",
+        "grams": 40
+      },
+      {
+        "product": "Инжир",
+        "grams": 43
+      }
+    ],
+    "lunch": [
+      {
+        "product": "Индейка",
+        "grams": 47
+      },
+      {
+        "product": "Тыква",
+        "grams": 69
+      },
+      {
+        "product": "Картофель",
+        "grams": 19
+      },
+      {
+        "product": "Морковь",
+        "grams": 18
+      },
+      {
+        "product": "Яйцо",
+        "grams": 31
+      }
+    ],
+    "evening": [
+      {
+        "product": "Кефир ",
+        "grams": 156
+      },
+      {
+        "product": "Груша ",
+        "grams": 12
+      },
+      {
+        "product": "Йогурт",
+        "grams": 100
+      },
+      {
+        "product": "Грецкие орехи",
+        "grams": 5
+      },
+      {
+        "product": "Яйцо",
+        "grams": 23
+      },
+      {
+        "product": "Картофель",
+        "grams": 4
+      },
+      {
+        "product": "Тыква",
+        "grams": 17
+      },
+      {
+        "product": "Сыр",
+        "grams": 30
+      }
+    ],
+    "notes": "Оливковое "
+  },
+  {
+    "id": "1792311142646-69t4d9r",
+    "date": "2026-10-19",
+    "morning": [
+      {
+        "product": "Пшено",
+        "grams": 167
+      },
+      {
+        "product": "Малина",
+        "grams": 40
+      },
+      {
+        "product": "Творожное суфле",
+        "grams": 30
+      },
+      {
+        "product": "Яблоко",
+        "grams": 20
+      }
+    ],
+    "lunch": [
+      {
+        "product": "Тыква ",
+        "grams": 80
+      },
+      {
+        "product": "Индейка ",
+        "grams": 47
+      },
+      {
+        "product": "Картофель",
+        "grams": 31
+      },
+      {
+        "product": "Морковь",
+        "grams": 11
+      },
+      {
+        "product": "Помидор",
+        "grams": 25
+      }
+    ],
+    "evening": [
+      {
+        "product": "Йогурт ",
+        "grams": 100
+      },
+      {
+        "product": "Творожное суфле",
+        "grams": 62
+      },
+      {
+        "product": "Грецкие орехи",
+        "grams": 5
+      },
+      {
+        "product": "Яблоко",
+        "grams": 57
+      },
+      {
+        "product": "Банан",
+        "grams": 115
+      },
+      {
+        "product": "Пшеничная каша",
+        "grams": 60
+      }
+    ],
+    "notes": "Кунжутное "
+  },
+  {
+    "id": "1792223808779-nifu89v",
+    "date": "2026-10-18",
+    "morning": [
+      {
+        "product": "Мультизлаковая каша",
+        "grams": 167
+      },
+      {
+        "product": "Инжир",
+        "grams": 42
+      },
+      {
+        "product": "Малина ",
+        "grams": 20
+      },
+      {
+        "product": "Яблоко",
+        "grams": 38
+      }
+    ],
+    "lunch": [
+      {
+        "product": "Форель",
+        "grams": 47
+      },
+      {
+        "product": "Тыква",
+        "grams": 93
+      },
+      {
+        "product": "Морковь",
+        "grams": 11
+      },
+      {
+        "product": "Картофель ",
+        "grams": 32
+      },
+      {
+        "product": "Помидор",
+        "grams": 45
+      }
+    ],
+    "evening": [
+      {
+        "product": "Творог ",
+        "grams": 58
+      },
+      {
+        "product": "Яблоко",
+        "grams": 65
+      },
+      {
+        "product": "Малина",
+        "grams": 34
+      },
+      {
+        "product": "Грецкие орехи",
+        "grams": 10
+      },
+      {
+        "product": "Йогурт",
+        "grams": 100
+      },
+      {
+        "product": "Сыр",
+        "grams": 5
+      },
+      {
+        "product": "Творожное суфле",
+        "grams": 32
+      }
+    ],
+    "notes": "Оливковое "
+  },
+  {
     "id": "1792137189323-2xjcum7",
     "date": "2026-10-17",
     "morning": [
@@ -65,53 +333,6 @@
       }
     ],
     "notes": "Кунжутное "
-  },
-  {
-    "id": "1792223808779-nifu89v",
-    "date": "2026-10-18",
-    "morning": [
-      {
-        "product": "Мультизлаковая каша",
-        "grams": 0
-      },
-      {
-        "product": "Инжир",
-        "grams": 0
-      },
-      {
-        "product": "Яйцо",
-        "grams": 0
-      }
-    ],
-    "lunch": [
-      {
-        "product": "Хек",
-        "grams": 0
-      },
-      {
-        "product": "Тыква",
-        "grams": 0
-      },
-      {
-        "product": "Морковь",
-        "grams": 0
-      },
-      {
-        "product": "Помидор",
-        "grams": 0
-      }
-    ],
-    "evening": [
-      {
-        "product": "Творог ",
-        "grams": 0
-      },
-      {
-        "product": "Яблоко",
-        "grams": 0
-      }
-    ],
-    "notes": ""
   },
   {
     "id": "1792050913873-3jhx2ue",
