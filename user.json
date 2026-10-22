@@ -1,6 +1,6 @@
 [
   {
-    "id": "1792657513777-o5y6i60",
+    "id": "1792658887697-9nxs0ah",
     "date": "2026-10-23",
     "meals": [
       {
@@ -18,6 +18,17 @@
         "id": "lunch",
         "name": "",
         "kind": "lunch",
+        "entries": [
+          {
+            "product": "",
+            "grams": 0
+          }
+        ]
+      },
+      {
+        "id": "custom-1792658492123-az5ifwr",
+        "name": "полдник",
+        "kind": "custom",
         "entries": [
           {
             "product": "",
