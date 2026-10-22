@@ -2,22 +2,90 @@
   {
     "id": "1792657534508-v82tme4",
     "date": "2026-10-22",
-    "morning": [
+    "meals": [
       {
-        "product": "",
-        "grams": 0
+        "id": "morning",
+        "name": "",
+        "kind": "morning",
+        "entries": [
+          {
+            "product": "",
+            "grams": 0
+          }
+        ]
+      },
+      {
+        "id": "lunch",
+        "name": "",
+        "kind": "lunch",
+        "entries": [
+          {
+            "product": "",
+            "grams": 0
+          }
+        ]
+      },
+      {
+        "id": "evening",
+        "name": "",
+        "kind": "evening",
+        "entries": [
+          {
+            "product": "",
+            "grams": 0
+          }
+        ]
       }
     ],
-    "lunch": [
+    "notes": ""
+  },
+  {
+    "id": "1792658511380-bs8vv82",
+    "date": "2026-10-24",
+    "meals": [
       {
-        "product": "",
-        "grams": 0
-      }
-    ],
-    "evening": [
+        "id": "morning",
+        "name": "",
+        "kind": "morning",
+        "entries": [
+          {
+            "product": "",
+            "grams": 0
+          }
+        ]
+      },
       {
-        "product": "",
-        "grams": 0
+        "id": "lunch",
+        "name": "",
+        "kind": "lunch",
+        "entries": [
+          {
+            "product": "",
+            "grams": 0
+          }
+        ]
+      },
+      {
+        "id": "custom-1792658492123-az5ifwr",
+        "name": "полдник",
+        "kind": "custom",
+        "entries": [
+          {
+            "product": "",
+            "grams": 0
+          }
+        ]
+      },
+      {
+        "id": "evening",
+        "name": "",
+        "kind": "evening",
+        "entries": [
+          {
+            "product": "",
+            "grams": 0
+          }
+        ]
       }
     ],
     "notes": ""
@@ -25,22 +93,39 @@
   {
     "id": "1792657513777-o5y6i60",
     "date": "2026-10-23",
-    "morning": [
+    "meals": [
       {
-        "product": "",
-        "grams": 0
-      }
-    ],
-    "lunch": [
+        "id": "morning",
+        "name": "",
+        "kind": "morning",
+        "entries": [
+          {
+            "product": "",
+            "grams": 0
+          }
+        ]
+      },
       {
-        "product": "",
-        "grams": 0
-      }
-    ],
-    "evening": [
+        "id": "lunch",
+        "name": "",
+        "kind": "lunch",
+        "entries": [
+          {
+            "product": "",
+            "grams": 0
+          }
+        ]
+      },
       {
-        "product": "",
-        "grams": 0
+        "id": "evening",
+        "name": "",
+        "kind": "evening",
+        "entries": [
+          {
+            "product": "",
+            "grams": 0
+          }
+        ]
       }
     ],
     "notes": ""
@@ -48,22 +133,39 @@
   {
     "id": "1791874753775-w3uu4re",
     "date": "2026-10-14",
-    "morning": [
+    "meals": [
       {
-        "product": "кабачок",
-        "grams": 0
-      }
-    ],
-    "lunch": [
+        "id": "morning",
+        "name": "",
+        "kind": "morning",
+        "entries": [
+          {
+            "product": "кабачок",
+            "grams": 0
+          }
+        ]
+      },
       {
-        "product": "",
-        "grams": 0
-      }
-    ],
-    "evening": [
+        "id": "lunch",
+        "name": "",
+        "kind": "lunch",
+        "entries": [
+          {
+            "product": "",
+            "grams": 0
+          }
+        ]
+      },
       {
-        "product": "",
-        "grams": 0
+        "id": "evening",
+        "name": "",
+        "kind": "evening",
+        "entries": [
+          {
+            "product": "",
+            "grams": 0
+          }
+        ]
       }
     ],
     "notes": ""
@@ -71,254 +173,509 @@
   {
     "id": "1777356072677-7wak26m",
     "date": "2026-05-16",
-    "morning": [
+    "meals": [
       {
-        "product": "какаша",
-        "grams": 110
+        "id": "morning",
+        "name": "",
+        "kind": "morning",
+        "entries": [
+          {
+            "product": "какаша",
+            "grams": 110
+          }
+        ]
+      },
+      {
+        "id": "lunch",
+        "name": "",
+        "kind": "lunch",
+        "entries": [
+          {
+            "product": "гречневая каша",
+            "grams": 100
+          }
+        ]
+      },
+      {
+        "id": "evening",
+        "name": "",
+        "kind": "evening",
+        "entries": []
       }
     ],
-    "lunch": [
-      {
-        "product": "гречневая каша",
-        "grams": 100
-      }
-    ],
-    "evening": [],
     "notes": ""
   },
   {
     "id": "1777356048116-9yk7pmx",
     "date": "2026-05-15",
-    "morning": [
+    "meals": [
       {
-        "product": "",
-        "grams": 0
+        "id": "morning",
+        "name": "",
+        "kind": "morning",
+        "entries": [
+          {
+            "product": "",
+            "grams": 0
+          }
+        ]
+      },
+      {
+        "id": "lunch",
+        "name": "",
+        "kind": "lunch",
+        "entries": [
+          {
+            "product": "",
+            "grams": 0
+          }
+        ]
+      },
+      {
+        "id": "evening",
+        "name": "",
+        "kind": "evening",
+        "entries": []
       }
     ],
-    "lunch": [
-      {
-        "product": "",
-        "grams": 0
-      }
-    ],
-    "evening": [],
     "notes": ""
   },
   {
     "id": "1777356046869-r6imgj9",
     "date": "2026-05-14",
-    "morning": [
+    "meals": [
       {
-        "product": "",
-        "grams": 0
+        "id": "morning",
+        "name": "",
+        "kind": "morning",
+        "entries": [
+          {
+            "product": "",
+            "grams": 0
+          }
+        ]
+      },
+      {
+        "id": "lunch",
+        "name": "",
+        "kind": "lunch",
+        "entries": [
+          {
+            "product": "",
+            "grams": 0
+          }
+        ]
+      },
+      {
+        "id": "evening",
+        "name": "",
+        "kind": "evening",
+        "entries": []
       }
     ],
-    "lunch": [
-      {
-        "product": "",
-        "grams": 0
-      }
-    ],
-    "evening": [],
     "notes": ""
   },
   {
     "id": "1777356025141-30yetrn",
     "date": "2026-05-13",
-    "morning": [
+    "meals": [
       {
-        "product": "",
-        "grams": 0
+        "id": "morning",
+        "name": "",
+        "kind": "morning",
+        "entries": [
+          {
+            "product": "",
+            "grams": 0
+          }
+        ]
+      },
+      {
+        "id": "lunch",
+        "name": "",
+        "kind": "lunch",
+        "entries": [
+          {
+            "product": "",
+            "grams": 0
+          }
+        ]
+      },
+      {
+        "id": "evening",
+        "name": "",
+        "kind": "evening",
+        "entries": []
       }
     ],
-    "lunch": [
-      {
-        "product": "",
-        "grams": 0
-      }
-    ],
-    "evening": [],
     "notes": ""
   },
   {
     "id": "1777356024997-ntow7p3",
     "date": "2026-05-12",
-    "morning": [
+    "meals": [
       {
-        "product": "",
-        "grams": 0
+        "id": "morning",
+        "name": "",
+        "kind": "morning",
+        "entries": [
+          {
+            "product": "",
+            "grams": 0
+          }
+        ]
+      },
+      {
+        "id": "lunch",
+        "name": "",
+        "kind": "lunch",
+        "entries": [
+          {
+            "product": "",
+            "grams": 0
+          }
+        ]
+      },
+      {
+        "id": "evening",
+        "name": "",
+        "kind": "evening",
+        "entries": []
       }
     ],
-    "lunch": [
-      {
-        "product": "",
-        "grams": 0
-      }
-    ],
-    "evening": [],
     "notes": ""
   },
   {
     "id": "1777356024837-rm2tzb0",
     "date": "2026-05-11",
-    "morning": [
+    "meals": [
       {
-        "product": "",
-        "grams": 0
+        "id": "morning",
+        "name": "",
+        "kind": "morning",
+        "entries": [
+          {
+            "product": "",
+            "grams": 0
+          }
+        ]
+      },
+      {
+        "id": "lunch",
+        "name": "",
+        "kind": "lunch",
+        "entries": [
+          {
+            "product": "",
+            "grams": 0
+          }
+        ]
+      },
+      {
+        "id": "evening",
+        "name": "",
+        "kind": "evening",
+        "entries": []
       }
     ],
-    "lunch": [
-      {
-        "product": "",
-        "grams": 0
-      }
-    ],
-    "evening": [],
     "notes": ""
   },
   {
     "id": "1777356024685-mqj1rjk",
     "date": "2026-05-10",
-    "morning": [
+    "meals": [
       {
-        "product": "",
-        "grams": 0
+        "id": "morning",
+        "name": "",
+        "kind": "morning",
+        "entries": [
+          {
+            "product": "",
+            "grams": 0
+          }
+        ]
+      },
+      {
+        "id": "lunch",
+        "name": "",
+        "kind": "lunch",
+        "entries": [
+          {
+            "product": "",
+            "grams": 0
+          }
+        ]
+      },
+      {
+        "id": "evening",
+        "name": "",
+        "kind": "evening",
+        "entries": []
       }
     ],
-    "lunch": [
-      {
-        "product": "",
-        "grams": 0
-      }
-    ],
-    "evening": [],
     "notes": ""
   },
   {
     "id": "1777356024149-kos4tmk",
     "date": "2026-05-09",
-    "morning": [
+    "meals": [
       {
-        "product": "",
-        "grams": 0
+        "id": "morning",
+        "name": "",
+        "kind": "morning",
+        "entries": [
+          {
+            "product": "",
+            "grams": 0
+          }
+        ]
+      },
+      {
+        "id": "lunch",
+        "name": "",
+        "kind": "lunch",
+        "entries": [
+          {
+            "product": "",
+            "grams": 0
+          }
+        ]
+      },
+      {
+        "id": "evening",
+        "name": "",
+        "kind": "evening",
+        "entries": []
       }
     ],
-    "lunch": [
-      {
-        "product": "",
-        "grams": 0
-      }
-    ],
-    "evening": [],
     "notes": ""
   },
   {
     "id": "1777356019974-gp6z4n2",
     "date": "2026-05-08",
-    "morning": [
+    "meals": [
       {
-        "product": "",
-        "grams": 0
+        "id": "morning",
+        "name": "",
+        "kind": "morning",
+        "entries": [
+          {
+            "product": "",
+            "grams": 0
+          }
+        ]
+      },
+      {
+        "id": "lunch",
+        "name": "",
+        "kind": "lunch",
+        "entries": [
+          {
+            "product": "",
+            "grams": 0
+          }
+        ]
+      },
+      {
+        "id": "evening",
+        "name": "",
+        "kind": "evening",
+        "entries": []
       }
     ],
-    "lunch": [
-      {
-        "product": "",
-        "grams": 0
-      }
-    ],
-    "evening": [],
     "notes": ""
   },
   {
     "id": "1777355915746-x9wlm4v",
     "date": "2026-05-07",
-    "morning": [
+    "meals": [
       {
-        "product": "",
-        "grams": 0
+        "id": "morning",
+        "name": "",
+        "kind": "morning",
+        "entries": [
+          {
+            "product": "",
+            "grams": 0
+          }
+        ]
+      },
+      {
+        "id": "lunch",
+        "name": "",
+        "kind": "lunch",
+        "entries": [
+          {
+            "product": "",
+            "grams": 0
+          }
+        ]
+      },
+      {
+        "id": "evening",
+        "name": "",
+        "kind": "evening",
+        "entries": []
       }
     ],
-    "lunch": [
-      {
-        "product": "",
-        "grams": 0
-      }
-    ],
-    "evening": [],
     "notes": ""
   },
   {
     "id": "1777355902511-4q01efs",
     "date": "2026-05-06",
-    "morning": [
+    "meals": [
       {
-        "product": "",
-        "grams": 0
+        "id": "morning",
+        "name": "",
+        "kind": "morning",
+        "entries": [
+          {
+            "product": "",
+            "grams": 0
+          }
+        ]
+      },
+      {
+        "id": "lunch",
+        "name": "",
+        "kind": "lunch",
+        "entries": [
+          {
+            "product": "",
+            "grams": 0
+          }
+        ]
+      },
+      {
+        "id": "evening",
+        "name": "",
+        "kind": "evening",
+        "entries": []
       }
     ],
-    "lunch": [
-      {
-        "product": "",
-        "grams": 0
-      }
-    ],
-    "evening": [],
     "notes": ""
   },
   {
     "id": "1777353460896-1z90t2r",
     "date": "2026-05-05",
-    "morning": [
+    "meals": [
       {
-        "product": "",
-        "grams": 0
+        "id": "morning",
+        "name": "",
+        "kind": "morning",
+        "entries": [
+          {
+            "product": "",
+            "grams": 0
+          }
+        ]
+      },
+      {
+        "id": "lunch",
+        "name": "",
+        "kind": "lunch",
+        "entries": [
+          {
+            "product": "",
+            "grams": 0
+          }
+        ]
+      },
+      {
+        "id": "evening",
+        "name": "",
+        "kind": "evening",
+        "entries": []
       }
     ],
-    "lunch": [
-      {
-        "product": "",
-        "grams": 0
-      }
-    ],
-    "evening": [],
     "notes": ""
   },
   {
     "id": "1777353308394-rv1n6hp",
     "date": "2026-05-04",
-    "morning": [
+    "meals": [
       {
-        "product": "брокколи",
-        "grams": 80
+        "id": "morning",
+        "name": "",
+        "kind": "morning",
+        "entries": [
+          {
+            "product": "брокколи",
+            "grams": 80
+          }
+        ]
+      },
+      {
+        "id": "lunch",
+        "name": "",
+        "kind": "lunch",
+        "entries": []
+      },
+      {
+        "id": "evening",
+        "name": "",
+        "kind": "evening",
+        "entries": []
       }
     ],
-    "lunch": [],
-    "evening": [],
     "notes": ""
   },
   {
     "id": "1776924238461-ddk5fyf",
     "date": "2026-05-03",
-    "morning": [
+    "meals": [
       {
-        "product": "цветная капуста",
-        "grams": 40
+        "id": "morning",
+        "name": "",
+        "kind": "morning",
+        "entries": [
+          {
+            "product": "цветная капуста",
+            "grams": 40
+          }
+        ]
+      },
+      {
+        "id": "lunch",
+        "name": "",
+        "kind": "lunch",
+        "entries": []
+      },
+      {
+        "id": "evening",
+        "name": "",
+        "kind": "evening",
+        "entries": []
       }
     ],
-    "lunch": [],
-    "evening": [],
     "notes": ""
   },
   {
     "id": "1776922871538-1w26wq4",
     "date": "2026-05-02",
-    "morning": [],
-    "lunch": [],
-    "evening": [
+    "meals": [
       {
-        "product": "кабачок",
-        "grams": 50
+        "id": "morning",
+        "name": "",
+        "kind": "morning",
+        "entries": []
+      },
+      {
+        "id": "lunch",
+        "name": "",
+        "kind": "lunch",
+        "entries": []
+      },
+      {
+        "id": "evening",
+        "name": "",
+        "kind": "evening",
+        "entries": [
+          {
+            "product": "кабачок",
+            "grams": 50
+          }
+        ]
       }
     ],
     "notes": ""
@@ -326,638 +683,1151 @@
   {
     "id": "1776922188098-v342u6f",
     "date": "2026-05-01",
-    "morning": [],
-    "lunch": [
+    "meals": [
       {
-        "product": "кабачок",
-        "grams": 50
+        "id": "morning",
+        "name": "",
+        "kind": "morning",
+        "entries": []
+      },
+      {
+        "id": "lunch",
+        "name": "",
+        "kind": "lunch",
+        "entries": [
+          {
+            "product": "кабачок",
+            "grams": 50
+          }
+        ]
+      },
+      {
+        "id": "evening",
+        "name": "",
+        "kind": "evening",
+        "entries": []
       }
     ],
-    "evening": [],
-    "notes": "",
-    "eaten": {}
+    "notes": ""
   },
   {
     "id": "1777355579961-bmp5f8i",
     "date": "2026-04-30",
-    "morning": [
+    "meals": [
       {
-        "product": "",
-        "grams": 0
+        "id": "morning",
+        "name": "",
+        "kind": "morning",
+        "entries": [
+          {
+            "product": "",
+            "grams": 0
+          }
+        ]
+      },
+      {
+        "id": "lunch",
+        "name": "",
+        "kind": "lunch",
+        "entries": [
+          {
+            "product": "",
+            "grams": 0
+          }
+        ]
+      },
+      {
+        "id": "evening",
+        "name": "",
+        "kind": "evening",
+        "entries": []
       }
     ],
-    "lunch": [
-      {
-        "product": "",
-        "grams": 0
-      }
-    ],
-    "evening": [],
     "notes": ""
   },
   {
     "id": "d-030",
     "date": "2026-04-30",
-    "morning": [
+    "meals": [
       {
-        "product": "рисовая каша",
-        "grams": 10
-      }
-    ],
-    "lunch": [
-      {
-        "product": "брокколи",
-        "grams": 50
+        "id": "morning",
+        "name": "",
+        "kind": "morning",
+        "entries": [
+          {
+            "product": "рисовая каша",
+            "grams": 10
+          }
+        ]
       },
       {
-        "product": "кабачок",
-        "grams": 50
-      }
-    ],
-    "evening": [
-      {
-        "product": "гречневая каша",
-        "grams": 60
+        "id": "lunch",
+        "name": "",
+        "kind": "lunch",
+        "entries": [
+          {
+            "product": "брокколи",
+            "grams": 50
+          },
+          {
+            "product": "кабачок",
+            "grams": 50
+          }
+        ]
       },
       {
-        "product": "цветная капуста",
-        "grams": 40
+        "id": "evening",
+        "name": "",
+        "kind": "evening",
+        "entries": [
+          {
+            "product": "гречневая каша",
+            "grams": 60
+          },
+          {
+            "product": "цветная капуста",
+            "grams": 40
+          }
+        ]
       }
     ],
-    "notes": "",
-    "eaten": {}
+    "notes": ""
   },
   {
     "id": "1777355574946-bvurz9m",
     "date": "2026-04-29",
-    "morning": [
+    "meals": [
       {
-        "product": "",
-        "grams": 0
+        "id": "morning",
+        "name": "",
+        "kind": "morning",
+        "entries": [
+          {
+            "product": "",
+            "grams": 0
+          }
+        ]
+      },
+      {
+        "id": "lunch",
+        "name": "",
+        "kind": "lunch",
+        "entries": [
+          {
+            "product": "",
+            "grams": 0
+          }
+        ]
+      },
+      {
+        "id": "evening",
+        "name": "",
+        "kind": "evening",
+        "entries": []
       }
     ],
-    "lunch": [
-      {
-        "product": "",
-        "grams": 0
-      }
-    ],
-    "evening": [],
     "notes": ""
   },
   {
     "id": "d-029",
     "date": "2026-04-29",
-    "morning": [
+    "meals": [
       {
-        "product": "рисовая каша",
-        "grams": 5
-      }
-    ],
-    "lunch": [
-      {
-        "product": "кабачок",
-        "grams": 50
+        "id": "morning",
+        "name": "",
+        "kind": "morning",
+        "entries": [
+          {
+            "product": "рисовая каша",
+            "grams": 5
+          }
+        ]
       },
       {
-        "product": "цветная капуста",
-        "grams": 50
-      }
-    ],
-    "evening": [
-      {
-        "product": "гречневая каша",
-        "grams": 50
+        "id": "lunch",
+        "name": "",
+        "kind": "lunch",
+        "entries": [
+          {
+            "product": "кабачок",
+            "grams": 50
+          },
+          {
+            "product": "цветная капуста",
+            "grams": 50
+          }
+        ]
       },
       {
-        "product": "брокколи",
-        "grams": 30
+        "id": "evening",
+        "name": "",
+        "kind": "evening",
+        "entries": [
+          {
+            "product": "гречневая каша",
+            "grams": 50
+          },
+          {
+            "product": "брокколи",
+            "grams": 30
+          }
+        ]
       }
     ],
-    "notes": "Вводим рисовую кашу",
-    "eaten": {}
+    "notes": "Вводим рисовую кашу"
   },
   {
     "id": "d-027",
     "date": "2026-04-27",
-    "morning": [
+    "meals": [
       {
-        "product": "гречневая каша",
-        "grams": 80
-      }
-    ],
-    "lunch": [
-      {
-        "product": "кабачок",
-        "grams": 50
+        "id": "morning",
+        "name": "",
+        "kind": "morning",
+        "entries": [
+          {
+            "product": "гречневая каша",
+            "grams": 80
+          }
+        ]
       },
       {
-        "product": "брокколи",
-        "grams": 50
-      }
-    ],
-    "evening": [
+        "id": "lunch",
+        "name": "",
+        "kind": "lunch",
+        "entries": [
+          {
+            "product": "кабачок",
+            "grams": 50
+          },
+          {
+            "product": "брокколи",
+            "grams": 50
+          }
+        ]
+      },
       {
-        "product": "цветная капуста",
-        "grams": 40
+        "id": "evening",
+        "name": "",
+        "kind": "evening",
+        "entries": [
+          {
+            "product": "цветная капуста",
+            "grams": 40
+          }
+        ]
       }
     ],
-    "notes": "",
-    "eaten": {}
+    "notes": ""
   },
   {
     "id": "d-026",
     "date": "2026-04-26",
-    "morning": [
+    "meals": [
       {
-        "product": "гречневая каша",
-        "grams": 60
+        "id": "morning",
+        "name": "",
+        "kind": "morning",
+        "entries": [
+          {
+            "product": "гречневая каша",
+            "grams": 60
+          }
+        ]
+      },
+      {
+        "id": "lunch",
+        "name": "",
+        "kind": "lunch",
+        "entries": [
+          {
+            "product": "цветная капуста",
+            "grams": 100
+          }
+        ]
+      },
+      {
+        "id": "evening",
+        "name": "",
+        "kind": "evening",
+        "entries": [
+          {
+            "product": "брокколи",
+            "grams": 30
+          }
+        ]
       }
     ],
-    "lunch": [
-      {
-        "product": "цветная капуста",
-        "grams": 100
-      }
-    ],
-    "evening": [
-      {
-        "product": "брокколи",
-        "grams": 30
-      }
-    ],
-    "notes": "",
-    "eaten": {}
+    "notes": ""
   },
   {
     "id": "d-025",
     "date": "2026-04-25",
-    "morning": [
+    "meals": [
       {
-        "product": "гречневая каша",
-        "grams": 40
-      }
-    ],
-    "lunch": [
-      {
-        "product": "брокколи",
-        "grams": 50
+        "id": "morning",
+        "name": "",
+        "kind": "morning",
+        "entries": [
+          {
+            "product": "гречневая каша",
+            "grams": 40
+          }
+        ]
       },
       {
-        "product": "кабачок",
-        "grams": 50
-      }
-    ],
-    "evening": [
+        "id": "lunch",
+        "name": "",
+        "kind": "lunch",
+        "entries": [
+          {
+            "product": "брокколи",
+            "grams": 50
+          },
+          {
+            "product": "кабачок",
+            "grams": 50
+          }
+        ]
+      },
       {
-        "product": "кабачок",
-        "grams": 30
+        "id": "evening",
+        "name": "",
+        "kind": "evening",
+        "entries": [
+          {
+            "product": "кабачок",
+            "grams": 30
+          }
+        ]
       }
     ],
-    "notes": "Пробуем вечернее кормление",
-    "eaten": {}
+    "notes": "Пробуем вечернее кормление"
   },
   {
     "id": "d-024",
     "date": "2026-04-24",
-    "morning": [
+    "meals": [
       {
-        "product": "гречневая каша",
-        "grams": 20
-      }
-    ],
-    "lunch": [
-      {
-        "product": "кабачок",
-        "grams": 50
+        "id": "morning",
+        "name": "",
+        "kind": "morning",
+        "entries": [
+          {
+            "product": "гречневая каша",
+            "grams": 20
+          }
+        ],
+        "eaten": true
       },
       {
-        "product": "цветная капуста",
-        "grams": 50
+        "id": "lunch",
+        "name": "",
+        "kind": "lunch",
+        "entries": [
+          {
+            "product": "кабачок",
+            "grams": 50
+          },
+          {
+            "product": "цветная капуста",
+            "grams": 50
+          }
+        ],
+        "eaten": true
+      },
+      {
+        "id": "evening",
+        "name": "",
+        "kind": "evening",
+        "entries": []
       }
     ],
-    "evening": [],
-    "notes": "",
-    "eaten": {
-      "morning": true,
-      "lunch": true
-    }
+    "notes": ""
   },
   {
     "id": "d-023",
     "date": "2026-04-23",
-    "morning": [
+    "meals": [
       {
-        "product": "гречневая каша",
-        "grams": 10
+        "id": "morning",
+        "name": "",
+        "kind": "morning",
+        "entries": [
+          {
+            "product": "гречневая каша",
+            "grams": 10
+          }
+        ]
+      },
+      {
+        "id": "lunch",
+        "name": "",
+        "kind": "lunch",
+        "entries": [
+          {
+            "product": "брокколи",
+            "grams": 100
+          }
+        ]
+      },
+      {
+        "id": "evening",
+        "name": "",
+        "kind": "evening",
+        "entries": []
       }
     ],
-    "lunch": [
-      {
-        "product": "брокколи",
-        "grams": 100
-      }
-    ],
-    "evening": [],
-    "notes": "",
-    "eaten": {}
+    "notes": ""
   },
   {
     "id": "d-022",
     "date": "2026-04-22",
-    "morning": [
+    "meals": [
       {
-        "product": "гречневая каша",
-        "grams": 5
-      }
-    ],
-    "lunch": [
-      {
-        "product": "цветная капуста",
-        "grams": 50
+        "id": "morning",
+        "name": "",
+        "kind": "morning",
+        "entries": [
+          {
+            "product": "гречневая каша",
+            "grams": 5
+          }
+        ]
       },
       {
-        "product": "кабачок",
-        "grams": 50
+        "id": "lunch",
+        "name": "",
+        "kind": "lunch",
+        "entries": [
+          {
+            "product": "цветная капуста",
+            "grams": 50
+          },
+          {
+            "product": "кабачок",
+            "grams": 50
+          }
+        ]
+      },
+      {
+        "id": "evening",
+        "name": "",
+        "kind": "evening",
+        "entries": []
       }
     ],
-    "evening": [],
-    "notes": "Вводим гречневую кашу",
-    "eaten": {}
+    "notes": "Вводим гречневую кашу"
   },
   {
     "id": "d-021",
     "date": "2026-04-21",
-    "morning": [
+    "meals": [
       {
-        "product": "цветная капуста",
-        "grams": 100
-      }
-    ],
-    "lunch": [
-      {
-        "product": "брокколи",
-        "grams": 50
+        "id": "morning",
+        "name": "",
+        "kind": "morning",
+        "entries": [
+          {
+            "product": "цветная капуста",
+            "grams": 100
+          }
+        ]
       },
       {
-        "product": "кабачок",
-        "grams": 50
+        "id": "lunch",
+        "name": "",
+        "kind": "lunch",
+        "entries": [
+          {
+            "product": "брокколи",
+            "grams": 50
+          },
+          {
+            "product": "кабачок",
+            "grams": 50
+          }
+        ]
+      },
+      {
+        "id": "evening",
+        "name": "",
+        "kind": "evening",
+        "entries": []
       }
     ],
-    "evening": [],
-    "notes": "Полная порция цветной капусты",
-    "eaten": {}
+    "notes": "Полная порция цветной капусты"
   },
   {
     "id": "d-020",
     "date": "2026-04-20",
-    "morning": [
+    "meals": [
       {
-        "product": "цветная капуста",
-        "grams": 80
+        "id": "morning",
+        "name": "",
+        "kind": "morning",
+        "entries": [
+          {
+            "product": "цветная капуста",
+            "grams": 80
+          }
+        ]
+      },
+      {
+        "id": "lunch",
+        "name": "",
+        "kind": "lunch",
+        "entries": [
+          {
+            "product": "кабачок",
+            "grams": 100
+          }
+        ]
+      },
+      {
+        "id": "evening",
+        "name": "",
+        "kind": "evening",
+        "entries": []
       }
     ],
-    "lunch": [
-      {
-        "product": "кабачок",
-        "grams": 100
-      }
-    ],
-    "evening": [],
-    "notes": "",
-    "eaten": {}
+    "notes": ""
   },
   {
     "id": "d-019",
     "date": "2026-04-19",
-    "morning": [
+    "meals": [
       {
-        "product": "цветная капуста",
-        "grams": 60
+        "id": "morning",
+        "name": "",
+        "kind": "morning",
+        "entries": [
+          {
+            "product": "цветная капуста",
+            "grams": 60
+          }
+        ]
+      },
+      {
+        "id": "lunch",
+        "name": "",
+        "kind": "lunch",
+        "entries": [
+          {
+            "product": "брокколи",
+            "grams": 100
+          }
+        ]
+      },
+      {
+        "id": "evening",
+        "name": "",
+        "kind": "evening",
+        "entries": []
       }
     ],
-    "lunch": [
-      {
-        "product": "брокколи",
-        "grams": 100
-      }
-    ],
-    "evening": [],
-    "notes": "",
-    "eaten": {}
+    "notes": ""
   },
   {
     "id": "d-018",
     "date": "2026-04-18",
-    "morning": [
+    "meals": [
       {
-        "product": "цветная капуста",
-        "grams": 40
-      }
-    ],
-    "lunch": [
-      {
-        "product": "кабачок",
-        "grams": 50
+        "id": "morning",
+        "name": "",
+        "kind": "morning",
+        "entries": [
+          {
+            "product": "цветная капуста",
+            "grams": 40
+          }
+        ]
       },
       {
-        "product": "брокколи",
-        "grams": 50
+        "id": "lunch",
+        "name": "",
+        "kind": "lunch",
+        "entries": [
+          {
+            "product": "кабачок",
+            "grams": 50
+          },
+          {
+            "product": "брокколи",
+            "grams": 50
+          }
+        ]
+      },
+      {
+        "id": "evening",
+        "name": "",
+        "kind": "evening",
+        "entries": []
       }
     ],
-    "evening": [],
-    "notes": "",
-    "eaten": {}
+    "notes": ""
   },
   {
     "id": "d-017",
     "date": "2026-04-17",
-    "morning": [
+    "meals": [
       {
-        "product": "цветная капуста",
-        "grams": 20
+        "id": "morning",
+        "name": "",
+        "kind": "morning",
+        "entries": [
+          {
+            "product": "цветная капуста",
+            "grams": 20
+          }
+        ]
+      },
+      {
+        "id": "lunch",
+        "name": "",
+        "kind": "lunch",
+        "entries": [
+          {
+            "product": "брокколи",
+            "grams": 100
+          }
+        ]
+      },
+      {
+        "id": "evening",
+        "name": "",
+        "kind": "evening",
+        "entries": []
       }
     ],
-    "lunch": [
-      {
-        "product": "брокколи",
-        "grams": 100
-      }
-    ],
-    "evening": [],
-    "notes": "",
-    "eaten": {}
+    "notes": ""
   },
   {
     "id": "d-016",
     "date": "2026-04-16",
-    "morning": [
+    "meals": [
       {
-        "product": "цветная капуста",
-        "grams": 10
+        "id": "morning",
+        "name": "",
+        "kind": "morning",
+        "entries": [
+          {
+            "product": "цветная капуста",
+            "grams": 10
+          }
+        ]
+      },
+      {
+        "id": "lunch",
+        "name": "",
+        "kind": "lunch",
+        "entries": [
+          {
+            "product": "кабачок",
+            "grams": 100
+          }
+        ]
+      },
+      {
+        "id": "evening",
+        "name": "",
+        "kind": "evening",
+        "entries": []
       }
     ],
-    "lunch": [
-      {
-        "product": "кабачок",
-        "grams": 100
-      }
-    ],
-    "evening": [],
-    "notes": "",
-    "eaten": {}
+    "notes": ""
   },
   {
     "id": "d-015",
     "date": "2026-04-15",
-    "morning": [
+    "meals": [
       {
-        "product": "цветная капуста",
-        "grams": 5
-      }
-    ],
-    "lunch": [
-      {
-        "product": "брокколи",
-        "grams": 50
+        "id": "morning",
+        "name": "",
+        "kind": "morning",
+        "entries": [
+          {
+            "product": "цветная капуста",
+            "grams": 5
+          }
+        ]
       },
       {
-        "product": "кабачок",
-        "grams": 50
+        "id": "lunch",
+        "name": "",
+        "kind": "lunch",
+        "entries": [
+          {
+            "product": "брокколи",
+            "grams": 50
+          },
+          {
+            "product": "кабачок",
+            "grams": 50
+          }
+        ]
+      },
+      {
+        "id": "evening",
+        "name": "",
+        "kind": "evening",
+        "entries": []
       }
     ],
-    "evening": [],
-    "notes": "Вводим цветную капусту, на обед микс",
-    "eaten": {}
+    "notes": "Вводим цветную капусту, на обед микс"
   },
   {
     "id": "d-014",
     "date": "2026-04-14",
-    "morning": [
+    "meals": [
       {
-        "product": "брокколи",
-        "grams": 90
+        "id": "morning",
+        "name": "",
+        "kind": "morning",
+        "entries": [
+          {
+            "product": "брокколи",
+            "grams": 90
+          }
+        ]
+      },
+      {
+        "id": "lunch",
+        "name": "",
+        "kind": "lunch",
+        "entries": []
+      },
+      {
+        "id": "evening",
+        "name": "",
+        "kind": "evening",
+        "entries": []
       }
     ],
-    "lunch": [],
-    "evening": [],
-    "notes": "Полная порция брокколи",
-    "eaten": {}
+    "notes": "Полная порция брокколи"
   },
   {
     "id": "d-013",
     "date": "2026-04-13",
-    "morning": [
+    "meals": [
       {
-        "product": "брокколи",
-        "grams": 80
+        "id": "morning",
+        "name": "",
+        "kind": "morning",
+        "entries": [
+          {
+            "product": "брокколи",
+            "grams": 80
+          }
+        ]
+      },
+      {
+        "id": "lunch",
+        "name": "",
+        "kind": "lunch",
+        "entries": [
+          {
+            "product": "кабачок",
+            "grams": 20
+          }
+        ]
+      },
+      {
+        "id": "evening",
+        "name": "",
+        "kind": "evening",
+        "entries": []
       }
     ],
-    "lunch": [
-      {
-        "product": "кабачок",
-        "grams": 20
-      }
-    ],
-    "evening": [],
-    "notes": "",
-    "eaten": {}
+    "notes": ""
   },
   {
     "id": "d-012",
     "date": "2026-04-12",
-    "morning": [
+    "meals": [
       {
-        "product": "брокколи",
-        "grams": 60
+        "id": "morning",
+        "name": "",
+        "kind": "morning",
+        "entries": [
+          {
+            "product": "брокколи",
+            "grams": 60
+          }
+        ]
+      },
+      {
+        "id": "lunch",
+        "name": "",
+        "kind": "lunch",
+        "entries": [
+          {
+            "product": "кабачок",
+            "grams": 40
+          }
+        ]
+      },
+      {
+        "id": "evening",
+        "name": "",
+        "kind": "evening",
+        "entries": []
       }
     ],
-    "lunch": [
-      {
-        "product": "кабачок",
-        "grams": 40
-      }
-    ],
-    "evening": [],
-    "notes": "",
-    "eaten": {}
+    "notes": ""
   },
   {
     "id": "d-011",
     "date": "2026-04-11",
-    "morning": [
+    "meals": [
       {
-        "product": "брокколи",
-        "grams": 40
+        "id": "morning",
+        "name": "",
+        "kind": "morning",
+        "entries": [
+          {
+            "product": "брокколи",
+            "grams": 40
+          }
+        ]
+      },
+      {
+        "id": "lunch",
+        "name": "",
+        "kind": "lunch",
+        "entries": [
+          {
+            "product": "кабачок",
+            "grams": 60
+          }
+        ]
+      },
+      {
+        "id": "evening",
+        "name": "",
+        "kind": "evening",
+        "entries": []
       }
     ],
-    "lunch": [
-      {
-        "product": "кабачок",
-        "grams": 60
-      }
-    ],
-    "evening": [],
-    "notes": "",
-    "eaten": {}
+    "notes": ""
   },
   {
     "id": "d-010",
     "date": "2026-04-10",
-    "morning": [
+    "meals": [
       {
-        "product": "брокколи",
-        "grams": 20
+        "id": "morning",
+        "name": "",
+        "kind": "morning",
+        "entries": [
+          {
+            "product": "брокколи",
+            "grams": 20
+          }
+        ]
+      },
+      {
+        "id": "lunch",
+        "name": "",
+        "kind": "lunch",
+        "entries": [
+          {
+            "product": "кабачок",
+            "grams": 80
+          }
+        ]
+      },
+      {
+        "id": "evening",
+        "name": "",
+        "kind": "evening",
+        "entries": []
       }
     ],
-    "lunch": [
-      {
-        "product": "кабачок",
-        "grams": 80
-      }
-    ],
-    "evening": [],
-    "notes": "",
-    "eaten": {}
+    "notes": ""
   },
   {
     "id": "d-009",
     "date": "2026-04-09",
-    "morning": [
+    "meals": [
       {
-        "product": "брокколи",
-        "grams": 10
+        "id": "morning",
+        "name": "",
+        "kind": "morning",
+        "entries": [
+          {
+            "product": "брокколи",
+            "grams": 10
+          }
+        ]
+      },
+      {
+        "id": "lunch",
+        "name": "",
+        "kind": "lunch",
+        "entries": [
+          {
+            "product": "кабачок",
+            "grams": 100
+          }
+        ]
+      },
+      {
+        "id": "evening",
+        "name": "",
+        "kind": "evening",
+        "entries": []
       }
     ],
-    "lunch": [
-      {
-        "product": "кабачок",
-        "grams": 100
-      }
-    ],
-    "evening": [],
-    "notes": "",
-    "eaten": {}
+    "notes": ""
   },
   {
     "id": "d-008",
     "date": "2026-04-08",
-    "morning": [
+    "meals": [
       {
-        "product": "брокколи",
-        "grams": 5
+        "id": "morning",
+        "name": "",
+        "kind": "morning",
+        "entries": [
+          {
+            "product": "брокколи",
+            "grams": 5
+          }
+        ]
+      },
+      {
+        "id": "lunch",
+        "name": "",
+        "kind": "lunch",
+        "entries": [
+          {
+            "product": "кабачок",
+            "grams": 100
+          }
+        ]
+      },
+      {
+        "id": "evening",
+        "name": "",
+        "kind": "evening",
+        "entries": []
       }
     ],
-    "lunch": [
-      {
-        "product": "кабачок",
-        "grams": 100
-      }
-    ],
-    "evening": [],
-    "notes": "Вводим брокколи",
-    "eaten": {}
+    "notes": "Вводим брокколи"
   },
   {
     "id": "d-007",
     "date": "2026-04-07",
-    "morning": [
+    "meals": [
       {
-        "product": "кабачок",
-        "grams": 100
+        "id": "morning",
+        "name": "",
+        "kind": "morning",
+        "entries": [
+          {
+            "product": "кабачок",
+            "grams": 100
+          }
+        ]
+      },
+      {
+        "id": "lunch",
+        "name": "",
+        "kind": "lunch",
+        "entries": []
+      },
+      {
+        "id": "evening",
+        "name": "",
+        "kind": "evening",
+        "entries": []
       }
     ],
-    "lunch": [],
-    "evening": [],
-    "notes": "Полная порция кабачка",
-    "eaten": {}
+    "notes": "Полная порция кабачка"
   },
   {
     "id": "d-006",
     "date": "2026-04-06",
-    "morning": [
+    "meals": [
       {
-        "product": "кабачок",
-        "grams": 80
+        "id": "morning",
+        "name": "",
+        "kind": "morning",
+        "entries": [
+          {
+            "product": "кабачок",
+            "grams": 80
+          }
+        ]
+      },
+      {
+        "id": "lunch",
+        "name": "",
+        "kind": "lunch",
+        "entries": []
+      },
+      {
+        "id": "evening",
+        "name": "",
+        "kind": "evening",
+        "entries": []
       }
     ],
-    "lunch": [],
-    "evening": [],
-    "notes": "",
-    "eaten": {}
+    "notes": ""
   },
   {
     "id": "d-005",
     "date": "2026-04-05",
-    "morning": [
+    "meals": [
       {
-        "product": "кабачок",
-        "grams": 60
+        "id": "morning",
+        "name": "",
+        "kind": "morning",
+        "entries": [
+          {
+            "product": "кабачок",
+            "grams": 60
+          }
+        ]
+      },
+      {
+        "id": "lunch",
+        "name": "",
+        "kind": "lunch",
+        "entries": []
+      },
+      {
+        "id": "evening",
+        "name": "",
+        "kind": "evening",
+        "entries": []
       }
     ],
-    "lunch": [],
-    "evening": [],
-    "notes": "",
-    "eaten": {}
+    "notes": ""
   },
   {
     "id": "d-004",
     "date": "2026-04-04",
-    "morning": [
+    "meals": [
       {
-        "product": "кабачок",
-        "grams": 40
+        "id": "morning",
+        "name": "",
+        "kind": "morning",
+        "entries": [
+          {
+            "product": "кабачок",
+            "grams": 40
+          }
+        ]
+      },
+      {
+        "id": "lunch",
+        "name": "",
+        "kind": "lunch",
+        "entries": []
+      },
+      {
+        "id": "evening",
+        "name": "",
+        "kind": "evening",
+        "entries": []
       }
     ],
-    "lunch": [],
-    "evening": [],
-    "notes": "Хорошо ест, увеличиваем порцию",
-    "eaten": {}
+    "notes": "Хорошо ест, увеличиваем порцию"
   },
   {
     "id": "d-003",
     "date": "2026-04-03",
-    "morning": [
+    "meals": [
       {
-        "product": "кабачок",
-        "grams": 20
+        "id": "morning",
+        "name": "",
+        "kind": "morning",
+        "entries": [
+          {
+            "product": "кабачок",
+            "grams": 20
+          }
+        ]
+      },
+      {
+        "id": "lunch",
+        "name": "",
+        "kind": "lunch",
+        "entries": []
+      },
+      {
+        "id": "evening",
+        "name": "",
+        "kind": "evening",
+        "entries": []
       }
     ],
-    "lunch": [],
-    "evening": [],
-    "notes": "",
-    "eaten": {}
+    "notes": ""
   },
   {
     "id": "d-002",
     "date": "2026-04-02",
-    "morning": [
+    "meals": [
       {
-        "product": "кабачок",
-        "grams": 10
+        "id": "morning",
+        "name": "",
+        "kind": "morning",
+        "entries": [
+          {
+            "product": "кабачок",
+            "grams": 10
+          }
+        ]
+      },
+      {
+        "id": "lunch",
+        "name": "",
+        "kind": "lunch",
+        "entries": []
+      },
+      {
+        "id": "evening",
+        "name": "",
+        "kind": "evening",
+        "entries": []
       }
     ],
-    "lunch": [],
-    "evening": [],
-    "notes": "",
-    "eaten": {}
+    "notes": ""
   },
   {
     "id": "d-001",
     "date": "2026-04-01",
-    "morning": [
+    "meals": [
       {
-        "product": "кабачок",
-        "grams": 40
+        "id": "morning",
+        "name": "",
+        "kind": "morning",
+        "entries": [
+          {
+            "product": "кабачок",
+            "grams": 40
+          },
+          {
+            "product": "какаша",
+            "grams": 90
+          }
+        ]
       },
       {
-        "product": "какаша",
-        "grams": 90
+        "id": "lunch",
+        "name": "",
+        "kind": "lunch",
+        "entries": []
+      },
+      {
+        "id": "evening",
+        "name": "",
+        "kind": "evening",
+        "entries": []
       }
     ],
-    "lunch": [],
-    "evening": [],
-    "notes": "Первый прикорм, начинаем с кабачка",
-    "eaten": {}
+    "notes": "Первый прикорм, начинаем с кабачка"
   }
 ]
