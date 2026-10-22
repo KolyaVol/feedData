@@ -40,6 +40,57 @@
     "notes": ""
   },
   {
+    "id": "1792658846690-hovulb5",
+    "date": "2026-10-27",
+    "meals": [
+      {
+        "id": "morning",
+        "name": "",
+        "kind": "morning",
+        "entries": [
+          {
+            "product": "",
+            "grams": 0
+          }
+        ]
+      },
+      {
+        "id": "lunch",
+        "name": "",
+        "kind": "lunch",
+        "entries": [
+          {
+            "product": "",
+            "grams": 0
+          }
+        ]
+      },
+      {
+        "id": "custom-1792658492123-az5ifwr",
+        "name": "полдник",
+        "kind": "custom",
+        "entries": [
+          {
+            "product": "",
+            "grams": 0
+          }
+        ]
+      },
+      {
+        "id": "evening",
+        "name": "",
+        "kind": "evening",
+        "entries": [
+          {
+            "product": "",
+            "grams": 0
+          }
+        ]
+      }
+    ],
+    "notes": ""
+  },
+  {
     "id": "1792658572569-qm1a0ng",
     "date": "2026-10-26",
     "meals": [
