@@ -88,7 +88,7 @@
         "kind": "lunch",
         "entries": [
           {
-            "product": "",
+            "product": "Хек",
             "grams": 0
           },
           {
@@ -107,7 +107,7 @@
         "kind": "evening",
         "entries": [
           {
-            "product": "",
+            "product": "Творог ",
             "grams": 0
           },
           {
