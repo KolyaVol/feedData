@@ -60,7 +60,7 @@
     "notes": ""
   },
   {
-    "id": "1792738993669-wai0w3g",
+    "id": "1792739063150-7f4zarj",
     "date": "2026-10-24",
     "meals": [
       {
@@ -89,6 +89,17 @@
         "id": "evening",
         "name": "",
         "kind": "evening",
+        "entries": [
+          {
+            "product": "",
+            "grams": 0
+          }
+        ]
+      },
+      {
+        "id": "custom-1792739043599-b8kyl2f",
+        "name": "Ужин",
+        "kind": "custom",
         "entries": [
           {
             "product": "",
