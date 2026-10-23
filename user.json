@@ -1,5 +1,65 @@
 [
   {
+    "id": "1792653705631-phws70a",
+    "date": "2026-10-23",
+    "meals": [
+      {
+        "id": "morning",
+        "name": "",
+        "kind": "morning",
+        "entries": [
+          {
+            "product": "Кукуруза ",
+            "grams": 163
+          },
+          {
+            "product": "Малина",
+            "grams": 36
+          },
+          {
+            "product": "Яблоко",
+            "grams": 49
+          }
+        ]
+      },
+      {
+        "id": "lunch",
+        "name": "",
+        "kind": "lunch",
+        "entries": [
+          {
+            "product": "Кролик ",
+            "grams": 0
+          },
+          {
+            "product": "Мультизлаковая каша",
+            "grams": 0
+          },
+          {
+            "product": "Цветная капуста",
+            "grams": 0
+          },
+          {
+            "product": "Морковь",
+            "grams": 0
+          }
+        ]
+      },
+      {
+        "id": "evening",
+        "name": "",
+        "kind": "evening",
+        "entries": [
+          {
+            "product": "Кефир ",
+            "grams": 0
+          }
+        ]
+      }
+    ],
+    "notes": ""
+  },
+  {
     "id": "1792569645672-3uxqovb",
     "date": "2026-10-22",
     "meals": [
@@ -60,7 +120,7 @@
           },
           {
             "product": "Творожное суфле",
-            "grams": 36
+            "grams": 72
           },
           {
             "product": "Грецкие орехи",
@@ -82,66 +142,6 @@
       }
     ],
     "notes": "Оливковое "
-  },
-  {
-    "id": "1792653705631-phws70a",
-    "date": "2026-10-23",
-    "meals": [
-      {
-        "id": "morning",
-        "name": "",
-        "kind": "morning",
-        "entries": [
-          {
-            "product": "Кукуруза ",
-            "grams": 163
-          },
-          {
-            "product": "Малина",
-            "grams": 0
-          },
-          {
-            "product": "Яблоко",
-            "grams": 0
-          }
-        ]
-      },
-      {
-        "id": "lunch",
-        "name": "",
-        "kind": "lunch",
-        "entries": [
-          {
-            "product": "Кролик ",
-            "grams": 0
-          },
-          {
-            "product": "Мультизлаковая каша",
-            "grams": 0
-          },
-          {
-            "product": "Цветная капуста",
-            "grams": 0
-          },
-          {
-            "product": "Морковь",
-            "grams": 0
-          }
-        ]
-      },
-      {
-        "id": "evening",
-        "name": "",
-        "kind": "evening",
-        "entries": [
-          {
-            "product": "Кефир ",
-            "grams": 0
-          }
-        ]
-      }
-    ],
-    "notes": ""
   },
   {
     "id": "1792482263340-0874yst",
