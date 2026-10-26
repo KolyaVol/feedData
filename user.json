@@ -1,88 +1,5 @@
 [
   {
-    "id": "1792826136707-6sbf1k5",
-    "date": "2026-10-25",
-    "meals": [
-      {
-        "id": "morning",
-        "name": "",
-        "kind": "morning",
-        "entries": [
-          {
-            "product": "Пшено",
-            "grams": 163
-          },
-          {
-            "product": "Малина",
-            "grams": 17
-          },
-          {
-            "product": "Творожное суфле",
-            "grams": 30
-          },
-          {
-            "product": "Яблоко",
-            "grams": 38
-          }
-        ]
-      },
-      {
-        "id": "lunch",
-        "name": "",
-        "kind": "lunch",
-        "entries": [
-          {
-            "product": "Цыплёнок ",
-            "grams": 0
-          },
-          {
-            "product": "Кус кус с овощами",
-            "grams": 0
-          },
-          {
-            "product": "Помидор ",
-            "grams": 0
-          },
-          {
-            "product": "Перец",
-            "grams": 0
-          }
-        ]
-      },
-      {
-        "id": "evening",
-        "name": "",
-        "kind": "evening",
-        "entries": [
-          {
-            "product": "Творожное суфле ",
-            "grams": 0
-          }
-        ]
-      },
-      {
-        "id": "custom-1792739043599-b8kyl2f",
-        "name": "Ужин",
-        "kind": "custom",
-        "entries": [
-          {
-            "product": "Йогурт",
-            "grams": 0
-          },
-          {
-            "product": "Творожное суфле",
-            "grams": 0
-          },
-          {
-            "product": "Грецкие орехи",
-            "grams": 0
-          }
-        ]
-      }
-    ],
-    "notes": "Оливковое "
-  },
-  {
     "id": "1792913451805-qaa5vue",
     "date": "2026-10-26",
     "meals": [
@@ -98,6 +15,10 @@
           {
             "product": "Малина",
             "grams": 0
+          },
+          {
+            "product": "Яблоко",
+            "grams": 48
           }
         ]
       },
@@ -147,7 +68,102 @@
         ]
       }
     ],
-    "notes": ""
+    "notes": "Кунжутное "
+  },
+  {
+    "id": "1792826136707-6sbf1k5",
+    "date": "2026-10-25",
+    "meals": [
+      {
+        "id": "morning",
+        "name": "",
+        "kind": "morning",
+        "entries": [
+          {
+            "product": "Пшено",
+            "grams": 163
+          },
+          {
+            "product": "Малина",
+            "grams": 17
+          },
+          {
+            "product": "Творожное суфле",
+            "grams": 30
+          },
+          {
+            "product": "Яблоко",
+            "grams": 38
+          }
+        ]
+      },
+      {
+        "id": "lunch",
+        "name": "",
+        "kind": "lunch",
+        "entries": [
+          {
+            "product": "Цыплёнок ",
+            "grams": 47
+          },
+          {
+            "product": "Кус кус с овощами",
+            "grams": 75
+          },
+          {
+            "product": "Помидор ",
+            "grams": 50
+          },
+          {
+            "product": "Груша ",
+            "grams": 10
+          }
+        ]
+      },
+      {
+        "id": "evening",
+        "name": "",
+        "kind": "evening",
+        "entries": [
+          {
+            "product": "Творожное суфле ",
+            "grams": 28
+          },
+          {
+            "product": "Груша",
+            "grams": 40
+          },
+          {
+            "product": "Мультизлаковая каша",
+            "grams": 72
+          }
+        ]
+      },
+      {
+        "id": "custom-1792739043599-b8kyl2f",
+        "name": "Ужин",
+        "kind": "custom",
+        "entries": [
+          {
+            "product": "Йогурт",
+            "grams": 100
+          },
+          {
+            "product": "Творожное суфле",
+            "grams": 28
+          },
+          {
+            "product": "Грецкие орехи",
+            "grams": 5
+          },
+          {
+            "product": "Мультизлаковая каша",
+            "grams": 40
+          }
+        ]
+      }
+    ],
+    "notes": "Оливковое "
   },
   {
     "id": "1792739063150-7f4zarj",
