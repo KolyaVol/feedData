@@ -71,10 +71,14 @@
         "entries": [
           {
             "product": "Йогурт ",
-            "grams": 0
+            "grams": 100
           },
           {
             "product": "Грецкие орехи",
+            "grams": 0
+          },
+          {
+            "product": "Кефирное суфле",
             "grams": 0
           }
         ]
