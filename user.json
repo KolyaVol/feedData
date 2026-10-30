@@ -1,5 +1,88 @@
 [
   {
+    "id": "1793258861414-gbw58f8",
+    "date": "2026-10-30",
+    "meals": [
+      {
+        "id": "morning",
+        "name": "",
+        "kind": "morning",
+        "entries": [
+          {
+            "product": "Пшеничная каша",
+            "grams": 201
+          },
+          {
+            "product": "Малина",
+            "grams": 34
+          },
+          {
+            "product": "Яблоко",
+            "grams": 0
+          },
+          {
+            "product": "Кефирное суфле",
+            "grams": 25
+          }
+        ]
+      },
+      {
+        "id": "lunch",
+        "name": "",
+        "kind": "lunch",
+        "entries": [
+          {
+            "product": "Говядина ",
+            "grams": 0
+          },
+          {
+            "product": "Перец",
+            "grams": 0
+          },
+          {
+            "product": "Тыква",
+            "grams": 0
+          }
+        ]
+      },
+      {
+        "id": "evening",
+        "name": "",
+        "kind": "evening",
+        "entries": [
+          {
+            "product": "Творог ",
+            "grams": 0
+          },
+          {
+            "product": "Кефирное суфле",
+            "grams": 0
+          },
+          {
+            "product": "Банан",
+            "grams": 0
+          }
+        ]
+      },
+      {
+        "id": "custom-1792739043599-b8kyl2f",
+        "name": "Ужин",
+        "kind": "custom",
+        "entries": [
+          {
+            "product": "Йогурт ",
+            "grams": 0
+          },
+          {
+            "product": "Творожное суфле",
+            "grams": 0
+          }
+        ]
+      }
+    ],
+    "notes": ""
+  },
+  {
     "id": "1793171615523-c5dfnc1",
     "date": "2026-10-29",
     "meals": [
@@ -89,89 +172,6 @@
       }
     ],
     "notes": "Оливковое "
-  },
-  {
-    "id": "1793258861414-gbw58f8",
-    "date": "2026-10-30",
-    "meals": [
-      {
-        "id": "morning",
-        "name": "",
-        "kind": "morning",
-        "entries": [
-          {
-            "product": "Пшеничная каша",
-            "grams": 201
-          },
-          {
-            "product": "Малина",
-            "grams": 0
-          },
-          {
-            "product": "Яблоко",
-            "grams": 0
-          },
-          {
-            "product": "Кефирное суфле",
-            "grams": 2
-          }
-        ]
-      },
-      {
-        "id": "lunch",
-        "name": "",
-        "kind": "lunch",
-        "entries": [
-          {
-            "product": "Говядина ",
-            "grams": 0
-          },
-          {
-            "product": "Перец",
-            "grams": 0
-          },
-          {
-            "product": "Тыква",
-            "grams": 0
-          }
-        ]
-      },
-      {
-        "id": "evening",
-        "name": "",
-        "kind": "evening",
-        "entries": [
-          {
-            "product": "Творог ",
-            "grams": 0
-          },
-          {
-            "product": "Кефирное суфле",
-            "grams": 0
-          },
-          {
-            "product": "Банан",
-            "grams": 0
-          }
-        ]
-      },
-      {
-        "id": "custom-1792739043599-b8kyl2f",
-        "name": "Ужин",
-        "kind": "custom",
-        "entries": [
-          {
-            "product": "Йогурт ",
-            "grams": 0
-          },
-          {
-            "product": "Творожное суфле",
-            "grams": 0
-          }
-        ]
-      }
-    ],
-    "notes": ""
   },
   {
     "id": "1793087389521-ds32xiv",
