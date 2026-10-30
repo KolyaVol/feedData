@@ -138,7 +138,7 @@
         "kind": "evening",
         "entries": [
           {
-            "product": "",
+            "product": "Творожное суфле",
             "grams": 0
           }
         ]
@@ -150,6 +150,10 @@
         "entries": [
           {
             "product": "Творожное суфле",
+            "grams": 0
+          },
+          {
+            "product": "Йогурт",
             "grams": 0
           }
         ]
