@@ -26,20 +26,7 @@
         "id": "lunch",
         "name": "",
         "kind": "lunch",
-        "entries": [
-          {
-            "product": "Хек",
-            "grams": 0
-          },
-          {
-            "product": "Тыква",
-            "grams": 0
-          },
-          {
-            "product": "Перец",
-            "grams": 0
-          }
-        ]
+        "entries": []
       },
       {
         "id": "evening",
@@ -56,6 +43,10 @@
           },
           {
             "product": "Перец",
+            "grams": 0
+          },
+          {
+            "product": "Макароны",
             "grams": 0
           }
         ]
