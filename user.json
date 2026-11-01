@@ -107,7 +107,11 @@
         "kind": "lunch",
         "entries": [
           {
-            "product": "",
+            "product": "Индейка с сердцем",
+            "grams": 0
+          },
+          {
+            "product": "Морковь",
             "grams": 0
           }
         ]
