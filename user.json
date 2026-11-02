@@ -71,15 +71,15 @@
         "entries": [
           {
             "product": "Йогурт ",
-            "grams": 0
+            "grams": 100
           },
           {
             "product": "Грецкие орехи",
-            "grams": 0
+            "grams": 4
           },
           {
             "product": "Творожное суфле",
-            "grams": 0
+            "grams": 77
           }
         ]
       }
