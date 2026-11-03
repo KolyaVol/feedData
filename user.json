@@ -52,7 +52,7 @@
         "entries": [
           {
             "product": "Помидор",
-            "grams": 55
+            "grams": 35
           },
           {
             "product": "Кролик",
@@ -69,6 +69,10 @@
           {
             "product": "Груша",
             "grams": 28
+          },
+          {
+            "product": "Яблоко",
+            "grams": 30
           }
         ]
       },
