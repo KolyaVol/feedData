@@ -90,6 +90,14 @@
           {
             "product": "Кукуруза ",
             "grams": 0
+          },
+          {
+            "product": "Киви",
+            "grams": 0
+          },
+          {
+            "product": "Яблоко",
+            "grams": 0
           }
         ]
       },
