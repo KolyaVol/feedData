@@ -52,11 +52,15 @@
         "entries": [
           {
             "product": "Кефир ",
-            "grams": 0
+            "grams": 171
           },
           {
             "product": "Груша",
             "grams": 47
+          },
+          {
+            "product": "Яблоко",
+            "grams": 46
           }
         ]
       },
