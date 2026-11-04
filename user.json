@@ -88,7 +88,11 @@
         "kind": "morning",
         "entries": [
           {
-            "product": "",
+            "product": "Пшеничная каша",
+            "grams": 0
+          },
+          {
+            "product": "Киви",
             "grams": 0
           }
         ]
