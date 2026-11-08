@@ -56,11 +56,11 @@
         "entries": [
           {
             "product": "Творог ",
-            "grams": 0
+            "grams": 65
           },
           {
-            "product": "Банан",
-            "grams": 0
+            "product": "Манго ",
+            "grams": 59
           },
           {
             "product": "Цветная капуста",
@@ -75,15 +75,15 @@
         "entries": [
           {
             "product": "Йогурт ",
-            "grams": 0
+            "grams": 100
           },
           {
             "product": "Грецкие орехи",
-            "grams": 0
+            "grams": 5
           },
           {
             "product": "Кефирное суфле",
-            "grams": 0
+            "grams": 40
           }
         ]
       }
