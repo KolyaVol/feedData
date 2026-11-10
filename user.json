@@ -21,19 +21,15 @@
         "entries": [
           {
             "product": "Говядина ",
-            "grams": 0
+            "grams": 47
           },
           {
             "product": "Тыква",
-            "grams": 37
+            "grams": 20
           },
           {
             "product": "Картофель",
             "grams": 20
-          },
-          {
-            "product": "Брокколи",
-            "grams": 35
           }
         ]
       },
@@ -56,7 +52,7 @@
           },
           {
             "product": "Тыква",
-            "grams": 33
+            "grams": 55
           },
           {
             "product": "Брокколи",
