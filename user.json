@@ -10,15 +10,7 @@
         "entries": [
           {
             "product": "Кукуруза ",
-            "grams": 259
-          },
-          {
-            "product": "Хурма",
-            "grams": 41
-          },
-          {
-            "product": "Яблоко",
-            "grams": 25
+            "grams": 30
           }
         ]
       },
@@ -53,6 +45,10 @@
           {
             "product": "Кефир ",
             "grams": 0
+          },
+          {
+            "product": "Кукуруза",
+            "grams": 229
           }
         ]
       },
