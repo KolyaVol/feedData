@@ -1,5 +1,158 @@
 [
   {
+    "id": "1794209454096-56xkdbk",
+    "date": "2026-11-10",
+    "meals": [
+      {
+        "id": "morning",
+        "name": "",
+        "kind": "morning",
+        "entries": [
+          {
+            "product": "Кукуруза ",
+            "grams": 259
+          },
+          {
+            "product": "Хурма",
+            "grams": 41
+          },
+          {
+            "product": "Яблоко",
+            "grams": 25
+          }
+        ]
+      },
+      {
+        "id": "lunch",
+        "name": "",
+        "kind": "lunch",
+        "entries": [
+          {
+            "product": "Говядина ",
+            "grams": 0
+          },
+          {
+            "product": "Тыква",
+            "grams": 0
+          },
+          {
+            "product": "Картофель",
+            "grams": 0
+          },
+          {
+            "product": "Брокколи",
+            "grams": 0
+          }
+        ]
+      },
+      {
+        "id": "evening",
+        "name": "",
+        "kind": "evening",
+        "entries": [
+          {
+            "product": "Кефир ",
+            "grams": 0
+          }
+        ]
+      },
+      {
+        "id": "custom-1792739043599-b8kyl2f",
+        "name": "Ужин",
+        "kind": "custom",
+        "entries": [
+          {
+            "product": "Йогурт ",
+            "grams": 0
+          },
+          {
+            "product": "Кефирное суфле",
+            "grams": 0
+          },
+          {
+            "product": "Грецкие орехи",
+            "grams": 0
+          }
+        ]
+      }
+    ],
+    "notes": "Кунжутное "
+  },
+  {
+    "id": "1794123282131-zvn7c7c",
+    "date": "2026-11-09",
+    "meals": [
+      {
+        "id": "morning",
+        "name": "",
+        "kind": "morning",
+        "entries": [
+          {
+            "product": "Гречка",
+            "grams": 120
+          },
+          {
+            "product": "Хурма",
+            "grams": 33
+          },
+          {
+            "product": "Яблоко",
+            "grams": 23
+          }
+        ]
+      },
+      {
+        "id": "lunch",
+        "name": "",
+        "kind": "lunch",
+        "entries": [
+          {
+            "product": "Говядина",
+            "grams": 47
+          },
+          {
+            "product": "Тыква",
+            "grams": 85
+          },
+          {
+            "product": "Картофель",
+            "grams": 65
+          },
+          {
+            "product": "Брокколи",
+            "grams": 28
+          }
+        ]
+      },
+      {
+        "id": "evening",
+        "name": "",
+        "kind": "evening",
+        "entries": [
+          {
+            "product": "Творожное суфле ",
+            "grams": 22
+          },
+          {
+            "product": "Гречка",
+            "grams": 104
+          },
+          {
+            "product": "Манго",
+            "grams": 47
+          }
+        ]
+      },
+      {
+        "id": "custom-1792739043599-b8kyl2f",
+        "name": "Ужин",
+        "kind": "custom",
+        "entries": []
+      }
+    ],
+    "notes": "Оливковое "
+  },
+  {
     "id": "1794036968470-xt808up",
     "date": "2026-11-08",
     "meals": [
@@ -83,91 +236,12 @@
           },
           {
             "product": "Кефирное суфле",
-            "grams": 40
+            "grams": 87
           }
         ]
       }
     ],
     "notes": "Кунжутное "
-  },
-  {
-    "id": "1794123282131-zvn7c7c",
-    "date": "2026-11-09",
-    "meals": [
-      {
-        "id": "morning",
-        "name": "",
-        "kind": "morning",
-        "entries": [
-          {
-            "product": "Гречка",
-            "grams": 0
-          },
-          {
-            "product": "Хурма",
-            "grams": 0
-          },
-          {
-            "product": "Яблоко",
-            "grams": 0
-          }
-        ]
-      },
-      {
-        "id": "lunch",
-        "name": "",
-        "kind": "lunch",
-        "entries": [
-          {
-            "product": "Говядина",
-            "grams": 0
-          },
-          {
-            "product": "Тыква",
-            "grams": 0
-          },
-          {
-            "product": "Картофель",
-            "grams": 0
-          },
-          {
-            "product": "Брокколи",
-            "grams": 0
-          }
-        ]
-      },
-      {
-        "id": "evening",
-        "name": "",
-        "kind": "evening",
-        "entries": [
-          {
-            "product": "Творожное суфле ",
-            "grams": 0
-          }
-        ]
-      },
-      {
-        "id": "custom-1792739043599-b8kyl2f",
-        "name": "Ужин",
-        "kind": "custom",
-        "entries": [
-          {
-            "product": "Йогурт ",
-            "grams": 0
-          },
-          {
-            "product": "Грецкие орехи",
-            "grams": 0
-          },
-          {
-            "product": "Творожное суфле",
-            "grams": 0
-          }
-        ]
-      }
-    ],
-    "notes": "Оливковое "
   },
   {
     "id": "1793950200678-9mbtlbg",
