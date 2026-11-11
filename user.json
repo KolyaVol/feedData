@@ -116,6 +116,10 @@
           {
             "product": "Творог ",
             "grams": 0
+          },
+          {
+            "product": "Груша",
+            "grams": 0
           }
         ]
       },
@@ -125,7 +129,7 @@
         "kind": "custom",
         "entries": [
           {
-            "product": "",
+            "product": "Йогурт ",
             "grams": 0
           }
         ]
