@@ -75,6 +75,57 @@
     "notes": "Оливковое "
   },
   {
+    "id": "1794382198275-8a7p4l6",
+    "date": "2026-11-12",
+    "meals": [
+      {
+        "id": "morning",
+        "name": "",
+        "kind": "morning",
+        "entries": [
+          {
+            "product": "",
+            "grams": 0
+          }
+        ]
+      },
+      {
+        "id": "lunch",
+        "name": "",
+        "kind": "lunch",
+        "entries": [
+          {
+            "product": "",
+            "grams": 0
+          }
+        ]
+      },
+      {
+        "id": "evening",
+        "name": "",
+        "kind": "evening",
+        "entries": [
+          {
+            "product": "",
+            "grams": 0
+          }
+        ]
+      },
+      {
+        "id": "custom-1792739043599-b8kyl2f",
+        "name": "Ужин",
+        "kind": "custom",
+        "entries": [
+          {
+            "product": "",
+            "grams": 0
+          }
+        ]
+      }
+    ],
+    "notes": ""
+  },
+  {
     "id": "1794209454096-56xkdbk",
     "date": "2026-11-10",
     "meals": [
