@@ -1,5 +1,254 @@
 [
   {
+    "id": "1794640101100-dz1stf5",
+    "date": "2026-11-15",
+    "meals": [
+      {
+        "id": "morning",
+        "name": "",
+        "kind": "morning",
+        "entries": [
+          {
+            "product": "Кукуруза ",
+            "grams": 140
+          },
+          {
+            "product": "Кефирное суфле",
+            "grams": 0
+          }
+        ]
+      },
+      {
+        "id": "lunch",
+        "name": "",
+        "kind": "lunch",
+        "entries": [
+          {
+            "product": "Форель ",
+            "grams": 0
+          },
+          {
+            "product": "Тыква",
+            "grams": 0
+          },
+          {
+            "product": "Картофель",
+            "grams": 0
+          }
+        ]
+      },
+      {
+        "id": "evening",
+        "name": "",
+        "kind": "evening",
+        "entries": [
+          {
+            "product": "Творог",
+            "grams": 0
+          },
+          {
+            "product": "Банан",
+            "grams": 0
+          }
+        ]
+      },
+      {
+        "id": "custom-1792739043599-b8kyl2f",
+        "name": "Ужин",
+        "kind": "custom",
+        "entries": [
+          {
+            "product": "Йогурт ",
+            "grams": 0
+          },
+          {
+            "product": "Грецкие орехи",
+            "grams": 0
+          },
+          {
+            "product": "Творожное суфле",
+            "grams": 0
+          }
+        ]
+      }
+    ],
+    "notes": "Оливковое "
+  },
+  {
+    "id": "1794554651975-u4siufb",
+    "date": "2026-11-14",
+    "meals": [
+      {
+        "id": "morning",
+        "name": "",
+        "kind": "morning",
+        "entries": [
+          {
+            "product": "Гречка ",
+            "grams": 130
+          },
+          {
+            "product": "Яблоко",
+            "grams": 23
+          }
+        ]
+      },
+      {
+        "id": "lunch",
+        "name": "",
+        "kind": "lunch",
+        "entries": [
+          {
+            "product": "Кролик ",
+            "grams": 68
+          },
+          {
+            "product": "Макароны",
+            "grams": 52
+          },
+          {
+            "product": "Цветная капуста",
+            "grams": 47
+          },
+          {
+            "product": "Батон",
+            "grams": 3
+          }
+        ]
+      },
+      {
+        "id": "evening",
+        "name": "",
+        "kind": "evening",
+        "entries": [
+          {
+            "product": "Кефир ",
+            "grams": 157
+          },
+          {
+            "product": "Гречка",
+            "grams": 55
+          }
+        ]
+      },
+      {
+        "id": "custom-1792739043599-b8kyl2f",
+        "name": "Ужин",
+        "kind": "custom",
+        "entries": [
+          {
+            "product": "Йогурт ",
+            "grams": 100
+          },
+          {
+            "product": "Грецкие орехи",
+            "grams": 5
+          },
+          {
+            "product": "Кефирное суфле",
+            "grams": 55
+          }
+        ]
+      }
+    ],
+    "notes": "Кунжутное "
+  },
+  {
+    "id": "1794469127638-0b8k3e0",
+    "date": "2026-11-13",
+    "meals": [
+      {
+        "id": "morning",
+        "name": "",
+        "kind": "morning",
+        "entries": [
+          {
+            "product": "Рис ",
+            "grams": 175
+          },
+          {
+            "product": "Яблоко",
+            "grams": 13
+          }
+        ]
+      },
+      {
+        "id": "lunch",
+        "name": "",
+        "kind": "lunch",
+        "entries": [
+          {
+            "product": "Индейка ",
+            "grams": 47
+          },
+          {
+            "product": "Перец",
+            "grams": 23
+          },
+          {
+            "product": "Макароны ",
+            "grams": 55
+          },
+          {
+            "product": "Цветная капуста",
+            "grams": 47
+          },
+          {
+            "product": "Батон",
+            "grams": 5
+          }
+        ]
+      },
+      {
+        "id": "evening",
+        "name": "",
+        "kind": "evening",
+        "entries": [
+          {
+            "product": "Груша ",
+            "grams": 43
+          },
+          {
+            "product": "Макароны ",
+            "grams": 43
+          },
+          {
+            "product": "Перец",
+            "grams": 18
+          },
+          {
+            "product": "Мультизлаковая каша",
+            "grams": 47
+          },
+          {
+            "product": "Свинина",
+            "grams": 5
+          }
+        ]
+      },
+      {
+        "id": "custom-1792739043599-b8kyl2f",
+        "name": "Ужин",
+        "kind": "custom",
+        "entries": [
+          {
+            "product": "Йогурт ",
+            "grams": 100
+          },
+          {
+            "product": "Грецкие орехи",
+            "grams": 4
+          },
+          {
+            "product": "Творожное суфле",
+            "grams": 64
+          }
+        ]
+      }
+    ],
+    "notes": "Оливковое "
+  },
+  {
     "id": "1794382198275-8a7p4l6",
     "date": "2026-11-12",
     "meals": [
@@ -85,81 +334,6 @@
       }
     ],
     "notes": "Кунжутное "
-  },
-  {
-    "id": "1794469127638-0b8k3e0",
-    "date": "2026-11-13",
-    "meals": [
-      {
-        "id": "morning",
-        "name": "",
-        "kind": "morning",
-        "entries": [
-          {
-            "product": "Рис ",
-            "grams": 0
-          },
-          {
-            "product": "Яблоко",
-            "grams": 0
-          }
-        ]
-      },
-      {
-        "id": "lunch",
-        "name": "",
-        "kind": "lunch",
-        "entries": [
-          {
-            "product": "Индейка ",
-            "grams": 0
-          },
-          {
-            "product": "Перец",
-            "grams": 0
-          },
-          {
-            "product": "Помидор",
-            "grams": 0
-          }
-        ]
-      },
-      {
-        "id": "evening",
-        "name": "",
-        "kind": "evening",
-        "entries": [
-          {
-            "product": "Творог ",
-            "grams": 0
-          },
-          {
-            "product": "Банан",
-            "grams": 0
-          }
-        ]
-      },
-      {
-        "id": "custom-1792739043599-b8kyl2f",
-        "name": "Ужин",
-        "kind": "custom",
-        "entries": [
-          {
-            "product": "Йогурт ",
-            "grams": 0
-          },
-          {
-            "product": "Грецкие орехи",
-            "grams": 0
-          },
-          {
-            "product": "Кефирное суфле",
-            "grams": 0
-          }
-        ]
-      }
-    ],
-    "notes": "Оливковое "
   },
   {
     "id": "1794312195159-yc439n1",
