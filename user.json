@@ -122,7 +122,11 @@
         "kind": "evening",
         "entries": [
           {
-            "product": "",
+            "product": "Творог",
+            "grams": 0
+          },
+          {
+            "product": "Банан",
             "grams": 0
           }
         ]
