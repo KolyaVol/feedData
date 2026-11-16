@@ -48,19 +48,11 @@
           },
           {
             "product": "Банан",
-            "grams": 0
+            "grams": 63
           },
           {
             "product": "Пшеничная каша",
             "grams": 42
-          },
-          {
-            "product": "Тыква",
-            "grams": 32
-          },
-          {
-            "product": "Картофель",
-            "grams": 18
           }
         ]
       },
