@@ -102,7 +102,7 @@
         "kind": "evening",
         "entries": [
           {
-            "product": "",
+            "product": "Кефир ",
             "grams": 0
           }
         ]
@@ -113,7 +113,7 @@
         "kind": "custom",
         "entries": [
           {
-            "product": "",
+            "product": "Йогурт ",
             "grams": 0
           }
         ]
