@@ -21,7 +21,7 @@
         "entries": [
           {
             "product": "Цыплёнок ",
-            "grams": 0
+            "grams": 47
           },
           {
             "product": "Тыква",
@@ -69,6 +69,57 @@
       }
     ],
     "notes": "Оливковое "
+  },
+  {
+    "id": "1794900449704-cjis8lu",
+    "date": "2026-11-18",
+    "meals": [
+      {
+        "id": "morning",
+        "name": "",
+        "kind": "morning",
+        "entries": [
+          {
+            "product": "",
+            "grams": 0
+          }
+        ]
+      },
+      {
+        "id": "lunch",
+        "name": "",
+        "kind": "lunch",
+        "entries": [
+          {
+            "product": "Цыплёнок ",
+            "grams": 0
+          }
+        ]
+      },
+      {
+        "id": "evening",
+        "name": "",
+        "kind": "evening",
+        "entries": [
+          {
+            "product": "",
+            "grams": 0
+          }
+        ]
+      },
+      {
+        "id": "custom-1792739043599-b8kyl2f",
+        "name": "Ужин",
+        "kind": "custom",
+        "entries": [
+          {
+            "product": "",
+            "grams": 0
+          }
+        ]
+      }
+    ],
+    "notes": ""
   },
   {
     "id": "1794728767265-imh5m1v",
