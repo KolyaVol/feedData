@@ -21,19 +21,23 @@
         "entries": [
           {
             "product": "Цыплёнок ",
-            "grams": 47
+            "grams": 45
           },
           {
             "product": "Тыква",
-            "grams": 0
+            "grams": 44
           },
           {
             "product": "Перец",
-            "grams": 0
+            "grams": 26
           },
           {
             "product": "Картофель",
-            "grams": 0
+            "grams": 33
+          },
+          {
+            "product": "Батон",
+            "grams": 5
           }
         ]
       },
@@ -44,7 +48,11 @@
         "entries": [
           {
             "product": "Пшено ",
-            "grams": 178
+            "grams": 96
+          },
+          {
+            "product": "Яйцо",
+            "grams": 42
           }
         ]
       },
@@ -55,11 +63,11 @@
         "entries": [
           {
             "product": "Йогурт ",
-            "grams": 0
+            "grams": 100
           },
           {
             "product": "Грецкие орехи",
-            "grams": 0
+            "grams": 5
           },
           {
             "product": "Творожное суфле",
