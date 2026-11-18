@@ -101,6 +101,10 @@
           {
             "product": "Свинина ",
             "grams": 0
+          },
+          {
+            "product": "Омлет",
+            "grams": 0
           }
         ]
       },
@@ -110,7 +114,7 @@
         "kind": "evening",
         "entries": [
           {
-            "product": "",
+            "product": "Творог ",
             "grams": 0
           }
         ]
