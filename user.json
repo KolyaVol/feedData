@@ -100,7 +100,7 @@
         "entries": [
           {
             "product": "Свинина ",
-            "grams": 0
+            "grams": 47
           },
           {
             "product": "Перец",
@@ -118,7 +118,7 @@
         "kind": "evening",
         "entries": [
           {
-            "product": "",
+            "product": "Кукуруза ",
             "grams": 0
           }
         ]
