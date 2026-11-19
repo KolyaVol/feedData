@@ -44,7 +44,7 @@
         "entries": [
           {
             "product": "Творог ",
-            "grams": 0
+            "grams": 70
           },
           {
             "product": "Банан",
@@ -52,11 +52,7 @@
           },
           {
             "product": "Гречка",
-            "grams": 0
-          },
-          {
-            "product": "Гречка",
-            "grams": 111
+            "grams": 68
           }
         ]
       },
