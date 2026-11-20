@@ -48,19 +48,15 @@
         "entries": [
           {
             "product": "Кукуруза ",
-            "grams": 76
+            "grams": 50
           },
           {
             "product": "Манго",
             "grams": 45
           },
           {
-            "product": "Творог",
-            "grams": 70
-          },
-          {
             "product": "Творожное суфле",
-            "grams": 0
+            "grams": 39
           }
         ]
       },
