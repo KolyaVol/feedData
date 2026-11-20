@@ -1,5 +1,72 @@
 [
   {
+    "id": "1795071294988-1achw2i",
+    "date": "2026-11-20",
+    "meals": [
+      {
+        "id": "morning",
+        "name": "",
+        "kind": "morning",
+        "entries": [
+          {
+            "product": "Кукуруза ",
+            "grams": 130
+          }
+        ]
+      },
+      {
+        "id": "lunch",
+        "name": "",
+        "kind": "lunch",
+        "entries": [
+          {
+            "product": "Свинина ",
+            "grams": 47
+          },
+          {
+            "product": "Перец",
+            "grams": 0
+          },
+          {
+            "product": "Брокколи",
+            "grams": 19
+          }
+        ]
+      },
+      {
+        "id": "evening",
+        "name": "",
+        "kind": "evening",
+        "entries": [
+          {
+            "product": "Кукуруза ",
+            "grams": 0
+          }
+        ]
+      },
+      {
+        "id": "custom-1792739043599-b8kyl2f",
+        "name": "Ужин",
+        "kind": "custom",
+        "entries": [
+          {
+            "product": "Грецкие орехи ",
+            "grams": 0
+          },
+          {
+            "product": "Йогурт",
+            "grams": 0
+          },
+          {
+            "product": "Творожное суфле",
+            "grams": 0
+          }
+        ]
+      }
+    ],
+    "notes": "Кунжутное "
+  },
+  {
     "id": "1795021025620-sr0n19p",
     "date": "2026-11-19",
     "meals": [
@@ -71,79 +138,12 @@
           },
           {
             "product": "Кефирное суфле",
-            "grams": 75
+            "grams": 67
           }
         ]
       }
     ],
     "notes": "Оливковое "
-  },
-  {
-    "id": "1795071294988-1achw2i",
-    "date": "2026-11-20",
-    "meals": [
-      {
-        "id": "morning",
-        "name": "",
-        "kind": "morning",
-        "entries": [
-          {
-            "product": "Кукуруза ",
-            "grams": 190
-          }
-        ]
-      },
-      {
-        "id": "lunch",
-        "name": "",
-        "kind": "lunch",
-        "entries": [
-          {
-            "product": "Свинина ",
-            "grams": 47
-          },
-          {
-            "product": "Перец",
-            "grams": 0
-          },
-          {
-            "product": "Брокколи",
-            "grams": 19
-          }
-        ]
-      },
-      {
-        "id": "evening",
-        "name": "",
-        "kind": "evening",
-        "entries": [
-          {
-            "product": "Кукуруза ",
-            "grams": 0
-          }
-        ]
-      },
-      {
-        "id": "custom-1792739043599-b8kyl2f",
-        "name": "Ужин",
-        "kind": "custom",
-        "entries": [
-          {
-            "product": "Грецкие орехи ",
-            "grams": 0
-          },
-          {
-            "product": "Йогурт",
-            "grams": 0
-          },
-          {
-            "product": "Творожное суфле",
-            "grams": 0
-          }
-        ]
-      }
-    ],
-    "notes": "Кунжутное "
   },
   {
     "id": "1794900449704-cjis8lu",
