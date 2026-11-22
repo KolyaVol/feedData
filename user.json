@@ -1,7 +1,7 @@
 [
   {
-    "id": "1795160194761-w29rc4v",
-    "date": "2026-11-21",
+    "id": "1795245476595-8rtjk81",
+    "date": "2026-11-22",
     "meals": [
       {
         "id": "morning",
@@ -9,8 +9,8 @@
         "kind": "morning",
         "entries": [
           {
-            "product": "Рис",
-            "grams": 115
+            "product": "Пшено ",
+            "grams": 130
           }
         ]
       },
@@ -21,15 +21,15 @@
         "entries": [
           {
             "product": "Говядина ",
-            "grams": 0
-          },
-          {
-            "product": "Цветная капуста",
-            "grams": 0
+            "grams": 47
           },
           {
             "product": "Мультизлаковая каша",
             "grams": 0
+          },
+          {
+            "product": "Цветная капуста",
+            "grams": 47
           }
         ]
       },
@@ -39,11 +39,7 @@
         "kind": "evening",
         "entries": [
           {
-            "product": "Кефир",
-            "grams": 0
-          },
-          {
-            "product": "Чернослив",
+            "product": "Кефир ",
             "grams": 0
           }
         ]
@@ -64,7 +60,70 @@
         ]
       }
     ],
-    "notes": ""
+    "notes": "Кунжутное "
+  },
+  {
+    "id": "1795160194761-w29rc4v",
+    "date": "2026-11-21",
+    "meals": [
+      {
+        "id": "morning",
+        "name": "",
+        "kind": "morning",
+        "entries": [
+          {
+            "product": "Рис",
+            "grams": 115
+          }
+        ]
+      },
+      {
+        "id": "lunch",
+        "name": "",
+        "kind": "lunch",
+        "entries": [
+          {
+            "product": "Рис",
+            "grams": 94
+          }
+        ]
+      },
+      {
+        "id": "evening",
+        "name": "",
+        "kind": "evening",
+        "entries": [
+          {
+            "product": "Цветная капуста ",
+            "grams": 47
+          },
+          {
+            "product": "Говядина",
+            "grams": 47
+          },
+          {
+            "product": "Рис",
+            "grams": 52
+          }
+        ]
+      },
+      {
+        "id": "custom-1792739043599-b8kyl2f",
+        "name": "Ужин",
+        "kind": "custom",
+        "entries": [
+          {
+            "product": "Йогурт ",
+            "grams": 100
+          },
+          {
+            "product": "Пшено ",
+            "grams": 50
+          }
+        ]
+      }
+    ],
+    "notes": "Оливковое "
   },
   {
     "id": "1795071294988-1achw2i",
