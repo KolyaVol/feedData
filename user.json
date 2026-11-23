@@ -114,7 +114,7 @@
         "kind": "evening",
         "entries": [
           {
-            "product": "",
+            "product": "Хек",
             "grams": 0
           }
         ]
@@ -130,6 +130,10 @@
           },
           {
             "product": "Грецкие орехи",
+            "grams": 0
+          },
+          {
+            "product": "Творожное суфле",
             "grams": 0
           }
         ]
