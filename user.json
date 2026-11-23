@@ -25,11 +25,11 @@
         "entries": [
           {
             "product": "Хек",
-            "grams": 0
+            "grams": 50
           },
           {
             "product": "Перец",
-            "grams": 0
+            "grams": 35
           },
           {
             "product": "Овсянка",
@@ -37,7 +37,7 @@
           },
           {
             "product": "Брокколи",
-            "grams": 0
+            "grams": 38
           }
         ]
       },
