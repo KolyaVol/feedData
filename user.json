@@ -66,7 +66,11 @@
         "kind": "custom",
         "entries": [
           {
-            "product": "",
+            "product": "Йогурт ",
+            "grams": 0
+          },
+          {
+            "product": "Грецкие орехи",
             "grams": 0
           }
         ]
