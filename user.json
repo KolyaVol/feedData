@@ -1,5 +1,64 @@
 [
   {
+    "id": "1795332292430-lodt2ne",
+    "date": "2026-11-23",
+    "meals": [
+      {
+        "id": "morning",
+        "name": "",
+        "kind": "morning",
+        "entries": [
+          {
+            "product": "Овсянка ",
+            "grams": 158
+          },
+          {
+            "product": "Кефирное суфле",
+            "grams": 0
+          }
+        ]
+      },
+      {
+        "id": "lunch",
+        "name": "",
+        "kind": "lunch",
+        "entries": [
+          {
+            "product": "Хек",
+            "grams": 0
+          },
+          {
+            "product": "Перец",
+            "grams": 0
+          }
+        ]
+      },
+      {
+        "id": "evening",
+        "name": "",
+        "kind": "evening",
+        "entries": [
+          {
+            "product": "Творог ",
+            "grams": 0
+          }
+        ]
+      },
+      {
+        "id": "custom-1792739043599-b8kyl2f",
+        "name": "Ужин",
+        "kind": "custom",
+        "entries": [
+          {
+            "product": "",
+            "grams": 0
+          }
+        ]
+      }
+    ],
+    "notes": ""
+  },
+  {
     "id": "1795245476595-8rtjk81",
     "date": "2026-11-22",
     "meals": [
@@ -77,65 +136,6 @@
       }
     ],
     "notes": "Кунжутное "
-  },
-  {
-    "id": "1795332292430-lodt2ne",
-    "date": "2026-11-23",
-    "meals": [
-      {
-        "id": "morning",
-        "name": "",
-        "kind": "morning",
-        "entries": [
-          {
-            "product": "Овсянка ",
-            "grams": 0
-          },
-          {
-            "product": "Кефирное суфле",
-            "grams": 0
-          }
-        ]
-      },
-      {
-        "id": "lunch",
-        "name": "",
-        "kind": "lunch",
-        "entries": [
-          {
-            "product": "Хек",
-            "grams": 0
-          },
-          {
-            "product": "Перец",
-            "grams": 0
-          }
-        ]
-      },
-      {
-        "id": "evening",
-        "name": "",
-        "kind": "evening",
-        "entries": [
-          {
-            "product": "Творог ",
-            "grams": 0
-          }
-        ]
-      },
-      {
-        "id": "custom-1792739043599-b8kyl2f",
-        "name": "Ужин",
-        "kind": "custom",
-        "entries": [
-          {
-            "product": "",
-            "grams": 0
-          }
-        ]
-      }
-    ],
-    "notes": ""
   },
   {
     "id": "1795160194761-w29rc4v",
