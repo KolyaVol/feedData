@@ -75,11 +75,11 @@
         "entries": [
           {
             "product": "Йогурт ",
-            "grams": 0
+            "grams": 100
           },
           {
             "product": "Грецкие орехи",
-            "grams": 0
+            "grams": 5
           },
           {
             "product": "Творожное суфле",
@@ -134,7 +134,7 @@
         "kind": "evening",
         "entries": [
           {
-            "product": "",
+            "product": "Кефир ",
             "grams": 0
           }
         ]
