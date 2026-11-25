@@ -1,5 +1,119 @@
 [
   {
+    "id": "1795541467578-tsv8qnm",
+    "date": "2026-11-25",
+    "meals": [
+      {
+        "id": "morning",
+        "name": "",
+        "kind": "morning",
+        "entries": [
+          {
+            "product": "Рис",
+            "grams": 220
+          }
+        ]
+      },
+      {
+        "id": "lunch",
+        "name": "",
+        "kind": "lunch",
+        "entries": [
+          {
+            "product": "Индейка с сердцем",
+            "grams": 0
+          },
+          {
+            "product": "Макароны",
+            "grams": 0
+          },
+          {
+            "product": "Перец",
+            "grams": 0
+          },
+          {
+            "product": "Брокколи",
+            "grams": 0
+          }
+        ]
+      },
+      {
+        "id": "evening",
+        "name": "",
+        "kind": "evening",
+        "entries": [
+          {
+            "product": "Кефир ",
+            "grams": 0
+          }
+        ]
+      },
+      {
+        "id": "custom-1792739043599-b8kyl2f",
+        "name": "Ужин",
+        "kind": "custom",
+        "entries": [
+          {
+            "product": "",
+            "grams": 0
+          }
+        ]
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "1795580182223-950tt7c",
+    "date": "2026-11-26",
+    "meals": [
+      {
+        "id": "morning",
+        "name": "",
+        "kind": "morning",
+        "entries": [
+          {
+            "product": "",
+            "grams": 0
+          }
+        ]
+      },
+      {
+        "id": "lunch",
+        "name": "",
+        "kind": "lunch",
+        "entries": [
+          {
+            "product": "",
+            "grams": 0
+          }
+        ]
+      },
+      {
+        "id": "evening",
+        "name": "",
+        "kind": "evening",
+        "entries": [
+          {
+            "product": "",
+            "grams": 0
+          }
+        ]
+      },
+      {
+        "id": "custom-1792739043599-b8kyl2f",
+        "name": "Ужин",
+        "kind": "custom",
+        "entries": [
+          {
+            "product": "",
+            "grams": 0
+          }
+        ]
+      }
+    ],
+    "notes": ""
+  },
+  {
     "id": "1795437232448-tq52660",
     "date": "2026-11-24",
     "meals": [
@@ -83,75 +197,12 @@
           },
           {
             "product": "Творожное суфле",
-            "grams": 0
+            "grams": 53
           }
         ]
       }
     ],
     "notes": "Кунжутное "
-  },
-  {
-    "id": "1795541467578-tsv8qnm",
-    "date": "2026-11-25",
-    "meals": [
-      {
-        "id": "morning",
-        "name": "",
-        "kind": "morning",
-        "entries": [
-          {
-            "product": "Рис",
-            "grams": 220
-          }
-        ]
-      },
-      {
-        "id": "lunch",
-        "name": "",
-        "kind": "lunch",
-        "entries": [
-          {
-            "product": "Индейка с сердцем",
-            "grams": 0
-          },
-          {
-            "product": "Макароны",
-            "grams": 0
-          },
-          {
-            "product": "Перец",
-            "grams": 0
-          },
-          {
-            "product": "Брокколи",
-            "grams": 0
-          }
-        ]
-      },
-      {
-        "id": "evening",
-        "name": "",
-        "kind": "evening",
-        "entries": [
-          {
-            "product": "Кефир ",
-            "grams": 0
-          }
-        ]
-      },
-      {
-        "id": "custom-1792739043599-b8kyl2f",
-        "name": "Ужин",
-        "kind": "custom",
-        "entries": [
-          {
-            "product": "",
-            "grams": 0
-          }
-        ]
-      }
-    ],
-    "notes": ""
   },
   {
     "id": "1795332292430-lodt2ne",
