@@ -104,7 +104,11 @@
         "kind": "morning",
         "entries": [
           {
-            "product": "",
+            "product": "Пшено ",
+            "grams": 0
+          },
+          {
+            "product": "Хурма",
             "grams": 0
           }
         ]
