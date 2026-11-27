@@ -1,5 +1,80 @@
 [
   {
+    "id": "1795664169148-0l45tec",
+    "date": "2026-11-27",
+    "meals": [
+      {
+        "id": "morning",
+        "name": "",
+        "kind": "morning",
+        "entries": [
+          {
+            "product": "Пшеничная каша",
+            "grams": 200
+          },
+          {
+            "product": "Хурма",
+            "grams": 27
+          }
+        ]
+      },
+      {
+        "id": "lunch",
+        "name": "",
+        "kind": "lunch",
+        "entries": [
+          {
+            "product": "Форель",
+            "grams": 0
+          },
+          {
+            "product": "Тыква",
+            "grams": 0
+          },
+          {
+            "product": "Цветная капуста",
+            "grams": 0
+          },
+          {
+            "product": "Картофель",
+            "grams": 0
+          }
+        ]
+      },
+      {
+        "id": "evening",
+        "name": "",
+        "kind": "evening",
+        "entries": [
+          {
+            "product": "Кролик ",
+            "grams": 0
+          }
+        ]
+      },
+      {
+        "id": "custom-1792739043599-b8kyl2f",
+        "name": "Ужин",
+        "kind": "custom",
+        "entries": [
+          {
+            "product": "Йогурт ",
+            "grams": 0
+          },
+          {
+            "product": "Творожное суфле",
+            "grams": 0
+          },
+          {
+            "product": "Грецкие орехи",
+            "grams": 0
+          }
+        ]
+      }
+    ],
+    "notes": "Кунжутное "
+  },
+  {
     "id": "1795580182223-950tt7c",
     "date": "2026-11-26",
     "meals": [
@@ -76,77 +151,6 @@
           {
             "product": "Кефирное суфле",
             "grams": 70
-          }
-        ]
-      }
-    ],
-    "notes": "Оливковое "
-  },
-  {
-    "id": "1795664169148-0l45tec",
-    "date": "2026-11-27",
-    "meals": [
-      {
-        "id": "morning",
-        "name": "",
-        "kind": "morning",
-        "entries": [
-          {
-            "product": "Пшеничная каша",
-            "grams": 200
-          }
-        ]
-      },
-      {
-        "id": "lunch",
-        "name": "",
-        "kind": "lunch",
-        "entries": [
-          {
-            "product": "Форель",
-            "grams": 0
-          },
-          {
-            "product": "Тыква",
-            "grams": 0
-          },
-          {
-            "product": "Цветная капуста",
-            "grams": 0
-          },
-          {
-            "product": "Картофель",
-            "grams": 0
-          }
-        ]
-      },
-      {
-        "id": "evening",
-        "name": "",
-        "kind": "evening",
-        "entries": [
-          {
-            "product": "Кролик ",
-            "grams": 0
-          }
-        ]
-      },
-      {
-        "id": "custom-1792739043599-b8kyl2f",
-        "name": "Ужин",
-        "kind": "custom",
-        "entries": [
-          {
-            "product": "Йогурт ",
-            "grams": 0
-          },
-          {
-            "product": "Творожное суфле",
-            "grams": 0
-          },
-          {
-            "product": "Грецкие орехи",
-            "grams": 0
           }
         ]
       }
