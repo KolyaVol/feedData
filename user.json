@@ -119,7 +119,11 @@
         "kind": "lunch",
         "entries": [
           {
-            "product": "",
+            "product": "Цыплёнок ",
+            "grams": 0
+          },
+          {
+            "product": "Тыква",
             "grams": 0
           }
         ]
