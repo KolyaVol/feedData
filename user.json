@@ -95,6 +95,57 @@
     "notes": "Кунжутное "
   },
   {
+    "id": "1795796010425-4aq5u3q",
+    "date": "2026-11-28",
+    "meals": [
+      {
+        "id": "morning",
+        "name": "",
+        "kind": "morning",
+        "entries": [
+          {
+            "product": "",
+            "grams": 0
+          }
+        ]
+      },
+      {
+        "id": "lunch",
+        "name": "",
+        "kind": "lunch",
+        "entries": [
+          {
+            "product": "",
+            "grams": 0
+          }
+        ]
+      },
+      {
+        "id": "evening",
+        "name": "",
+        "kind": "evening",
+        "entries": [
+          {
+            "product": "",
+            "grams": 0
+          }
+        ]
+      },
+      {
+        "id": "custom-1792739043599-b8kyl2f",
+        "name": "Ужин",
+        "kind": "custom",
+        "entries": [
+          {
+            "product": "",
+            "grams": 0
+          }
+        ]
+      }
+    ],
+    "notes": ""
+  },
+  {
     "id": "1795580182223-950tt7c",
     "date": "2026-11-26",
     "meals": [
