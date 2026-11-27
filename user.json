@@ -129,6 +129,10 @@
           {
             "product": "Цветная капуста",
             "grams": 0
+          },
+          {
+            "product": "Картофель",
+            "grams": 0
           }
         ]
       },
@@ -138,7 +142,7 @@
         "kind": "evening",
         "entries": [
           {
-            "product": "",
+            "product": "Кефир ",
             "grams": 0
           }
         ]
